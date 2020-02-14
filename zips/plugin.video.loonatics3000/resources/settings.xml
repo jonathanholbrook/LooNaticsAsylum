@@ -324,7 +324,7 @@
         <setting id="jen_name_cat-1" type="text" label="Name" default="[COLORred]Rev[/COLOR] [COLORcrimson]Run[/COLOR][COLORsalmon]Ner[/COLOR]" visible= "eq(-1,false)" enable="eq(-1,true)" />
         <setting id="jen_icon_cat-1" type="text" label="Icon Url" default="https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/art/rev.png" visible= "eq(-2,false)" enable="eq(-2,true)" />
         <setting id="jen_fan_cat-1" type="text" label="Fanart Url" default="https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/art/rev.jpg" visible= "eq(-3,false)" enable="eq(-3,true)" />
-        <setting id="Pastebin-1-1" label="Cat 1a" type="text" default="https://xjc.000webhostapp.com/LOONATICS3000/usersxml/rev.xml" visible= "eq(-4,false)" enable="eq(-4,true)"/>
+        <setting id="Pastebin-1-1" label="Cat 1a" type="text" default="https://pastebin.com/raw/RxHQk4Xyy99nkTHC" visible= "eq(-4,false)" enable="eq(-4,true)"/>
         <setting id="Pastebin-1-2" label="Cat 1b" type="text" default="" visible= "eq(-5,false)" enable="eq(-5,true)"/>
         <setting id="Pastebin-1-3" label="Cat 1c" type="text" default="" visible= "eq(-6,false)" enable="eq(-6,true)"/>
         <setting id="Pastebin-1-4" label="Cat 1d" type="text" default="" visible= "eq(-7,false)" enable="eq(-7,true)"/>

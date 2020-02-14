@@ -1,10 +1,16 @@
 ﻿Latest Changes...
 
+[COLORdeepskyblue][B]v20.2.13[/B][/COLOR]
+
+*Updated LooNatics Repository
+*Misc. fixes
+
 [COLORdeepskyblue][B]v20.2.10a[/B][/COLOR]
 
-Updated Loonatics Media Lists.
-Updated Loonatics artwork.
-Added more UserList sections in settings, this allows input of your own personal lists.
+*Updated Loonatics Media Lists.
+*Updated Loonatics artwork.
+*Added more UserList sections in settings, this allows input of your own
+ personal lists.
 
 
 [COLORdeepskyblue][B]v20.2.10[/B][/COLOR]
