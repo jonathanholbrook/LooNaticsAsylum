@@ -3,7 +3,7 @@
 
 <addon id="plugin.video.loonatics3000"
        name="  [COLORspringgreen]L[COLORpalegreen]o[COLORlime]o[COLORred]N[COLORcrimson]a[COLORmediumpurple]t[COLORmediumorchid]i[COLORorangered]c[COLORorange]s [COLORmagenta]3[COLORpink]0[COLORyellow]0[COLORkhaki]0[/COLOR]"
-       version="20.2.15"
+       version="20.2.16"
        provider-name="[COLORgreen]• [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]•[/COLOR] [COLORwhite]/[/COLOR] [COLORred]Rev[/COLOR] [COLORcrimson]Run[/COLOR][COLORsalmon]ner[/COLOR]">
   <requires>
     <import addon="plugin.video.SportsDevil" version="2019.05.24"/>
@@ -78,7 +78,7 @@
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
     </extension>
-    
+
 
     <extension point="xbmc.addon.metadata">
         <summary>f4mTester</summary>
@@ -97,11 +97,11 @@
    <import addon="script.module.dateutil" />
    <import addon="script.module.simplejson" />
    <import addon="script.module.six" />
-   <import addon="script.module.requests" />   
+   <import addon="script.module.requests" />
    <import addon="plugin.video.f4mTester" />
    <import addon="script.module.slproxy" />
   </requires>
-  <extension 
+  <extension
     point="xbmc.python.pluginsource"
     library="default.py">
    <provides>video</provides>
@@ -265,7 +265,7 @@
   <requires>
     <import addon="xbmc.python" version="2.24.0"/>
     <import addon="script.module.requests"/>
-	  <import addon="script.module.streamlink.base" />  
+      <import addon="script.module.streamlink.base" />
   </requires>
   <extension point="xbmc.python.module" library="lib/"/>
   <extension point="xbmc.addon.metadata">
@@ -315,7 +315,7 @@
         <import addon="script.module.requests"/>
         <import addon="script.module.six"/>
         <import addon="repository.universalscrapers"/>
-	<import addon="script.module.resolveurl" version="5.0.00" optional="true"/>
+    <import addon="script.module.resolveurl" version="5.0.00" optional="true"/>
 
                 <!--<import addon="script.mrknow.urlresolver" version="2016.10.30.2" optional="true"/>-->
     </requires>
