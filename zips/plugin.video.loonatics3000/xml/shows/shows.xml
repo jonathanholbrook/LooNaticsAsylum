@@ -1,0 +1,132 @@
+<xml>
+
+<dir>
+    <title>[COLORspringgreen]Trending[/COLOR] [COLORred]Shows[/COLOR]</title>
+    <trakt>https://api.trakt.tv/shows/trending</trakt>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORred]Popular[/COLOR] [COLORmediumpurple]Shows[/COLOR]</title>
+    <trakt>https://api.trakt.tv/shows/popular</trakt>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmediumpurple]Horror[/COLOR] [COLORdarkorange]TV[/COLOR] [COLORmagenta]Shows[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/hexes-and-ohs/lists/horror-tv/items</trakt>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]Sci-Fi[/COLOR] [COLORyellow]TV[/COLOR] [COLORspringgreen]Shows[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/istoit/lists/sci-fi-tv-shows/items</trakt>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORspringgreen]Comedy[/COLOR] [COLORred]TV[/COLOR] [COLORmediumpurple]Shows[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/istoit/lists/tv-comedy/items</trakt>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmediumpurple]Reality[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/istoit/lists/fav-reality-shows/items</trakt>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdarkorange]Classic[/COLOR] [COLORmagenta]TV[/COLOR] [COLORyellow]Shows[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/istoit/lists/classic-tv-shows/items</trakt>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORyellow]Binge[/COLOR] [COLORspringgreen]Watching[/COLOR] [COLORred]TV[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/istoit/lists/binge-box-tv/items</trakt>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORred]All[/COLOR] [COLORmediumpurple]Genres[/COLOR]</title>
+    <link>file://shows/genretv.xml</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmediumpurple]All[/COLOR] [COLORdarkorange]Networks[/COLOR]</title>
+    <link>file://shows/networks.xml</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdarkorange]Amazon[/COLOR]</title>
+    <tmdb>network/shows/1024</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+    <fantart></fantart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]NeFlix[/COLOR]</title>
+    <tmdb>network/shows/213</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+    <fantart></fantart>
+</dir>
+
+<dir>
+    <title>[COLORyellow]Hulu[/COLOR]</title>
+    <tmdb>network/shows/453</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+    <fantart></fantart>
+</dir>
+
+<dir>
+    <title>[COLORspringgreen]TMDB[/COLOR] [COLORred]Top[/COLOR] [COLORmediumpurple]Rated[/COLOR]</title>
+    <tmdb>tv/top_rated</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmediumpurple]TMDB[/COLOR] [COLORdarkorange]Airing[/COLOR] [COLORmagenta]Today[/COLOR]</title>
+    <tmdb>tv/today</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]TMDB[/COLOR] [COLORyellow]Animations[/COLOR] [COLORspringgreen]Shows[/COLOR]</title>
+    <tmdb>genre/shows/16</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORspringgreen]TMDB[/COLOR] [COLORred]Reality[/COLOR] [COLORmediumpurple]Shows[/COLOR]</title>
+    <tmdb>genre/shows/10764</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdeepskyblue]S[COLORblue]e[COLORlightsteelblue]a[COLORdeepskyblue]r[COLORblue]c[COLORlightsteelblue]h[/COLOR]</title>
+    <tmdb>search</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon5.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+</xml>

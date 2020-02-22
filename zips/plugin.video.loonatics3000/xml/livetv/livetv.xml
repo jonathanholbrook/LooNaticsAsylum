@@ -1,0 +1,83 @@
+<dir>
+    <title>[COLORspringgreen]24 / 7[/COLOR]</title>
+    <link>file://livetv/247.xml</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORred]Watch Your TV[/COLOR]</title>
+    <wytv>get</wytv>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdeepskyblue]Fluxus [COLORblue]IPTV[/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://bit.ly/FluxusTV-IPTV</link>
+    <thumbnail>https://3.bp.blogspot.com/-H29TnFg5qi8/XJRl9LkCOPI/AAAAAAAAERM/NMz9wJR8iksFemvDu1kGWb9soX41HopxgCLcBGAs/s1600/NewFTV-IPTV-C.png</thumbnail>
+     <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdeepskyblue]Fluxus [COLORblue]LodgeTv[/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://bit.ly/ltv-english</link>
+    <thumbnail>https://4.bp.blogspot.com/-Eg90Vh8Redo/W1jD5cl7sVI/AAAAAAAADjQ/b0uHeL1gjkkwKvqjhS-X0LpLqzVgPqaaACLcBGAs/s1600/LodgeTV_Playlist.png</thumbnail>
+     <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdeepskyblue]Fluxus [COLORblue]Spanish [COLORlightsteelblue]LodgeTv[/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://bit.ly/ltv-spanish</link>
+    <thumbnail>https://2.bp.blogspot.com/-BmmGMHEZCs8/WrC8V_pxIkI/AAAAAAAAC38/GwFEveZOzbESue6aBQbhaDmDsiEFMS3ZACLcBGAs/s320/LTV-SPANISH.png</thumbnail>
+     <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<plugin>
+    <title>[COLORdeepskyblue]Fluxus [COLORblue]Radio[/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://bit.ly/FluxusTV-Radio</link>
+    <thumbnail>https://3.bp.blogspot.com/-FpstPKST3TY/XJRmE7BmF9I/AAAAAAAAERY/ijxe44PpW44-poO8lJtn6DDosT8NTdF9ACLcBGAs/s1600/NewFTV-Radio-C.png</thumbnail>
+     <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>[COLORdeepskyblue]Fluxus [COLORblue]Cinema[/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://bit.ly/fcine-eng</link>
+    <thumbnail>https://4.bp.blogspot.com/-ZZqJn4FryWg/XJRmGu4-VCI/AAAAAAAAERc/jaMATsU_G-guuWW4et-rZGWi785ORI_BwCLcBGAs/s1600/NewFTV-Cinema-C.png</thumbnail>
+     <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>[COLORdeepskyblue]Fluxus [COLORblue]Faith[/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://bit.ly/FluxusTV-Faith</link>
+    <thumbnail>https://4.bp.blogspot.com/-lvMA8to7-OE/XJRmAl28WOI/AAAAAAAAERQ/4YeZCwNftqYe0VVs-H3fXUQh-GQHMpH4ACLcBGAs/s1600/NewFTV-Faith-C.png</thumbnail>
+     <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>[COLORdeepskyblue]Fluxus [COLORblue]CCTV[/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://bit.ly/FluxusTV-CCTV</link>
+    <thumbnail>https://1.bp.blogspot.com/-JUS1sS5pwKk/XJRmC7v9G8I/AAAAAAAAERU/52fzGo9x_Us71UUyskUOIbrfY1Oe4g6hQCLcBGAs/s1600/NewFTV-CCTV-C.png</thumbnail>
+     <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<dir >
+   <title>Arconai 2</title>
+   <arconaitv2>cable</arconaitv2>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir >
+
+<dir >
+    <title>Airtable Live</title>
+    <link>file://livetv/airtable.xml</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir >
+
+<dir >
+     <title>Newscasts By State</title>
+     <newson>states/newscast</newson>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir >
