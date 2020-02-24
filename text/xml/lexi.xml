@@ -1,7 +1,43 @@
+
 <dir>
-    <title>[COLORmagenta]Lead Female[/COLOR] [COLORpink]Action[/COLOR] [COLORhotpink]Movies[/COLOR]</title>
+    <title>[COLORmagenta]Best[/COLOR] [COLORpink]Women[/COLOR] [COLORhotpink]Action[/COLOR] [COLORmagenta]Movies[/COLOR]</title>
     <imdburl>list/ls003456810</imdburl>
-    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]Hallmark[/COLOR] [COLORpink]Movies[/COLOR]</title>
+    <imdburl>list/ls056346625</imdburl>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]Women[/COLOR] [COLORpink]Rule[/COLOR] [COLORhotpink]Movies[/COLOR]</title>
+    <imdburl>list/ls053903659</imdburl>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]Female[/COLOR] [COLORpink]Lead[/COLOR] [COLORhotpink]Roles[/COLOR]</title>
+    <imdburl>list/ls026320777</imdburl>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]Women-[/COLOR][COLORpink]Centric[/COLOR] [COLORhotpink]Films[/COLOR]</title>
+    <imdburl>list/ls040363321</imdburl>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]1000[/COLOR] [COLORpink]Greatest[/COLOR] [COLORhotpink]Female[/COLOR] [COLORmagenta]Actress[/COLOR]</title>
+    <imdburl>list/ls026093645</imdburl>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
 </dir>
 
