@@ -1,4 +1,3 @@
-[COLORmediumpurple]BLANK[/COLOR] [COLORmediumorchid]BLANK[/COLOR] [COLORpurple]BLANK[/COLOR]
 
 <dir>
     <title>[COLORmediumpurple]Disney[/COLOR] [COLORmediumorchid]Movies[/COLOR]</title>
@@ -7,12 +6,12 @@
     <fanart></fanart>
 </dir>
 
-<dir>
+<dir >
     <title>[COLORmediumpurple]Disney[/COLOR] [COLORmediumorchid]Channel[/COLOR] [COLORpurple]TV Shows[/COLOR]</title>
     <imdburl>list/ls070482788</imdburl>
     <thumbnail></thumbnail>
     <fanart></fanart>
-</dir>
+</dir >
 
 <dir>
     <title>[COLORmediumpurple]Pixar[/COLOR] [COLORmediumorchid]Movies[/COLOR]</title>
@@ -35,12 +34,12 @@
     <fanart></fanart>
 </dir>
 
-<dir>
+<dir >
     <title>[COLORmediumpurple]Nick[/COLOR] [COLORmediumorchid]Series[/COLOR]</title>
     <imdburl>list/ls008045560</imdburl>
     <thumbnail></thumbnail>
     <fanart></fanart>
-</dir>
+</dir >
 
 <dir>
     <title>[COLORmediumpurple]Lego[/COLOR] [COLORmediumorchid]Movies[/COLOR]</title>
@@ -53,12 +52,12 @@
 <title>[COLORmediumpurple][B]BigKid[/B][/COLOR] [COLORmediumorchid][B]Movies[/B][/COLOR]</title>
 <item>
 
-<dir>
+<dir >
     <title>[COLORmediumpurple]Modern[/COLOR] [COLORmediumorchid]Adult[/COLOR] [COLORpurple]and Big Kid Toons[/COLOR]</title>
     <imdburl>list/ls056966166</imdburl>
     <thumbnail></thumbnail>
     <fanart></fanart>
-</dir>
+</dir >
 
 <dir>
     <title>[COLORmediumpurple]Teen[/COLOR] [COLORmediumorchid]Spy[/COLOR] [COLORpurple]Movies[/COLOR]</title>
@@ -68,7 +67,7 @@
 </dir>
 
 <dir>
-    <title>[COLORmediumpurple]Adventure[/COLOR] [COLORmediumorchid]Movies[/COLOR]</title>
+    <title>[COLORmediumpurple]Teen[/COLOR] [COLORmediumorchid]Adventure[/COLOR] [COLORpurple]Movies[/COLOR]</title>
     <imdburl>list/ls062383146</imdburl>
     <thumbnail></thumbnail>
     <fanart></fanart>
