@@ -1,0 +1,31 @@
+<xml>
+
+<dir>
+    <title>[COLORspringgreen]Kids Boxsets[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/xml/kids/kidsbox.xml</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORred]Kids YouTube[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/xml/kids/kidsyt.xml</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmediumpurple]Trakt Kids[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/xml/kids/kidstrakt.xml</link> 
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+  
+<dir>
+    <title>[COLORdarkorange]TMDb Kids[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/xml/kids/kidstrakt.xml</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+</xml>

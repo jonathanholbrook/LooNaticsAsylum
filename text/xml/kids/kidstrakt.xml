@@ -1,0 +1,66 @@
+<xml>
+
+<dir>
+    <title>Family</title>
+    <trakt>https://api.trakt.tv/users/movistapp/lists/family/items</trakt>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>Kids Movies</title>
+    <trakt>https://api.trakt.tv/users/ksiciunas29/lists/kids-movies/items</trakt>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir> 
+	
+<dir>
+    <title>Walt Disney Animated Feature Films</title>
+    <trakt>https://api.trakt.tv/users/movistapp/lists/walt-disney-animated-feature-films/items</trakt>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>Pixar Movies</title>
+    <trakt>https://api.trakt.tv/users/selkcer/lists/pixar/items</trakt>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>Animation</title>
+    <trakt>https://api.trakt.tv/users/movistapp/lists/animation/items</trakt>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir> 
+    <title>DreamWorks Animation</title>
+    <trakt>https://api.trakt.tv/users/movistapp/lists/dreamworks-animation/items</trakt>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir> 
+    <title>Animated TV Shows</title>
+    <trakt>https://api.trakt.tv/users/christominna/lists/childhood-animated-tv-shows/items</trakt>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir> 
+    <title>Cartoons</title>
+    <trakt>https://api.trakt.tv/users/chipmantech/lists/cartoon-series/items</trakt>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir >
+    <title>Search Trakt</title>
+    <trakt>search</trakt>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir >
+
+</xml>

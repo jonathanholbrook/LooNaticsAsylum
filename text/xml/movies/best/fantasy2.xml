@@ -1,0 +1,31 @@
+<xml>
+
+<dir>
+    <title>[COLORspringgreen]Fantasy[/COLOR] [COLORred]Movies[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/xml/movies/best/bestfantasy.xml</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORred]Tolkien[/COLOR] [COLORmediumpurple]Movies[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/xml/movies/best/tolkien.xml</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmediumpurple]Harry[/COLOR] [COLORdarkorange]Potter[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/xml/movies/best/potter.xml</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdeepskyblue]S[COLORblue]e[COLORlightsteelblue]a[COLORdeepskyblue]r[COLORblue]c[COLORlightsteelblue]h[/COLOR]</title>
+    <tmdb>search</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon5.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+</xml>

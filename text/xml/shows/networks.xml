@@ -1,0 +1,594 @@
+<dir>
+    <title>[COLORspringgreen]A&E[/COLOR]</title>
+    <tmdb>network/shows/129</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORred]ABC - Australia[/COLOR]</title>
+    <tmdb>network/shows/18</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmediumpurple]ABC - US[/COLOR]</title>
+    <tmdb>network/shows/2</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdarkorange]ABC Family[/COLOR]</title>
+    <tmdb>network/shows/75</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]Adult Swim[/COLOR]</title>
+    <tmdb>network/shows/80</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORyellow]Amazon[/COLOR]</title>
+    <tmdb>network/shows/1024</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORspringgreen]AMC[/COLOR]</title>
+    <tmdb>network/shows/174</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORred]Animal Planet[/COLOR]</title>
+    <tmdb>network/shows/91</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmediumpurple]Animax[/COLOR]</title>
+    <tmdb>network/shows/171</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdarkorange]BET[/COLOR]</title>
+    <tmdb>network/shows/24</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]BBC[/COLOR]</title>
+    <tmdb>network/shows/7</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORyellow]BBC America[/COLOR]</title>
+    <tmdb>network/shows/493</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORspringgreen]BBC One[/COLOR]</title>
+    <tmdb>network/shows/4</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORred]BBC Three[/COLOR]</title>
+    <tmdb>network/shows/3</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmediumpurple]BBC Four[/COLOR]</title>
+    <tmdb>network/shows/100</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdarkorange]Biography[/COLOR]</title>
+    <tmdb>network/shows/423</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]Bravo[/COLOR]</title>
+    <tmdb>network/shows/74</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORyellow]Cartoon Network[/COLOR]</title>
+    <tmdb>network/shows/56</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORspringgreen]CBC[/COLOR]</title>
+    <tmdb>network/shows/23</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORred]CBS[/COLOR]</title>
+    <tmdb>network/shows/16</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmediumpurple]Channel 4[/COLOR]</title>
+    <tmdb>network/shows/26</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdarkorange]Channel 5[/COLOR]</title>
+    <tmdb>network/shows/99</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]Cinemax[/COLOR]</title>
+    <tmdb>network/shows/359</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORyellow]City TV[/COLOR]</title>
+    <tmdb>network/shows/92</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORspringgreen]CMT[/COLOR]</title>
+    <tmdb>network/shows/85</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORred]CNBC[/COLOR]</title>
+    <tmdb>network/shows/175</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmediumpurple]CNN[/COLOR]</title>
+    <tmdb>network/shows/59</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdarkorange]Comedy Central[/COLOR]</title>
+    <tmdb>network/shows/47</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]CTV[/COLOR]</title>
+    <tmdb>network/shows/110</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORyellow]The CW[/COLOR]</title>
+    <tmdb>network/shows/71</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORspringgreen]DIY Network[/COLOR]</title>
+    <tmdb>network/shows/625</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORred]Destination America[/COLOR]</title>
+    <tmdb>network/shows/530</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmediumpurple]Discovery[/COLOR]</title>
+    <tmdb>network/shows/64</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdarkorange]Discovery Health[/COLOR]</title>
+    <tmdb>network/shows/10</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]Discovery Kids[/COLOR]</title>
+    <tmdb>network/shows/22</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORyellow]Disney Channel[/COLOR]</title>
+    <tmdb>network/shows/54</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORspringgreen]Disney XD[/COLOR]</title>
+    <tmdb>network/shows/44</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORred]E![/COLOR]</title>
+    <tmdb>network/shows/76</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmediumpurple]E4[/COLOR]</title>
+    <tmdb>network/shows/136</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdarkorange]Food Network[/COLOR]</title>
+    <tmdb>network/shows/143</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]Fox[/COLOR]</title>
+    <tmdb>network/shows/19</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORyellow]Fuji TV[/COLOR]</title>
+    <tmdb>network/shows/1</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORspringgreen]Funimation[/COLOR]</title>
+    <tmdb>network/shows/728</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORred]FX[/COLOR]</title>
+    <tmdb>network/shows/88</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmediumpurple]FYI[/COLOR]</title>
+    <tmdb>network/shows/1080</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdarkorange]Hallmark[/COLOR]</title>
+    <tmdb>network/shows/384</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]HBO[/COLOR]</title>
+    <tmdb>network/shows/49</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORyellow]HGTV[/COLOR]</title>
+    <tmdb>network/shows/210</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORspringgreen]History[/COLOR]</title>
+    <tmdb>network/shows/65</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORred]Hulu[/COLOR]</title>
+    <tmdb>network/shows/453</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmediumpurple]Investigation Discovery[/COLOR]</title>
+    <tmdb>network/shows/244</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdarkorange]ITV[/COLOR]</title>
+    <tmdb>network/shows/9</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]The Lifestyle Channel[/COLOR]</title>
+    <tmdb>network/shows/683</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORyellow]Lifetime[/COLOR]</title>
+    <tmdb>network/shows/34</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORspringgreen]The Movie Network[/COLOR]</title>
+    <tmdb>network/shows/245</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORred]MSNBC[/COLOR]</title>
+    <tmdb>network/shows/37</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmediumpurple]MTV[/COLOR]</title>
+    <tmdb>network/shows/33</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdarkorange]Nat Geo Wild[/COLOR]</title>
+    <tmdb>network/shows/1043</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]National Geographic Channel[/COLOR]</title>
+    <tmdb>network/shows/43</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORyellow]NBC[/COLOR]</title>
+    <tmdb>network/shows/6</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORspringgreen]Netflix[/COLOR]</title>
+    <tmdb>network/shows/213</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORred]Network Ten[/COLOR]</title>
+    <tmdb>network/shows/38</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmediumpurple]Nickelodeon[/COLOR]</title>
+    <tmdb>network/shows/13</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdarkorange]Nick Jr[/COLOR]</title>
+    <tmdb>network/shows/35</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]NickToons[/COLOR]</title>
+    <tmdb>network/shows/224</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORyellow]Oxygen[/COLOR]</title>
+    <tmdb>network/shows/132</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORspringgreen]PBS[/COLOR]</title>
+    <tmdb>network/shows/14</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORred]Showcase[/COLOR]</title>
+    <tmdb>network/shows/105</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmediumpurple]Showtime[/COLOR]</title>
+    <tmdb>network/shows/67</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdarkorange]Space[/COLOR]</title>
+    <tmdb>network/shows/170</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]Spike[/COLOR]</title>
+    <tmdb>network/shows/55</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORyellow]Starz[/COLOR]</title>
+    <tmdb>network/shows/318</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORspringgreen]SyFy[/COLOR]</title>
+    <tmdb>network/shows/77</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORred]TBS[/COLOR]</title>
+    <tmdb>network/shows/68</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmediumpurple]Teletoon[/COLOR]</title>
+    <tmdb>network/shows/83</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdarkorange]TLC[/COLOR]</title>
+    <tmdb>network/shows/84</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]TNT[/COLOR]</title>
+    <tmdb>network/shows/41</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORyellow]Travel Channel[/COLOR]</title>
+    <tmdb>network/shows/209</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORspringgreen]TV Land[/COLOR]</title>
+    <tmdb>network/shows/397</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORred]UPN[/COLOR]</title>
+    <tmdb>network/shows/40</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmediumpurple]USA[/COLOR]</title>
+    <tmdb>network/shows/30</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdarkorange]VH1[/COLOR]</title>
+    <tmdb>network/shows/158</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]Velocity[/COLOR]</title>
+    <tmdb>network/shows/435</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORyellow]The WB[/COLOR]</title>
+    <tmdb>network/shows/21</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORspringgreen]YTV[/COLOR]</title>
+    <tmdb>network/shows/46</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>

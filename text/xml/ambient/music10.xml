@@ -1,0 +1,87 @@
+<xml>
+
+<dir>
+<title>Music & Ambience</title>
+<link>http://elekta.info/enigma2/soundtrack.xml</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<plugin>
+<title>Music to Chill</title>
+<link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102CeGOJAUsgcFOjWdUuK0tao/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>Latin Lounge</title>
+<link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102CNv3e0N-RkADSuhsofZRef/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>Bossa Cafe</title>
+<link>plugin://plugin.video.youtube/playlist/PLe1CT6SJJchrBe0eK1KC5xQK7CUWarmeE/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>Jazz Vocals</title>
+<link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102A44oxaU7TDecmLLL_FFcc6/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>100 years of Jazz</title>
+<link>plugin://plugin.video.youtube/playlist/PL3aCEm5vpR8l7NQ0BXqUwkQ-BgaojJacs/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<dir>
+<title>Beastie Boys Chillin'</title>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/xml/music/bboys.xml</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<plugin>
+<title>Dead / Phish Jams</title>
+<link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102CI5rVhQoBdm4XqOk59Cghr/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<item>
+<title>Pink Floyd / Visuals</title>
+<link>https://www.youtube.com/watch?v=4oh7lct04Us&t=1175s</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</item>
+
+<plugin>
+<title>Tarantino Soundtracks Mix</title>
+<link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102BwKPjgGCLWwXEcRbLfXWFD/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>Deadpool Soundtracks Mix</title>
+<link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102CMN6jpbSsM7ADRCHQ8hdKQ/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>Guardians Awesome Mix</title>
+<link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102BD6b_csarDPvkKJVvBqHu6/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+</xml>
