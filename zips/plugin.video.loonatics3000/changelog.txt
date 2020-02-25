@@ -5,12 +5,23 @@ DEAULT SETTINGS AFTER ANY / ALL UPDATES...[/B][/COLOR]
 
 [COLORred]You might need to delete addon user data![/COLOR]
 
+
+[COLORdeepskyblue][B]v20.2.24[/B][/COLOR]
+
+* Added Slam's List
+* Added Lexi's List
+* Removed all local xmls
+* Settings.xml changes
+* More misc. fixes
+
+
 [COLORdeepskyblue][B]v20.2.22[/B][/COLOR]
 
 [COLORyellow]*[/COLOR] [COLORspringgreen]L[COLORpalegreen]o[COLORlime]o[COLORred]N[COLORcrimson]a[COLORpurple]t[COLORmediumorchid]i[COLORorangered]c[COLORorange]s [COLORmagenta]3[COLORpink]0[COLORyellow]0[COLORkhaki]0[/COLOR] [COLORdeepskyblue]Media[/COLOR]
   [COLORspringgreen]Tech[/COLOR] [COLORpalegreen]E.[/COLOR] [COLORlime]Coyote's[/COLOR] [COLORdeepskyblue]Labor[/COLOR][COLORblue]atory[/COLOR]
               [COLORred]Is[/COLOR] [COLORcrimson]Now[/COLOR] [COLORsalmon]OPEN[/COLOR]
           [COLORmediumpurple]to[/COLOR] [COLORdarkorange]all[/COLOR] [COLORyellow]other[/COLOR] [COLORmagenta]Aliens![/COLOR]
+
 
 [COLORdeepskyblue][B]v20.2.20[/B][/COLOR]
 

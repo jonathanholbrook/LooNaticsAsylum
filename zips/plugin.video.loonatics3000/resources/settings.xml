@@ -322,10 +322,10 @@
 
     <setting id="jen_cat-1" type="bool" label="Enable Category 1" default="true" visible="false"/>
         <setting id="jen_name_cat-1" type="text" label="Name" default="[COLORspringgreen]Tech[/COLOR] [COLORpalegreen]E.[/COLOR] [COLORlime]Coyote's[/COLOR] [COLORdeepskyblue]Labor[/COLOR][COLORblue]atory[/COLOR]" visible= "eq(-1,false)" enable="eq(-1,true)" />
-        <setting id="jen_icon_cat-1" type="text" label="Icon Url" default="https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/art/tech.png" visible= "eq(-2,false)" enable="eq(-2,true)" />
-        <setting id="jen_fan_cat-1" type="text" label="Fanart Url" default="https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/art/tech.jpg" visible= "eq(-3,false)" enable="eq(-3,true)" />
-        <!--<setting id="Pastebin-1-1" label="Cat 1a" type="text" default="https://pastebin.com/raw/5wB3hVDr" visible= "eq(-4,false)" enable="eq(-4,true)"/>-->
-        <setting id="Pastebin-1-1" label="Cat 1a" type="text" default="file://main.xml" visible= "eq(-4,false)" enable="eq(-4,true)"/>
+        <setting id="jen_icon_cat-1" type="text" label="Icon Url" default="special://home/addons/plugin.video.loonatics3000/resources/logos/tech.png" visible= "eq(-2,false)" enable="eq(-2,true)" />
+        <setting id="jen_fan_cat-1" type="text" label="Fanart Url" default="special://home/addons/plugin.video.loonatics3000/resources/logos/tech.jpg" visible= "eq(-3,false)" enable="eq(-3,true)" />
+        <!--<setting id="Pastebin-1-1" label="Cat 1a" type="text" default="file://main.xml" visible= "eq(-4,false)" enable="eq(-4,true)"/>-->
+        <setting id="Pastebin-1-1" label="Cat 1a" type="text" default="https://pastebin.com/raw/5wB3hVDr" visible= "eq(-4,false)" enable="eq(-4,true)"/>
         <setting id="Pastebin-1-2" label="Cat 1b" type="text" default="" visible= "eq(-5,false)" enable="eq(-5,true)"/>
         <setting id="Pastebin-1-3" label="Cat 1c" type="text" default="" visible= "eq(-6,false)" enable="eq(-6,true)"/>
         <setting id="Pastebin-1-4" label="Cat 1d" type="text" default="" visible= "eq(-7,false)" enable="eq(-7,true)"/>
@@ -338,8 +338,8 @@
 
     <setting id="jen_cat-2" type="bool" label="Enable Category 2." default="true" visible="false"/>
         <setting id="jen_name_cat-2" type="text" label="Name" default="[COLORred]Rev[/COLOR] [COLORcrimson]Run[/COLOR][COLORsalmon]Ner[/COLOR]" visible= "eq(-1,false)" enable="eq(-1,true)" />
-        <setting id="jen_icon_cat-2" type="text" label="Icon Url" default="https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/art/rev.png" visible= "eq(-2,false)" enable="eq(-2,true)" />
-        <setting id="jen_fan_cat-2" type="text" label="Fanart Url" default="https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/art/rev.jpg" visible= "eq(-3,false)" enable="eq(-3,true)" />
+        <setting id="jen_icon_cat-2" type="text" label="Icon Url" default="special://home/addons/plugin.video.loonatics3000/resources/logos/rev.png" visible= "eq(-2,false)" enable="eq(-2,true)" />
+        <setting id="jen_fan_cat-2" type="text" label="Fanart Url" default="special://home/addons/plugin.video.loonatics3000/resources/logos/rev.jpg" visible= "eq(-3,false)" enable="eq(-3,true)" />
         <setting id="Pastebin-2-1" label="Cat 2a" type="text" default="https://pastebin.com/raw/y99nkTHC" visible= "eq(-4,false)" enable="eq(-4,true)"/>
         <setting id="Pastebin-2-2" label="Cat 2b" type="text" default="https://pastebin.com/raw/A4G3LL1C" visible= "eq(-5,false)" enable="eq(-5,true)"/>
         <setting id="Pastebin-2-3" label="Cat 2c" type="text" default="" visible= "eq(-6,false)" enable="eq(-6,true)"/>
@@ -353,9 +353,9 @@
 
     <setting id="jen_cat-3" type="bool" label="Enable Category 3." default="true" visible="false"/>
         <setting id="jen_name_cat-3" type="text" label="Name" default="[COLORmediumpurple]Slam[/COLOR] [COLORmediumorchid]TasMa[/COLOR][COLORpurple]niaN[/COLOR]" visible= "eq(-1,false)" enable="eq(-1,true)" />
-        <setting id="jen_icon_cat-3" type="text" label="Icon Url" default="https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/art/slam.png" visible= "eq(-2,false)" enable="eq(-2,true)" />
-        <setting id="jen_fan_cat-3" type="text" label="Fanart Url" default="https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/art/slam.jpg" visible= "eq(-3,false)" enable="eq(-3,true)" />
-        <setting id="Pastebin-3-1" label="Cat 3a" type="text" default="https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/slam.xml" visible= "eq(-4,false)" enable="eq(-4,true)"/>
+        <setting id="jen_icon_cat-3" type="text" label="Icon Url" default="special://home/addons/plugin.video.loonatics3000/resources/logos/slam.png" visible= "eq(-2,false)" enable="eq(-2,true)" />
+        <setting id="jen_fan_cat-3" type="text" label="Fanart Url" default="special://home/addons/plugin.video.loonatics3000/resources/logos/slam.jpg" visible= "eq(-3,false)" enable="eq(-3,true)" />
+        <setting id="Pastebin-3-1" label="Cat 3a" type="text" default="https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/xml/slamlist.xml" visible= "eq(-4,false)" enable="eq(-4,true)"/>
         <setting id="Pastebin-3-2" label="Cat 3b" type="text" default="" visible= "eq(-5,false)" enable="eq(-5,true)"/>
         <setting id="Pastebin-3-3" label="Cat 3c" type="text" default="" visible= "eq(-6,false)" enable="eq(-6,true)"/>
         <setting id="Pastebin-3-4" label="Cat 3d" type="text" default="" visible= "eq(-7,false)" enable="eq(-7,true)"/>
@@ -368,8 +368,8 @@
 
     <setting id="jen_cat-4" type="bool" label="Enable Category 4." default="true" visible="false"/>
         <setting id="jen_name_cat-4" type="text" label="Name." default="[COLORdarkorange]DanGer[/COLOR] [COLORorangered]Du[/COLOR][COLORorange]cK[/COLOR]" visible= "eq(-1,false)" enable="eq(-1,true)" />
-        <setting id="jen_icon_cat-4" type="text" label="Icon Url." default="https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/art/danger.png" visible= "eq(-2,false)" enable="eq(-2,true)" />
-        <setting id="jen_fan_cat-4" type="text" label="Fanart Url." default="https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/art/danger.jpg" visible= "eq(-3,false)" enable="eq(-3,true)" />
+        <setting id="jen_icon_cat-4" type="text" label="Icon Url." default="special://home/addons/plugin.video.loonatics3000/resources/logos/danger.png" visible= "eq(-2,false)" enable="eq(-2,true)" />
+        <setting id="jen_fan_cat-4" type="text" label="Fanart Url." default="special://home/addons/plugin.video.loonatics3000/resources/logos/danger.jpg" visible= "eq(-3,false)" enable="eq(-3,true)" />
         <setting id="Pastebin-4-1" label="Cat 4a" type="text" default="https://pastebin.com/raw/RxHQk4Xy" visible= "eq(-4,false)" enable="eq(-4,true)"/>
         <setting id="Pastebin-4-2" label="Cat 4b" type="text" default="https://pastebin.com/raw/BLg7rmY5" visible= "eq(-5,false)" enable="eq(-5,true)"/>
         <setting id="Pastebin-4-3" label="Cat 4c" type="text" default="https://pastebin.com/raw/0CtYTTX9" visible= "eq(-6,false)" enable="eq(-6,true)"/>
@@ -383,8 +383,8 @@
 
     <setting id="jen_cat-5" type="bool" label="Enable Category 5" default="true" visible="false"/>
         <setting id="jen_name_cat-5" type="text" label="Name." default="[COLORyellow]Ace[/COLOR] [COLORkhaki]BuN[/COLOR][COLORgold]ny[/COLOR]" visible= "eq(-1,false)" enable="eq(-1,true)" />
-        <setting id="jen_icon_cat-5" type="text" label="Icon Url." default="https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/art/ace.png" visible= "eq(-2,false)" enable="eq(-2,true)" />
-        <setting id="jen_fan_cat-5" type="text" label="Fanart Url." default="https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/art/ace.jpg" visible= "eq(-3,false)" enable="eq(-3,true)" />
+        <setting id="jen_icon_cat-5" type="text" label="Icon Url." default="special://home/addons/plugin.video.loonatics3000/resources/logos/ace.png" visible= "eq(-2,false)" enable="eq(-2,true)" />
+        <setting id="jen_fan_cat-5" type="text" label="Fanart Url." default="special://home/addons/plugin.video.loonatics3000/resources/logos/ace.jpg" visible= "eq(-3,false)" enable="eq(-3,true)" />
         <setting id="Pastebin-5-1" label="Cat 5a" type="text" default="https://pastebin.com/raw/LCAkJjtS" visible= "eq(-4,false)" enable="eq(-4,true)"/>
         <setting id="Pastebin-5-2" label="Cat 5b" type="text" default="" visible= "eq(-5,false)" enable="eq(-5,true)"/>
         <setting id="Pastebin-5-3" label="Cat 5c" type="text" default="" visible= "eq(-6,false)" enable="eq(-6,true)"/>
@@ -398,9 +398,9 @@
 
     <setting id="jen_cat-6" type="bool" label="Enable Category 6." default="true" visible="false"/>
         <setting id="jen_name_cat-6" type="text" label="Name" default="[COLORmagenta]Lexi[/COLOR] [COLORpink]Bun[/COLOR][COLORhotpink]Ny[/COLOR]" visible= "eq(-1,false)" enable="eq(-1,true)" />
-        <setting id="jen_icon_cat-6" type="text" label="Icon Url." default="https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/art/lexi.png" visible= "eq(-2,false)" enable="eq(-2,true)" />
-        <setting id="jen_fan_cat-6" type="text" label="Fanart Url." default="https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/art/lexi.jpg" visible= "eq(-3,false)" enable="eq(-3,true)" />
-        <setting id="Pastebin-6-1" label="Cat 6a" type="text" default="https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lexi.xml" visible= "eq(-4,false)" enable="eq(-4,true)"/>
+        <setting id="jen_icon_cat-6" type="text" label="Icon Url." default="special://home/addons/plugin.video.loonatics3000/resources/logos/lexi.png" visible= "eq(-2,false)" enable="eq(-2,true)" />
+        <setting id="jen_fan_cat-6" type="text" label="Fanart Url." default="special://home/addons/plugin.video.loonatics3000/resources/logos/lexi.jpg" visible= "eq(-3,false)" enable="eq(-3,true)" />
+        <setting id="Pastebin-6-1" label="Cat 6a" type="text" default="https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/xml/lexilist.xml" visible= "eq(-4,false)" enable="eq(-4,true)"/>
         <setting id="Pastebin-6-2" label="Cat 6b" type="text" default="" visible= "eq(-5,false)" enable="eq(-5,true)"/>
         <setting id="Pastebin-6-3" label="Cat 6c" type="text" default="" visible= "eq(-6,false)" enable="eq(-6,true)"/>
         <setting id="Pastebin-6-4" label="Cat 6d" type="text" default="" visible= "eq(-7,false)" enable="eq(-7,true)"/>
