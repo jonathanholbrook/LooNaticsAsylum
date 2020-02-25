@@ -2,7 +2,7 @@
 
 <dir>
 <title>Music & Ambience</title>
-<link>http://elekta.info/enigma2/soundtrack.xml</link>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/xml/ambient/soundtracks.xml</link>
     <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
     <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
 </dir>
