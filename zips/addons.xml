@@ -3,7 +3,7 @@
 
 <addon id="plugin.video.loonatics3000"
        name="  [COLORspringgreen]L[COLORpalegreen]o[COLORlime]o[COLORred]N[COLORcrimson]a[COLORmediumpurple]t[COLORmediumorchid]i[COLORorangered]c[COLORorange]s [COLORmagenta]3[COLORpink]0[COLORyellow]0[COLORkhaki]0[/COLOR]"
-       version="20.2.24"
+       version="20.2.28"
        provider-name="[COLORgreen]• [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]•[/COLOR] [COLORwhite]/[/COLOR] [COLORred]Rev[/COLOR] [COLORcrimson]Run[/COLOR][COLORsalmon]ner[/COLOR]">
   <requires>
     <import addon="plugin.video.SportsDevil" version="2019.05.24"/>
@@ -14,7 +14,7 @@
     <import addon="script.module.feedparser"/>
     <import addon="script.module.futures" version="2.2.0"/>
     <import addon="script.module.inputstreamhelper"/>
-    <import addon="script.module.python.koding.aio" version="1.0"/>
+    <import addon="script.module.python.koding.aio.alt" version="1.1"/>
     <import addon="script.module.pyxbmct" version="1.1.4"/>
     <import addon="script.module.requests"/>
     <import addon="script.module.resolveurl" version="5.0.00"/>
