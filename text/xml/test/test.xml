@@ -7,4 +7,14 @@
     <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
 </dir>
 
+<dir>
+    <title>CBS Radio Mystery Theater</title>
+    <mystery_theater>all</mystery_theater>
+</dir>
+
+<dir>
+    <title>Black & White Movies</title>
+    <bnw>movies</bnw>
+</dir>
+
 </xml>
