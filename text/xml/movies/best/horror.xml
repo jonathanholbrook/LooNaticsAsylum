@@ -1,0 +1,80 @@
+<xml>
+
+<dir>
+    <title>[COLORspringgreen]Trending[/COLOR] [COLORred]Horror[/COLOR]</title>
+    <tmdb>genre/movies/27</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORred]Best[/COLOR] [COLORmediumpurple]of[/COLOR] [COLORdarkorange]Horror[/COLOR]</title>
+    <imdburl>list/ls006186967</imdburl>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdarkorange]Classic[/COLOR] [COLORmagenta]Horror[/COLOR]</title>
+    <imdburl>list/ls077352136</imdburl>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]Slasher[/COLOR] [COLORyellow]Movies[/COLOR]</title>
+    <imdburl>list/ls026192604</imdburl>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORyellow]Torture[/COLOR] / [COLORspringgreen]Disturbia[/COLOR]</title>
+    <imdburl>list/ls051058749</imdburl>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORspringgreen]Psychological[/COLOR] / [COLORred]Thrillers[/COLOR]</title>
+    <imdburl>list/ls020075915</imdburl>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORred]Haunted[/COLOR] / [COLORmediumpurple]Supernatural[/COLOR]</title>
+    <imdburl>list/ls001824866</imdburl>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORyellow]Creature[/COLOR] [COLORspringgreen]Feature[/COLOR] / [COLORred]1 Click[/COLOR] [COLORmediumpurple]Horror[/COLOR]</title>
+    <creature>all</creature>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmediumpurple]Horror[/COLOR] [COLORdarkorange]Comedy[/COLOR]</title>
+    <imdburl>list/ls069710302</imdburl>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdarkorange]Family[/COLOR] [COLORmagenta]Frightday[/COLOR]</title>
+    <imdburl>list/ls052297683</imdburl>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdeepskyblue]S[COLORblue]e[COLORlightsteelblue]a[COLORdeepskyblue]r[COLORblue]c[COLORlightsteelblue]h[/COLOR]</title>
+    <tmdb>search</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon5.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+</xml>

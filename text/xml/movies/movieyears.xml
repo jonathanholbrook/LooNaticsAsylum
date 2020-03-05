@@ -1,0 +1,178 @@
+<xml>
+
+<dir>
+    <title>[COLORspringgreen]2019[/COLOR] [COLORred]Movies[/COLOR]</title>
+    <tmdb>year/movies/2019</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORred]2018[/COLOR] [COLORmediumpurple]Movies[/COLOR]</title>
+    <tmdb>year/movies/2018</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmediumpurple]2017[/COLOR] [COLORdarkorange]Movies[/COLOR]</title>
+    <tmdb>year/movies/2017</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdarkorange]2016[/COLOR] [COLORmagenta]Movies[/COLOR]</title>
+    <tmdb>year/movies/2016</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]2015[/COLOR] [COLORyellow]Movies[/COLOR]</title>
+    <tmdb>year/movies/2015</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORyellow]2014[/COLOR] [COLORspringgreen]Movies[/COLOR]</title>
+    <tmdb>year/movies/2014</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORspringgreen]2013[/COLOR] [COLORred]Movies[/COLOR]</title>
+    <tmdb>year/movies/2013</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORred]2012[/COLOR] [COLORmediumpurple]Movies[/COLOR]</title>
+    <tmdb>year/movies/2012</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+     <title>[COLORmediumpurple]2011[/COLOR] [COLORdarkorange]Movies[/COLOR]</title>
+    <tmdb>year/movies/2011</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+   <title>[COLORdarkorange]2010[/COLOR] [COLORmagenta]Movies[/COLOR]</title>
+    <tmdb>year/movies/2010</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]2009[/COLOR] [COLORyellow]Movies[/COLOR]</title>
+    <tmdb>year/movies/2009</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORyellow]2008[/COLOR] [COLORspringgreen]Movies[/COLOR]</title>
+    <tmdb>year/movies/2008</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORspringgreen]2007[/COLOR] [COLORred]Movies[/COLOR]</title>
+    <tmdb>year/movies/2007</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+   <title>[COLORred]2006[/COLOR] [COLORmediumpurple]Movies[/COLOR]</title>
+    <tmdb>year/movies/2006</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+     <title>[COLORmediumpurple]2005[/COLOR] [COLORdarkorange]Movies[/COLOR]</title>
+    <tmdb>year/movies/2005</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORdarkorange]2004[/COLOR] [COLORmagenta]Movies[/COLOR]</title>
+    <tmdb>year/movies/2004</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]2003[/COLOR] [COLORyellow]Movies[/COLOR]</title>
+    <tmdb>year/movies/2003</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+     <title>[COLORyellow]2002[/COLOR] [COLORspringgreen]Movies[/COLOR]</title>
+    <tmdb>year/movies/2002</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORspringgreen]2001[/COLOR] [COLORred]Movies[/COLOR]</title>
+    <tmdb>year/movies/2001</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORred]2000[/COLOR] [COLORmediumpurple]Movies[/COLOR]</title>
+    <tmdb>year/movies/2000</tmdb>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmediumpurple]1980[/COLOR] - [COLORdarkorange]1999[/COLOR] [COLORmagenta]Movies[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/1999.xml</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]1960[/COLOR] - [COLORyellow]1979[/COLOR] [COLORspringgreen]Movies[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/1979.xml</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORspringgreen]1940[/COLOR] - [COLORred]1959[/COLOR] [COLORmediumpurple]Movies[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/1959.xml</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+     <title>[COLORmediumpurple]1920[/COLOR] - [COLORdarkorange]1939[/COLOR] [COLORmagenta]Movies[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/1939.xml</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORmagenta]1900[/COLOR] - [COLORyellow]1919[/COLOR] [COLORspringgreen]Movies[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/1919.xml</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+</xml>

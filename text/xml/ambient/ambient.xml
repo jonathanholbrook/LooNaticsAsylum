@@ -1,0 +1,73 @@
+<xml>
+
+<plugin>
+<title>[COLORspringgreen]4K Relaxation[/COLOR]</title>
+<link>plugin://plugin.video.youtube/channel/UCg72Hd6UZAgPBAUZplnmPMQ/playlists/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLORred]4K Urban Life[/COLOR]</title>
+<link>plugin://plugin.video.youtube/channel/UCQ-JKqNo_T0yoeDZff1y7Kw/playlists/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLORmediumpurple]Nature[/COLOR]</title>
+<link>plugin://plugin.video.youtube/playlist/PLqHtR-iQm26X_Y8YlG3xNr530tYeebZpQ/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLORdarkorange]Fire[/COLOR]</title>
+<link>plugin://plugin.video.youtube/playlist/PLrANP5FxfIQTGq0F-KtBE3naBiXBKW6fO/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLORmagenta]Rain[/COLOR]</title>
+<link>plugin://plugin.video.youtube/playlist/PL0IYpdlafdv0NE72ymuh58fK8CO7uCDz5/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLORyellow]Atmospheres[/COLOR]</title>
+<link>plugin://plugin.video.youtube/playlist/PL0IYpdlafdv1HxmFeViWUb8vYYKHw4Duh/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<dir>
+	<title>[COLORspringgreen]Musical Vibes[/COLOR]</title>
+	<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/xml/ambient/musicvibes.xml</link>
+	    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<plugin>
+<title>[COLORred]Relax / Sleep[/COLOR]</title>
+<link>plugin://plugin.video.youtube/playlist/PLwRp13WDIrMMvD8inDTyAYxcn91M_VBlL/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLORmediumpurple]Dark / Hallows Eve[/COLOR]</title>
+<link>plugin://plugin.video.youtube/playlist/PLvTaXqHhgyZ72GcJe45Sh8c9d38nHCIe6/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLORdarkorange]Winter / Christmas[/COLOR]</title>
+<link>plugin://plugin.video.youtube/playlist/PLvTaXqHhgyZ5u4by-eyE2TElwmD9RaC7K/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+</xml>

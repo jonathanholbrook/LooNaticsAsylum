@@ -1,0 +1,126 @@
+
+<plugin>
+<title>[COLORspringgreen]Lord of the Rings[/COLOR]</title>
+<link>plugin://plugin.video.youtube/playlist/PLYSqJ3BBUHqhGnPS7yQk0ss3LM58TiYSP/</link>
+<thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+<fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLORred]Game of Thrones[/COLOR]</title>
+<link>plugin://plugin.video.youtube/playlist/PLYSqJ3BBUHqiLDNlo7uR4dinnCYIqcQyE/</link>
+<thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+<fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLORmediumpurple]Harry Potter[/COLOR]</title>
+<link>plugin://plugin.video.youtube/playlist/PLYSqJ3BBUHqho9Af8rZQCfJwiYtNGdzAA/</link>
+<thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+<fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLORdarkorange]Star Wars[/COLOR]</title>
+<link>plugin://plugin.video.youtube/playlist/PLYSqJ3BBUHqgjle62yugHm494ENDefd57/</link>
+<thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+<fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLORyellow]Marvel[/COLOR]</title>
+<link>plugin://plugin.video.youtube/playlist/PLYSqJ3BBUHqg4kur24r-PVOCh4TYpVJxS/</link>
+<thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+<fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<item>
+<title>[COLORmagenta]Avatar [/COLOR]</title>
+<link>https://www.youtube.com/watch?v=p8ov9f8NISk/</link>
+<thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+<fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORspringgreen]Moana[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=mVxBEhhZjBM/</link>
+<thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+<fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]Chronicles of Narnia[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=5RHTt4_XVVU/</link>
+<thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+<fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORmediumpurple]Jurassic Park[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=PPl__iyIg6w/</link>
+<thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+<fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORspringgreen]Lion King[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=gR6fwFHxT0w/</link>
+<thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+<fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORdarkorange]DownTown Abby[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=bNjJuU04woo/</link>
+<thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+<fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORyellow]Peter Pan[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=ZrzBgQaNrIE/</link>
+<thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+<fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORmagenta]The Last Samurai[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=0dSjEQkV2mM/</link>
+<thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+<fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORspringgreen]How to Train You Dragon[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=uhyxSmOhls4/</link>
+<thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+<fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]World of Warcraft[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=X4tHTDmJG4c/</link>
+<thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+<fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORmediumpurple]The Dark Knight[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=_Ogfr-CTzR8&t=202s/</link>
+<thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+<fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORdarkorange]The Hunger Games[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=vEI7xMoH_pw/</link>
+<thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+<fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORyellow]Pirates of the Carribean[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=cBYRoJgz7Mg&t=5s/</link>
+<thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+<fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</item>

@@ -1,0 +1,87 @@
+<xml>
+
+<dir>
+<title>[COLORspringgreen][COLORspringgreen]Music & Ambience[/COLOR]</title>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/xml/ambient/soundtracks.xml</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</dir>
+
+<item>
+<title>[COLORred]Music to Chill[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=szL8QmWgCGo</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</item>
+
+ <plugin>
+<title>[COLORmediumpurple]100 years of Jazz[/COLOR]</title>
+<link>plugin://plugin.video.youtube/playlist/PL3aCEm5vpR8l7NQ0BXqUwkQ-BgaojJacs/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+ <plugin>
+<title>[COLORdarkorange]Jazz Vocals[/COLOR]</title>
+<link>plugin://plugin.video.youtube/playlist/PLKyN0mtyLUnPCbkd5G7HOxF9ytrhO1kbX/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLORyellow]Latin Hits Lounge 2020[/COLOR]</title>
+<link>plugin://plugin.video.youtube/playlist/PLq3UZa7STrbqXTTC5wJ9KArpKERhZOJZT/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLORmagenta]Paradise Cafe[/COLOR]</title>
+<link>plugin://plugin.video.youtube/playlist/PLe1CT6SJJchrBe0eK1KC5xQK7CUWarmeE/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<item>
+<title>[COLORred]Pink Floyd / Visuals[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=4oh7lct04Us&t=1175s</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</item>
+
+<plugin>
+<title>[COLORmediumpurple]The Witcher Saga[/COLOR]</title>
+<link>plugin://plugin.video.youtube/playlist/PLvvNYlOjF4Ib-tKUlPb6NHhY1NHr4O_t1/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLORdarkorange]Celtic Folk Music[/COLOR]</title>
+<link>plugin://plugin.video.youtube/playlist/PLLdhzT83SscSiVsOnTCGlYpELSYKdt2Id/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLORyellow]Game of Thrones Season 1-8[/COLOR]</title>
+<link>plugin://plugin.video.youtube/playlist/PLWdLkUdrRPBsAkjeuGrvJ4NVp3Yy9w2Xj/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLORmagenta]Deadpool Soundtracks Mix[/COLOR]</title>
+<link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102CMN6jpbSsM7ADRCHQ8hdKQ/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLORspringgreen]Guardians Awesome Mix[/COLOR]</title>
+<link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102BD6b_csarDPvkKJVvBqHu6/</link>
+    <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
+</plugin>
+
+</xml>
