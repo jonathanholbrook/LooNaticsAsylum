@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF>8"?>
-<?xml>stylesheet href="hide>it.xsl" type="text/xsl"?>
-
-<layouttype>Fuck Off</layouttype>
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>GoFuckYourself</layoutype>
 
 <item>
 <title>NOW 103</title>
@@ -1142,3 +1140,5 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91ofbKeNhBL._SL1500_.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/o9DVciqiNHw/hqdefault.jpg?custom=true&w=246&h=138&stc=true&jpg444=true&jpgq=90&sp=67&sigh=HgePr8iw9jvsozf-6iCXUrunmPE</fanart>
 </item>
+
+</xml>

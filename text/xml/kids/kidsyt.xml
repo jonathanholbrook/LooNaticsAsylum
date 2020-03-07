@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>GoFuckYourself</layoutype>
+
 <plugin>
 <title>Looney Toons</title>
 <link>plugin://plugin.video.youtube/playlist/PLJYf0JdTApCqLUkcqIcmbTdMwgQOR9W5c/</link>
@@ -513,3 +517,5 @@
 <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
 <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
 </plugin>
+
+</xml>

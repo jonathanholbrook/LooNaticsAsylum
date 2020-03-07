@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>GoFuckYourself</layoutype>
+
 <dir>
     <title>Moviefone Trailers</title>
     <moviefone>trailers/1</moviefone>
@@ -11,3 +15,5 @@
     <thumbnail>special://home/addons/plugin.video.loonatics3000/resources/logos/icon3.png</thumbnail>
     <fanart>special://home/addons/plugin.video.loonatics3000/resources/logos/fanart2.jpg</fanart>
 </dir >
+
+</xml>

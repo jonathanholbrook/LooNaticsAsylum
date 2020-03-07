@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>GoFuckYourself</layoutype>
+
 <item>
     <title>The Script - Live at Croke Park </title>
     <link>https://www.youtube.com/watch/G801-dXTDVY</link>
@@ -1870,3 +1874,5 @@
     <thumbnail>https://img.discogs.com/5iibSKpbCdeJnx-wtjaHlODecd4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6439360-1444508838-7144.jpeg.jpg</thumbnail>
 </item>
 
+
+</xml>
