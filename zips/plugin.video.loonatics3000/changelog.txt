@@ -12,6 +12,10 @@ about our addon. Any questions, comments or
 adds, maybe even deletes. Please let the
 LooNatics Team know.....[/COLOR]
 
+[COLORdeepskyblue][B]v20.3.6[/B][/COLOR]
+
+* Misc. fixes
+
 
 [COLORdeepskyblue][B]v20.3.1[/B][/COLOR]
 
