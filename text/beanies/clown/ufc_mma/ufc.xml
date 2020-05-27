@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<item>
+    <title>[COLOR orchid]¤¤¤¤¤[/COLOR] [B][COLOR white]UFC / MMA[/COLOR] [COLOR orchid]LIVE[/COLOR][/B] [COLOR orchid]¤¤¤¤¤[/COLOR]</title>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ufc.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</item>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]UFC / MMA LIVE[/COLOR] [COLOR orchid] (60)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=84</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ufc.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]UFC / MMA LIVE[/COLOR] [COLOR orchid] (6S)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=154</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ufc.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]UFC / MMA LIVE[/COLOR] [COLOR orchid] (CS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=40</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ufc.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]UFC / MMA LIVE[/COLOR] [COLOR orchid] (SE)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=150</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ufc.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]UFC / MMA LIVE[/COLOR] [COLOR orchid] (CW)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=208</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ufc.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</plugin>
+<item>
+<title>[COLOR orchid]¤[/COLOR] [B][COLOR white]UFC / MMA LIVE[/COLOR] [COLOR orchid] (GR)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+<link>$doregex[makelist]</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ufc.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+        <title>[COLOR orchid]*[/COLOR] [COLOR white][makelist.param3][/COLOR] [COLOR orchid]*[/COLOR]</title>
+        <link>$doregex[makelist2]</link>
+        <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client,cache
+    import re,urllib
+    u = urllib.urlopen('http://givemereddit.stream/ufc-mma').read()
+    r = re.findall('(?s)<a href="([^"]*)(?:[^=]*)=(?:[^=]*)=(?:[^=]*)=(?:[^=]*)="([^"]*)">(?:[^>]*)>(?:[^>]*)>([^<]*)(?:[^>]*)>(?:[^>]*)>\s+([^\n]*)', u)
+    r = [(i[0],i[1],client.replaceHTMLCodes(i[2]), i[3]) for i in r if 'png' in i[1]]
+    r = [(i[0],i[1],i[2],i[3]) for i in r if 'All Games' not in i[2]]
+    return r
+]]></expres>
+<page></page>
+</regex>
+<regex>
+  <name>makelist2</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = '[makelist.param1]'):
+    from resources.lib.modules import client
+    import re
+    u = client.request(url) 
+    r = re.findall(' source: \'([^\']*)', u)[0]
+    return r
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]UFC / MMA LIVE[/COLOR] [COLOR orchid] (HS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=15</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ufc.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]UFC / MMA LIVE[/COLOR] [COLOR orchid] (QA)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=146</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ufc.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]UFC / MMA LIVE[/COLOR] [COLOR orchid] (VK)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=62</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ufc.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]UFC / MMA LIVE[/COLOR] [COLOR orchid] (AS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=134</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ufc.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]TRENDING SPORTS LIVE[/COLOR] [COLOR orchid] (YSS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=94</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV[/COLOR] [COLOR orchid] (YSS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=82</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV CHANNELS[/COLOR] [COLOR orchid] (WS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=214</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV CHANNELS[/COLOR] [COLOR orchid] (SB)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=226</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<item
+    <title>[COLOR orchid]¤¤¤¤¤[/COLOR] [B][COLOR white]UFC / MMA[/COLOR] [COLOR orchid] LIVE DIRECTS[/COLOR][/B] [COLOR orchid]¤¤¤¤¤[/COLOR]</title>
+    <link>
+        <sublink></sublink>
+    </link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ufc.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]UFC 249[/COLOR] [COLOR orchid] REPLAY[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>
+        <sublink>magnet:?xt=urn:btih:8CA18A1341F8C018B5724269A760A6F8E68E5116&dn=UFC+249+PPV+Ferguson+vs+Gaethje+WEB+x264-PUNCH%5BTGx%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2730%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2740%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2770%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2730%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2740%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2720%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fipv6.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.open-internet.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce</sublink>
+    </link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ufc.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</item>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]UFC / MMA[/COLOR] [COLOR orchid] REPLAYS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/ufc_mma/replays.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ufc.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]BAREKNUCKLE[/COLOR] [COLOR orchid] FIGHTS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/ufc_mma/bareknuckle.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/bareknuckle.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/bareknuckle_fanart.jpg</fanart>
+</dir>

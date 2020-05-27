@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<item>
+	<title>[COLOR orchid]¤¤¤¤¤[/COLOR] [B][COLOR white]CRICKET[/COLOR] [COLOR orchid]LIVE[/COLOR][/B] [COLOR orchid]¤¤¤¤¤[/COLOR]</title>
+	<thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/cricket.png</thumbnail>
+	<fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/cricket_fanart.png</fanart>
+</item>
+<plugin>
+	<title>[COLOR orchid]¤[/COLOR] [B][COLOR white]CRICKET[/COLOR] [COLOR orchid] (SE)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+	<link>plugin://script.beanies.sports/?mode=114</link>
+	<thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/cricket.png</thumbnail>
+	<fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/cricket_fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]TRENDING SPORTS LIVE[/COLOR] [COLOR orchid] (YSS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=94</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV[/COLOR] [COLOR orchid] (YSS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=82</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV CHANNELS[/COLOR] [COLOR orchid] (WS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=214</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV CHANNELS[/COLOR] [COLOR orchid] (SB)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=226</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>

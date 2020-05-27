@@ -1,0 +1,126 @@
+<item>
+	<title>[COLOR=gainsboro]Star Wars[/COLOR]</title>
+	<meta>
+	<imdb>tt0076759</imdb>
+	<content>movie</content>
+	<title>Star Wars</title>
+	<year>1977</year>
+	</meta>
+	<link>
+	<sublink>search</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/btTdmkgIvOi0FFip1sPuZI2oQG6.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/4iJfYYoQzZcONB9hNzg0J0wWyPH.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=gainsboro]The Empire Strikes Back[/COLOR]</title>
+	<meta>
+	<imdb>tt0080684</imdb>
+	<content>movie</content>
+	<title>The Empire Strikes Back</title>
+	<year>1980</year>
+	</meta>
+	<link>
+	<sublink>search</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/9SKDSFbaM6LuGqG1aPWN3wYGEyD.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/amYkOxCwHiVTFKendcIW0rSrRlU.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=gainsboro]Return of the Jedi[/COLOR]</title>
+	<meta>
+	<imdb>tt0086190</imdb>
+	<content>movie</content>
+	<title>Return of the Jedi</title>
+	<year>1983</year>
+	</meta>
+	<link>
+	<sublink>search</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/lrJWyjOVjPhghl4KyAMtOepAxs.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/koE7aMeR2ATivI18mCbscLsI0Nm.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=gainsboro]Star Wars: Episode I - The Phantom Menace[/COLOR]</title>
+	<meta>
+	<imdb>tt0120915</imdb>
+	<content>movie</content>
+	<title>Star Wars: Episode I - The Phantom Menace</title>
+	<year>1999</year>
+	</meta>
+	<link>
+	<sublink>search</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/n8V09dDc02KsSN6Q4hC2BX6hN8X.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/oFmzoKDMedABPpRBDVwr0aynSK1.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=gainsboro]Star Wars: Episode II - Attack of the Clones[/COLOR]</title>
+	<meta>
+	<imdb>tt0121765</imdb>
+	<content>movie</content>
+	<title>Star Wars: Episode II - Attack of the Clones</title>
+	<year>2002</year>
+	</meta>
+	<link>
+	<sublink>search</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/2vcNFtrZXNwIcBgH5e2xXCmVR8t.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/vovhXw10DSsRS9yoVbZqb60pXyX.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=gainsboro]Star Wars: Episode III - Revenge of the Sith[/COLOR]</title>
+	<meta>
+	<imdb>tt0121766</imdb>
+	<content>movie</content>
+	<title>Star Wars: Episode III - Revenge of the Sith</title>
+	<year>2005</year>
+	</meta>
+	<link>
+	<sublink>search</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/tgr5Pdy7ehZYBqBkN2K7Q02xgOb.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/wUYTfFbfPiZC6Lcyt1nonr69ZmK.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=gainsboro]Star Wars: The Force Awakens[/COLOR]</title>
+	<meta>
+	<imdb>tt2488496</imdb>
+	<content>movie</content>
+	<title>Star Wars: The Force Awakens</title>
+	<year>2015</year>
+	</meta>
+	<link>
+	<sublink>search</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/weUSwMdQIa3NaXVzwUoIIcAi85d.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/c2Ax8Rox5g6CneChwy1gmu4UbSb.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=gainsboro]Star Wars: The Last Jedi[/COLOR]</title>
+	<meta>
+	<imdb>tt2527336</imdb>
+	<content>movie</content>
+	<title>Star Wars: The Last Jedi</title>
+	<year>2017</year>
+	</meta>
+	<link>
+	<sublink>search</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/5Iw7zQTHVRBOYpA0V6z0yypOPZh.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=gainsboro]Star Wars: The Rise of Skywalker[/COLOR]</title>
+	<meta>
+	<imdb>tt2527338</imdb>
+	<content>movie</content>
+	<title>Star Wars: The Rise of Skywalker</title>
+	<year>2019</year>
+	</meta>
+	<link>
+	<sublink>search</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/db32LaOibwEliAmSL2jjDF6oDdj.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/jOzrELAzFxtMx2I4uDGHOotdfsS.jpg</fanart>
+</item>

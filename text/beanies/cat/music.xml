@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Music & Ambience[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/cat/soundtrack.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+<plugin>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Music to Chill[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102CeGOJAUsgcFOjWdUuK0tao/</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Latin Lounge[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102CNv3e0N-RkADSuhsofZRef/</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Bossa Cafe[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>plugin://plugin.video.youtube/playlist/PLe1CT6SJJchrBe0eK1KC5xQK7CUWarmeE/</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Jazz Vocals[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102A44oxaU7TDecmLLL_FFcc6/</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]100 years of Jazz[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>plugin://plugin.video.youtube/playlist/PL3aCEm5vpR8l7NQ0BXqUwkQ-BgaojJacs/</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Beastie Boys Chillin[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/cat/bboys.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+<plugin>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Tash Sultana[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102AjAfP6lpnAgq-Ix-f5NLNr/</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Walk Off The Earth[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102ANCD42ruJ50G4pNcDkEHVy/</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Alex Skolnick Trio[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102A3bdY8NT8I430Zt4x5vgZd/</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Dead / Phish Jams[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102CI5rVhQoBdm4XqOk59Cghr/</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<item>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Pink Floyd / Visuals[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://www.youtube.com/watch?v=4oh7lct04Us&t=1175s</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</item>
+<plugin>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Tarantino Soundtracks Mix[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102BwKPjgGCLWwXEcRbLfXWFD/</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Deadpool Soundtracks Mix[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102CMN6jpbSsM7ADRCHQ8hdKQ/</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Guardians Awesome Mix[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102BD6b_csarDPvkKJVvBqHu6/</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+

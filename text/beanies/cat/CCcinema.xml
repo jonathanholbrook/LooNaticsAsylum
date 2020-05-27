@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<plugin>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Latest Releases[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>plugin://plugin.video.thebeanies/?action=movies&url=https://api.trakt.tv/users/garycrawfordgc/lists/latest-releases/items</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Trending Movies[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>plugin://plugin.video.thebeanies/?action=movies&url=https://api.trakt.tv/movies/trending?limit=40&page=1</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Greatest Movies of All Time[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/cat/Greatest-Movies-of-All-Time.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+<dir>    
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Drama / Action[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/cat/Top-Drama-and-Action-Movies.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+<dir>    
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Crime / Gangster[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/cat/Crime.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+<dir>    
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Psychological / Thrillers[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/cat/Psychological-Thrillers.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Horror Movies[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/cat/horror.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Sci-Fi Movies[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/cat/scifi.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Fantasy Movies[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/cat/fantasy.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Best of Comedy[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/cat/comedy.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Tarantino Collection[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/cat/tarantino-greats.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Best of the 80's[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/cat/Best-of-the-80s-Movies.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Ambient[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/cat/ambient.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Test[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/cat/test.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>

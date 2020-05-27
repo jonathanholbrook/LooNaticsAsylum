@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<item>
+    <title>[COLOR orchid]¤¤¤¤¤[/COLOR] [B][COLOR white]NHL[/COLOR] [COLOR orchid]LIVE[/COLOR][/B] [COLOR orchid]¤¤¤¤¤[/COLOR]</title>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/nhl.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/nhl_fanart.jpg</fanart>
+</item>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]NHL LIVE[/COLOR] [COLOR orchid](6S)[/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=158</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/nhl.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/nhl_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]NHL LIVE[/COLOR] [COLOR orchid](7S)[/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=8</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/nhl.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/nhl_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]NHL LIVE[/COLOR] [COLOR orchid](FN)[/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=68</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/nhl.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/nhl_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]NHL LIVE[/COLOR] [COLOR orchid](QA)[/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=140</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/nhl.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/nhl_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]NHL LIVE[/COLOR] [COLOR orchid](SE)[/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=110</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/nhl.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/nhl_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]NHL LIVE[/COLOR] [COLOR orchid](VK)[/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=54</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/nhl.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/nhl_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]NHL LIVE[/COLOR] [COLOR orchid](YSS)[/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=92</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/nhl.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/nhl_fanart.jpg</fanart>
+</plugin>
+<item>
+    <title>[COLOR orchid]¤¤¤¤¤[/COLOR] [B][COLOR white]NHL[/COLOR] [COLOR orchid]CHANNELS[/COLOR][/B] [COLOR orchid]¤¤¤¤¤[/COLOR]</title>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/nhl.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/nhl_fanart.jpg</fanart>
+</item>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]ESPN[/COLOR] [COLOR orchid]SPORTS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/channels/espn.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/espn.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/nhl_fanart.jpg</fanart>
+</dir>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]TRENDING SPORTS LIVE[/COLOR] [COLOR orchid] (YSS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=94</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV[/COLOR] [COLOR orchid] (YSS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=82</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV CHANNELS[/COLOR] [COLOR orchid] (WS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=214</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV CHANNELS[/COLOR] [COLOR orchid] (SB)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=226</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<item>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]NHL[/COLOR] [COLOR orchid]NETWORK[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>
+        <sublink>http://sv1.dailymotion.com.1cdn.host/live/nhltv/chunks.m3u8|Referer=http://123tvnow.com/</sublink>
+    </link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/nhl.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/nhl_fanart.jpg</fanart>
+</item>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]NHL[/COLOR] [COLOR orchid]REPLAYS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/nhl/nhl_replays.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/nhl.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/nhl_fanart.jpg</fanart>
+</dir>
+
+

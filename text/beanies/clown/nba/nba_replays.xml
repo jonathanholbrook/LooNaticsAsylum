@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<item>
+    <title>[COLOR orchid]¤¤¤¤¤[/COLOR] [B][COLOR white]YOUTUBE[/COLOR] [COLOR orchid]PERSONAL API KEYS MUST BE ENTERED[/COLOR][/B] [COLOR orchid]¤¤¤¤¤[/COLOR]</title>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/nba.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/nba_fanart.jpg</fanart>
+</item>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]NBA[/COLOR] [COLOR orchid]2019 FULL GAME HIGHLIGHTS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://plugin.video.thebeanies/?action=youtubePlaylist&url=PLvn6tsSyFhW2h3tqU7c7Es-eIVa14gvhn</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/nba.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/nba_fanart.jpg</fanart>
+</plugin>

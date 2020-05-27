@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<item>
+    <title>[COLOR orchid]¤¤¤¤¤[/COLOR] [B][COLOR white]GOLF[/COLOR] [COLOR orchid]LIVE[/COLOR][/B] [COLOR orchid]¤¤¤¤¤[/COLOR]</title>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/pga.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/pga_fanart.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]PGA[/COLOR] [COLOR orchid]NETWORK[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>
+        <sublink>http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8</sublink>
+        <sublink>http://live.highstream.club/live/Golf/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36&Referer=http://imkmedia.com/watch/golf-channel/</sublink>
+        <sublink>http://95.170.215.120/hls/m3u8/Sky-Sports-Golf.m3u8</sublink>
+        <sublink>https://cstream10.com/hls/skysports4.m3u8</sublink>
+        <sublink>https://cstream10.com/hls/skysportsgolf.m3u8</sublink>
+    </link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/pga.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/pga_fanart.jpg</fanart>
+</item>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]TRENDING SPORTS LIVE[/COLOR] [COLOR orchid] (YSS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=94</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV[/COLOR] [COLOR orchid] (YSS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=82</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV CHANNELS[/COLOR] [COLOR orchid] (WS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=214</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV CHANNELS[/COLOR] [COLOR orchid] (SB)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=226</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<item>
+    <title>[COLOR orchid]¤¤¤¤¤[/COLOR] [B][COLOR white]PGA[/COLOR] [COLOR orchid]CHANNELS[/COLOR][/B] [COLOR orchid]¤¤¤¤¤[/COLOR]</title>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/bg/sportsstream/pga.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/pga_fanart.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]SKY SPORTS[/COLOR] [COLOR orchid]GOLF[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/http://www.sports-stream.net/Sky-Sports-Golf.html</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/bg/sportsstream/SKYSPORTSGOLF.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/pga_fanart.jpg</fanart>
+</item>

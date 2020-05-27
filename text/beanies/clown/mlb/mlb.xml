@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<item>
+    <title>[COLOR orchid]¤¤¤¤¤[/COLOR] [B][COLOR white]MLB[/COLOR] [COLOR orchid]LIVE[/COLOR][/B] [COLOR orchid]¤¤¤¤¤[/COLOR]</title>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/mlb.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/mlb_fanart.jpg</fanart>
+</item>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]MLB LIVE[/COLOR] [COLOR orchid] (7S)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=13</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/mlb.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/mlb_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]MLB LIVE[/COLOR] [COLOR orchid] (PS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=10</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/mlb.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/mlb_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]MLB LIVE[/COLOR] [COLOR orchid] (SE)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=122</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/mlb.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/mlb_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]MLB LIVE[/COLOR] [COLOR orchid] (VK)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=52</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/mlb.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/mlb_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]MLB LIVE[/COLOR] [COLOR orchid] (YS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=32</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/mlb.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/mlb_fanart.jpg</fanart>
+</plugin>
+<item>
+    <title>[COLOR orchid]¤¤¤¤¤[/COLOR] [B][COLOR white]MLB[/COLOR] [COLOR orchid] CHANNELS[/COLOR][/B] [COLOR orchid]¤¤¤¤¤[/COLOR]</title>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/mlb.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/mlb_fanart.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]MLB[/COLOR] [COLOR orchid] NETWORK[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>
+        <sublink>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8</sublink>
+    </link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/mlb_network.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/mlb_fanart.jpg</fanart>
+</item>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]ESPN[/COLOR] [COLOR orchid] SPORTS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/channels/espn.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/espn.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/mlb_fanart.jpg</fanart>
+</dir>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]TRENDING SPORTS LIVE[/COLOR] [COLOR orchid] (YSS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=94</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV[/COLOR] [COLOR orchid] (YSS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=82</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV CHANNELS[/COLOR] [COLOR orchid] (WS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=214</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV CHANNELS[/COLOR] [COLOR orchid] (SB)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=226</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<item>
+    <title>[COLOR orchid]¤¤¤¤¤[/COLOR] [B][COLOR white]MLB[/COLOR] [COLOR orchid] REPLAYS[/COLOR][/B] [COLOR orchid]¤¤¤¤¤[/COLOR]</title>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/mlb.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/mlb_fanart.jpg</fanart>
+</item>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]MLB[/COLOR] [COLOR orchid] 2019 FULL GAMES (1)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://pastebin.com/raw/mRBRMv6X</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/mlb.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/mlb_fanart.jpg</fanart>
+</dir>

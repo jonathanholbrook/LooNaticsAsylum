@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<item>
+    <title>[COLOR orchid]¤¤¤¤¤[/COLOR] [B][COLOR white]YOUTUBE[/COLOR] [COLOR orchid]PERSONAL API KEYS MUST BE ENTERED[/COLOR][/B] [COLOR orchid]¤¤¤¤¤[/COLOR]</title>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ufc.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</item>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]UFC[/COLOR] [COLOR orchid]CHANNEL[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://plugin.video.thebeanies/?action=youtubeChannel&url=UCvgfXK4nTYKudb0rFR6noLA</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ufc.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]UFC[/COLOR] [COLOR orchid]BEST UFC FIGHTS OF ALL-TIME[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://plugin.video.thebeanies/?action=youtubePlaylist&url=PLSjCJzrMeJ8bbgHZoMRb0od0HISc-k8Oj</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ufc.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]UFC[/COLOR] [COLOR orchid]BEST KNOCKOUTS IN HISTORY[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://plugin.video.thebeanies/?action=youtubePlaylist&url=PLSjCJzrMeJ8Zkn9cMBR3MWFAhesQQGlDa</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ufc.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]UFC[/COLOR] [COLOR orchid]BEST SUBMISSIONS IN HISTORY[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://plugin.video.thebeanies/?action=youtubePlaylist&url=PLSjCJzrMeJ8ahMPu3w88SFmQEk3finWfA</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ufc.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]MMA[/COLOR] [COLOR orchid]GREATEST FIGHTERS IN HISTORY[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://plugin.video.thebeanies/?action=youtubePlaylist&url=PLSjCJzrMeJ8aUaFf5f-222lOJ3ql1zR6c</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ufc.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]UFC[/COLOR] [COLOR orchid]GREATEST FIGHTERS HIGHLIGHTS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://plugin.video.thebeanies/?action=youtubePlaylist&url=PLSjCJzrMeJ8YKg1i84IwBVFXYg2FKeyBr</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ufc.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</plugin>

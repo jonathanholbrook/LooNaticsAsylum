@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<dir>
+<name>[COLOR dodgerblue]Â¤ [/COLOR] [B][COLOR white]1Click Movies[/COLOR][/B] [COLOR dodgerblue] Â¤[/COLOR]</name>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/indexers.xml</link>
+<thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_greenhat.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR dodgerblue]Â¤ [/COLOR] [B][COLOR white]1Click RD Movies[/COLOR][/B] [COLOR dodgerblue] Â¤[/COLOR]</name>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/1click.xml</link>
+<thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_greenhat.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR dodgerblue]Â¤ [/COLOR] [B][COLOR white]1Click RD Documentaries[/COLOR][/B] [COLOR dodgerblue] Â¤[/COLOR]</name>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/wardocu.xml</link>
+<thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_greenhat.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/fanart.jpg</fanart>
+</dir>

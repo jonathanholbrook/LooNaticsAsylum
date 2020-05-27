@@ -1,0 +1,689 @@
+# -*- coding: utf-8 -*-
+
+import re,json,urllib,urlparse,base64,unicodedata
+
+from resources.lib.modules import client
+from resources.lib.modules import workers
+from resources.lib.modules import jsunpack
+
+class streamer:
+
+    def resolve(self, url):
+        try:
+            if 'eporner.com' in url: u = self.eporner(url)
+
+            elif 'anyporn' in url: u = self.anyporn(url)
+            
+            elif 'anywebcam' in url: u = self.anywebcam(url)
+
+            elif '4tube.com' in url: u = self.fourtube(url)
+            
+            elif 'daftporn.com' in url: u = self.daftporn(url)
+
+            elif 'perfectgirls.net' in url: u = self.perfectgirls(url)
+
+            elif 'pornhub.com' in url: u = self.pornhub(url)
+            
+            elif 'pornheel.com' in url: u = self.pornheel(url)
+            
+            elif 'pandamovie.eu' in url: u = self.pandamovie(url)
+
+            elif 'winporn.com' in url: u = self.winporn(url)
+
+            elif 'yuvutu.com' in url: u = self.yuvutu(url)
+
+            elif 'huge6.com' in url: u = self.hugesix(url)
+
+            elif 'boobsandtits.co.uk' in url: u = self.boobntit(url)
+			
+            elif 'sexmax.co' in url: u = self.sexmax(url)
+
+            elif 'drtube' in url: u = self.drtube(url)
+            
+            elif 'nuvid' in url: u = self.nuvid(url)
+            
+            elif 'solopornoitaliani' in url: u = self.solopornoitaliani(url)
+            
+            elif 'spreadporn.org' in url: u = self.spreadporn(url)
+
+            elif 'befuck.com' in url: u = self.befuck(url)
+            
+            elif 'megasesso' in url: u = self.megasesso(url)
+            
+            elif 'freeones' in url: u = self.freeones(url)
+            
+            elif 'fuqer.com' in url: u = self.fuqer(url)
+            
+            elif 'siska' in url: u = self.siska(url)
+            
+            elif 'satan18av' in url: u = self.satan18av(url)
+
+            elif 'overthumbs' in url: u = self.overthumbs(url)
+
+            elif 'streamate.com' in url: u = self.streamate(url)
+
+            elif 'mixhdporn.com' in url: u = self.mixhd(url)      
+            
+            elif 'xtheatre.net' in url: u = self.xtheatre(url)       
+            
+            elif 'nubilefilm.xxx' in url: u = self.nubilefilm(url)
+            
+            elif 'youporn' in url: u = self.youporn(url)
+            
+            elif 'gfsvideos.com' in url: u = self.gfsvideos(url)
+            
+            elif 'hqporner' in url: u = self.hqporner(url)
+            
+            elif 'ultrahorny' in url: u = self.ultrahorny(url)
+			
+            elif 'pornwatch.tv' in url: u = self.pornwatch(url)
+
+            elif 'pentasex' in url: u = self.pentasex(url)
+			
+            elif 'gotporn.com' in url: u = self.gotporn(url)
+            
+            elif 'triksa.com' in url: u = self.triksa(url)
+
+            elif 'tnaflix' in url: u = self.tna(url)
+
+            elif 'iporntv' in url: u = self.iporntv(url)  
+
+            elif 'pornoxo' in url: u = self.pornoxo(url) 
+
+            elif 'spankbang' in url: u = self.spankbang(url) 
+
+            elif 'pornrox' in url: u = self.pornrox(url)             
+
+            elif 'nudeteenporn' in url: u = self.nudeteenporn(url)   
+
+            elif 'vidz7' in url: u = self.vidz7(url)      
+
+            elif 'motherless' in url: u = self.motherless(url)   
+
+            elif 'xvideos' in url: u = self.xvideos(url)
+
+            elif 'redtube' in url: u = self.redtube(url)            
+
+            elif 'naughtyblog' in url: u = self.naughtyblog(url)
+            
+            else: u = self.generic(url)
+
+            return u
+        except:
+            pass
+
+# MADE BY C-O-S
+
+    def generic(self, url):
+        try:
+            r = client.request(url)
+            r = r.replace('\\', '')
+
+            s = re.findall("[0-9_']+:\s\'([^']+)", r) + re.findall("\s*=\s*\"(http.+?)\"", r)
+            s = [i for i in s if (urlparse.urlparse(i).path).strip('/').split('/')[-1].split('.')[-1] in ['mp4', 'flv', 'm3u8']]
+
+            if not s: s = re.findall("\(\w+\(\"([^\"]*)", r) + re.findall("\(\w+\(\'([^\']*)", r)
+            s = [i for i in s if (urlparse.urlparse(i).path).strip('/').split('/')[-1].split('.')[-1] in ['mp4', 'flv', 'm3u8']]
+            
+            if not s: s = re.findall('\"\w+\":"([^"]*)', r) + re.findall('\'\w+\':\'([^\']*)', r)
+            s = [i for i in s if (urlparse.urlparse(i).path).strip('/').split('/')[-1].split('.')[-1] in ['mp4', 'flv', 'm3u8']]
+
+            if not s: s = re.findall('\s*=\s*\'(http.+?)\'', r) + re.findall('\s*=\s*\"(http.+?)\"', r)
+            s = [i for i in s if (urlparse.urlparse(i).path).strip('/').split('/')[-1].split('.')[-1] in ['mp4', 'flv', 'm3u8']]
+
+            if not s: s = re.findall('\s*:\s*\"(http.+?)\"', r) + re.findall('\s*:\s*\'(http.+?)\'', r)
+            s = [i for i in s if (urlparse.urlparse(i).path).strip('/').split('/')[-1].split('.')[-1] in ['mp4', 'flv', 'm3u8']]
+
+            if not s: s = re.findall('\s*\(\s*\"(http.+?)\"', r) + re.findall('\s*\(\s*\'(http.+?)\'', r)
+            s = [i for i in s if (urlparse.urlparse(i).path).strip('/').split('/')[-1].split('.')[-1] in ['mp4', 'flv', 'm3u8']]
+
+            if not s:s = re.findall('\s*:\s*\"(//.+?)\"', r) + re.findall('\s*:\s*\'(//.+?)\'', r)
+            s = [i for i in s if (urlparse.urlparse(i).path).strip('/').split('/')[-1].split('.')[-1] in ['mp4', 'flv', 'm3u8']]
+
+            if not s:s = re.findall('\:\"(\.+?)\"', r) + re.findall('\:\'(\.+?)\'', r)
+            s = [i for i in s if (urlparse.urlparse(i).path).strip('/').split('/')[-1].split('.')[-1] in ['mp4', 'flv', 'm3u8']]
+
+            if not s: s = re.findall('\s*\(\s*\"(//.+?)\"', r) + re.findall('\s*\(\s*\'(//.+?)\'', r)
+            s = [i for i in s if (urlparse.urlparse(i).path).strip('/').split('/')[-1].split('.')[-1] in ['mp4', 'flv', 'm3u8']]
+
+            if not s: s = re.findall('\s*=\s*\'(//.+?)\'', r) + re.findall('\s*=\s*\"(//.+?)\"', r)
+            s = [i for i in s if (urlparse.urlparse(i).path).strip('/').split('/')[-1].split('.')[-1] in ['mp4', 'flv', 'm3u8']]
+
+            if not s: s = re.findall('\w*:\s*\"(http.+?)\"', r) + re.findall('\w*:\s*\'(http.+?)\'', r)
+            s = [i for i in s if (urlparse.urlparse(i).path).strip('/').split('/')[-1].split('.')[-1] in ['mp4', 'flv', 'm3u8']]
+            
+            if not s: s = re.findall('\w*=\'([^\']*)', r) + re.findall('\w*=\"([^\"]*)', r)
+            s = [i for i in s if (urlparse.urlparse(i).path).strip('/').split('/')[-1].split('.')[-1] in ['mp4', 'flv', 'm3u8']]
+            
+            if not s: s = re.findall('\w*\s*=\s*\'([^\']*)', r) + re.findall('\w*\s*=\s*\"([^\"]*)', r)
+            s = [i for i in s if (urlparse.urlparse(i).path).strip('/').split('/')[-1].split('.')[-1] in ['mp4', 'flv', 'm3u8']]
+            
+            if not s: s = re.findall('(?s)<file>([^<]*)', r)
+            s = [i for i in s if (urlparse.urlparse(i).path).strip('/').split('/')[-1].split('.')[-1] in ['mp4', 'flv', 'm3u8']]
+
+            if not s: s = client.parseDOM(r, 'source', ret='src', attrs = {'type': 'video.+?'})
+            s = ['http:' + i if i.startswith('//') else i for i in s]
+            s = [urlparse.urljoin(url, i) if not i.startswith('http') else i for i in s]
+            s = [x for y,x in enumerate(s) if x not in s[:y]]
+
+            self.u = []
+            def request(i):
+                try:
+                    i = i.replace(' ','%20')
+                    c = client.request(i, output='headers')
+                    checks = ['video','mpegurl','html','octet-stream']
+                    if any(f for f in checks if f in c['Content-Type']): self.u.append((i, int(c['Content-Length'])))
+                except:
+                    pass
+            threads = []
+            for i in s: threads.append(workers.Thread(request, i))
+            [i.start() for i in threads] ; [i.join() for i in threads]
+            u = sorted(self.u, key=lambda x: x[1])[::-1]
+            u = client.request(u[0][0], output='geturl', referer=url)
+            return u
+        except:
+            pass
+
+# MADE BY C-O-S
+
+    def eporner(self, url):
+        try:
+            r = client.request(url)
+            link = re.findall('"(\/dload.+?)"', r)[-1]
+            link = urlparse.urljoin(url, link)
+            return link
+        except:
+            return
+
+    def fourtube(self, url):
+        try:        
+            fourtube_ref = url
+            self.fourtube_base   = 'https://www.4tube.com'
+            self.fourtube_embed  = '/embed/%s'
+            self.fourtube_player = '/js/player/embed/%s'
+            self.fourtube_post   = 'https://tkn.kodicdn.com/%s/desktop/%s'
+            id = re.findall('\/([0-9]+)',url)[0]
+            r = client.request(urlparse.urljoin(self.fourtube_base,self.fourtube_embed % id))
+            js = re.findall('\/player\/embed\/([^"]+)',r)[0]
+            url = urlparse.urljoin(self.fourtube_base,self.fourtube_player % js)
+            r = client.request(url)
+            url_id,qual = re.compile('ajax\(url,opts\);}}\)\(([\d]+),[\d]+,\[([\d,]+)\]\);').findall(r)[0]
+            qual = qual.replace(',','+')
+            r = client.request(self.fourtube_post % (url_id,qual), post='', headers={'Origin': self.fourtube_base}, referer=fourtube_ref)
+            s = re.compile('token\":\"([^"]+)').findall(r)
+            
+            self.u = []
+            def request(i):
+                try:
+                    c = client.request(i, output='headers')
+                    checks = ['video','mpegurl']
+                    if any(f for f in checks if f in c['Content-Type']): self.u.append((i, int(c['Content-Length'])))
+                except:
+                    pass
+            threads = []
+            for i in s: threads.append(workers.Thread(request, i))
+            [i.start() for i in threads] ; [i.join() for i in threads]
+
+            u = sorted(self.u, key=lambda x: x[1])[::-1]
+            u = client.request(u[0][0], output='geturl', referer=url)
+            return u
+        except:
+            return
+            
+    def freeones(self, url):
+        try:		
+            u = client.request(url)
+            e = re.findall('_script"\ssrc="([^"]*)', u)[0]
+            return self.generic(e)
+        except:
+            return
+            
+    def fuqer(self, url):
+        try:		
+            u = client.request(url)
+            e = re.findall('config:\'([^\']*)', u)[0]
+            return self.generic(e)
+        except:
+            return
+
+    def perfectgirls(self, url):
+        try:
+            r = client.request(url)
+            express = 'get\("(.+?)",\sfunction\s\(data\)'
+            link = re.compile(express, re.MULTILINE|re.DOTALL).findall(r)[0]
+            embed = urlparse.urljoin(url, link)
+            embed = client.request(embed)
+            embed = re.findall('(http.+)', embed)[0]
+            return embed
+        except:
+            return
+
+
+    def pornhub(self, url):
+        try:
+            r = client.request(url)
+            vars = re.findall('var\s+(.+?)\s*=\s*(.+?);', r)
+            link = re.findall('quality_\d+p\s*=\s*(.+?);', r)[0]
+            link = [i.strip() for i in link.split('+')]
+            link = [i for i in link if i.startswith('*/')]
+            link = [re.sub('^\*/', '', i) for i in link]
+            link = [(i, [x[1] for x in vars if x[0] == i]) for i in link]
+            link = [i[1][0] if i[1] else i[0] for i in link]
+            link = ''.join(link)
+            link = re.sub('\s|\+|\'|\"', '', link)
+            return link
+        except:
+            return 
+#pornheel gets url and provider name list
+    def pornheel(self, url):
+        try:
+            u = client.request(url)
+            e = re.findall('<a\shref="([^"]*)".+?">Streaming\s([^<]*)', u)
+            e = [(client.request(i[0], output='geturl'), i[1]) for i in e if i]
+            return e
+        except:
+            return 
+
+    def pandamovie(self, url):
+        try:
+            u = client.request(url)
+            e = re.findall('<li>.+?on ([^"]*).+?f="([^"]*)', u)
+            e = [(i[0],i[1]) for i in e if 'pandamovie' not in i[1]]
+            return e
+        except:
+            return
+
+
+    def winporn(self, url):
+        try:
+            r = client.request(url)
+            link = re.findall('var video_id = "(.+?)"', r)[0]
+            r = 'http://nl.winporn.com/player_config_json/?vid=' + link + '&aid=0&domain_id=0&embed=0&ref=&check_speed=0'
+            return self.generic(r)
+        except:
+            return
+
+
+    def yuvutu(self, url):
+        try:
+            r = client.request(url)
+            r = client.parseDOM(r, 'iframe', ret='src')
+            r = [i for i in r if 'embed' in i][0]
+            r = urlparse.urljoin(url, r)
+            return self.generic(r)
+        except:
+            return
+			
+            			
+    def hugesix(self, url):
+        try:
+            main = client.request(url)
+            links = re.findall('config=(.+?)",', main)[0] 
+            link = links
+            link = client.request(link)
+            express1 = '<filehd>(.+?)</filehd>'
+            express2 = '<file>(.+?)</file>'
+            play = re.compile(express1, re.MULTILINE|re.DOTALL).findall(link)
+            if not play: play = re.compile(express2, re.MULTILINE|re.DOTALL).findall(link)
+            play = play[0]
+            return play
+        except:
+            return
+
+    def boobntit(self, url):
+        try:
+            main = client.request(url)
+            link = client.parseDOM(main, 'div', attrs = {'id': 'player'})
+            link = client.parseDOM(link, 'iframe', ret='src')
+            link = link[0]
+            return self.generic(link)
+        except:
+            return self.generic(url)
+			
+    def sexmax(self, url):
+        try:		
+            url = client.request(url)
+            express = '<div id="player-embed">.+?<iframe src="(.+?)"'
+            link = re.compile(express, re.MULTILINE|re.DOTALL).findall(url)[0]
+            dir = client.request(link)
+            dir = dir.replace('\/', '/')
+            express = '"src":"(.+?)"'
+            link = re.compile(express, re.MULTILINE|re.DOTALL).findall(dir)[0]
+            return link
+        except:
+            return
+
+    def drtube(self, url):
+        try:		
+            url = client.request(url)
+            express = 'vid:(.+?),'
+            link = re.compile(express, re.MULTILINE|re.DOTALL).findall(url)[0]
+            link = 'http://www.drtuber.com/player_config_json/?vid=' + link + '&aid=0&domain_id=0&embed=0&ref=&check_speed=0'
+            return self.generic(link)
+        except:
+            return
+            
+    def nuvid(self, url):
+        try:		
+            url = client.request(url)
+            express = 'vid:(.+?),'
+            link = re.compile(express, re.MULTILINE|re.DOTALL).findall(url)[0]
+            link = 'http://www.nuvid.com/player_config_json/?vid=' + link + '&aid=0&domain_id=0&embed=0&ref=&check_speed=0'
+            html = client.request(link)
+            html = html.replace('\/', '/')
+            express2 = '"hq":"(.+?)"'
+            express3 = '"lq":"(.+?)"'
+            play = re.compile(express2, re.MULTILINE|re.DOTALL).findall(html)
+            if not play: play = re.compile(express3, re.MULTILINE|re.DOTALL).findall(html)
+            play = play[0]
+            return play
+        except:
+            return
+            
+    def solopornoitaliani(self, url):
+        try:		
+            url = client.request(url)
+            express = '\'videoid\',\'(.+?)\''
+            link = re.compile(express, re.MULTILINE|re.DOTALL).findall(url)[0]
+            link = 'http://www.solopornoitaliani.xxx/vdata/' + link + '.flv'
+            return link
+        except:
+            return
+     # MADE BY C-O-S
+       
+    def megasesso(self, url):
+        try:		
+            u = client.request(url)
+            u = client.parseDOM(u, 'div', attrs = {'class': 'player-iframe'})
+            u = [(client.parseDOM(i, 'iframe', ret='src')) for i in u]
+            u = [(client.replaceHTMLCodes(i[0]).encode('utf-8')) for i in u]
+            u = 'http://www.megasesso.com' + u[0]
+            return self.generic(u)
+        except:
+            return
+
+            
+    def siska(self, url):
+        try:		
+            u = client.request(url)
+            e = re.findall('document\.write\(base64_decode\(\'([^\']*)', u)[0]
+            b64 = base64.b64decode(e)            
+            play = re.findall('rc="([^"]*)', b64)[0]
+            return play
+        except:
+            return
+
+    def overthumbs(self, url):
+        try:
+            u = client.request(url)
+            e = re.findall('(?s)id="play".+?src="([^"]*)', u)[0]
+            e = ('http://overthumbs.com' + e)
+            r = client.request(e)
+            unpack = jsunpack.unpack(r)
+            return re.findall('file.+?"([^"]*)',unpack)[0]
+        except:
+            return
+
+    def streamate(self, url):
+        try:
+            u = client.request(url)
+            e = re.findall('iframe\.src = \'([^\']*)', u)
+            e = 'https://www.streamate.com' + e[0]
+            r = client.request(e)
+            r = re.findall('data-manifesturl="([^"]*)', r)[0]
+            return self.generic(r)
+        except:
+            return
+
+#spreadporn gets link and provider name and provider logo
+    def spreadporn(self, url):
+        try:
+            u = client.request(url)
+            e = re.findall('(?s)<li class.+?"stream".+?k="([^"]*).+?c="([^"]*)"\salt="([^"]*)', u)
+            return e
+        except:
+            return
+            
+    def satan18av(self, url):
+        try:
+            u = client.request(url)
+            e = re.findall('<iframe src="([^"]*)', u)[0]
+            return e
+        except:
+            return
+
+    def befuck(self, url):
+        try:
+            u = client.request(url)
+            e = re.findall('<source src="([^"]*)', u)[0]
+            return e
+        except:
+            return      
+#mixhd gets link and provider  
+    def mixhd(self, url):
+        try:
+            u = client.request(url)
+            u = re.findall('<iframe src="([^"]*)', u)
+            u = [(i,i.split('//')[-1].split('.')[0]) for i in u]
+            return u
+        except:
+            return
+#xtheatre gets link and provider   
+    def xtheatre(self, url):
+        try:
+            u = client.request(url)
+            u = re.findall('<iframe src="([^"]*)', u)
+            u = [(i,i.split('//')[-1].split('.')[0]) for i in u]
+            return u
+        except:
+            return
+            
+    def nubilefilm(self, url):
+        try:
+            u = client.request(url)
+            u = re.findall('<source type="video/mp4" src="([^"]*)', u)[0]
+            return u
+        except:
+            return
+            
+    def youporn(self, url):
+        try:
+            u = client.request(url)
+            u = re.findall('(?s)"quality":"([^"]*).+?Url":"([^"]*)', u)
+            u = [(i[0],i[1].replace('\\','')) for i in u]
+            return u
+        except:
+            return
+            
+    def gfsvideos(self, url):
+        try:
+            u = client.request(url)
+            u = re.findall('<source src="([^"]*)', u)[0]
+            headers = 'Accept-Language=en-US,en;q=0.8&Accept-Encoding=identity;q=1, *;q=0&Referer=%s&chrome-proxy=frfr&Accept=*/*&User-Agent=Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/6.0)' % url
+            return u + '|' + headers
+        except:
+            return
+            
+    def daftporn(self, url):
+        try:
+            u = client.request(url)
+            u = re.findall('<source src="([^"]*)', u)[0]
+            return u
+        except:
+            return
+            
+    def anyporn(self, url):
+        try:
+            u = client.request(url)
+            u = re.findall('video_url: \'([^\']*)', u)[0]
+            return u
+        except:
+            return
+            
+    def hqporner(self, url):
+        try:
+            u = client.request(url)
+            u = re.findall('<iframe.+?src="([^"]*)', u)[0]
+            r = 'http:' + u
+            return self.generic(r)
+        except:
+            return
+##GETS LIST WITH RESOLUTIONS
+    def anywebcam(self, url):
+        try:
+            u = client.request(url)
+            u = re.findall('<iframe id="hybrid-client" src="([^"]*)', u)[0]
+            r = 'https://www.anywebcam.com' + u
+            r2 = client.request(r)
+            r2 = re.findall('data-manifesturl="([^"]*)', r2)[0]
+            r3 = client.request(r2)
+            r3 = re.findall('(?s)videoWidth":([^,]*),"videoHeight":([^,]*).+?location":"(h[^"]*)', r3)            
+            return r3
+        except:
+            return
+## PROVIDER AND URL
+    def ultrahorny(self, url):
+        try:
+            u = client.request(url)
+            e = re.findall('(?s)class="movieplay">.+?src="([^"]*)', u)
+            e = [(i,i.split('//')[-1].split('.')[0]) for i in e]
+            e = [(i[0],i[1].replace('stream','MoeStream').replace('www','rapidvid')) for i in e]
+            return e
+        except:
+            return
+## PROVIDER AND URL
+    def pornwatch(self, url):
+        try:
+            u = client.request(url)
+            u = u.split('id="videolinks">', 1)[-1]
+            u = u.split('<div class="comments">', 1)[0]
+            r = re.findall('(?s)class="col-sm-(?:[^f]*)f="([^"]*)(?:[^=]*)=(?:[^=]*)=(?:[^=]*)=(?:[^=]*)="([^"]*)', u)
+            return r
+        except:
+            return
+			
+## PROVIDER AND URL
+    def pentasex(self, url):
+        try:
+            u = client.request(url)
+            r = re.findall('(?s)\(\'iframe-player(?:[^=]*)=["\']([^["\']*)(?:[^"]*)">([^<]*)', u)
+            return r
+        except:
+            return
+			
+## PLAY URL
+    def gotporn(self, url):
+        try:
+            u = client.request(url)
+            r = re.findall('(?s)<source src="([^"]*)', u)[0]
+            return r
+        except:
+            return
+			
+    def triksa(self, url):
+        try:
+            u = client.request(url)
+            f = re.findall('(?s)<!--QuoteEBegin-->(?:[^f]*)f="([^"]*)', u)[0]
+            r = client.request(f, output='geturl')			
+            return r
+        except:
+            return
+            
+    def tna(self, url):
+        try:
+            u = client.request(url)
+            f = re.findall('(?s)itemprop="contentUrl" content="([^"]*)', u)[0]
+            return f
+        except:
+            return
+            
+    def iporntv(self, url):
+        try:
+            u = client.request(url)
+            r = re.findall('(?s)file: "([^"]*)', u)[0]
+            return r
+        except:
+            return
+          
+    def pornoxo(self, url):
+        try:
+            u = client.request(url)
+            r = re.findall('(?s){"src":"([^"]*)","desc":"([^"]*)', u)
+            r = [(i[0].replace('\/','/'),i[1]) for i in r]
+            return r
+        except:
+            return
+            
+    def spankbang(self, url):
+        try:
+            u = client.request(url)
+            r = re.findall('(?s)stream_url_([^p]*)p(?:[^\']*)\'([^\']*)', u)
+            r = [(i[0],i[1]) for i in r if '.mp4' in i[1]]
+            return r
+        except:
+            return
+            
+    def pornrox(self, url):
+        try:
+            u = client.request(url)
+            u = u.split('window.players=', 1)[-1]
+            u = u.split('<ul class="menu-list video-management', 1)[0]
+            e = re.findall('(?s)"([^"]*)":"([^"]*)', u)
+            e = [(i[0],i[1].replace('\/','/')) for i in e]
+            return e
+        except:
+            return
+
+    def nudeteenporn(self, url):
+        try:
+            u = client.request(url)
+            e = re.findall('(?s)<iframe(?:[^=]*)=(?:[^=]*)=(?:[^=]*)="([^"]*)', u)[0]
+            r = client.request(e)
+            e2 = re.findall('(?s)video_url: \'([^\']*)', r)[0]
+            return e2
+        except:
+            return          
+    def vidz7(self, url):
+        try:           
+            u = client.request(url)
+            e = re.findall('(?s)<iframe src="([^"]*)', u)[0]
+            return e
+        except:
+            return  
+            
+    def motherless(self, url):
+        try:           
+            u = client.request(url)
+            e = re.findall('(?s)"file": "([^"]*)', u)[0]
+            return e
+        except:
+            return  
+            
+    def xvideos(self, url):
+        try:           
+            u = client.request(url)
+            e = re.findall('html5player.setVideoHLS\(\'([^\']*)', u)[0]
+            return e
+        except:
+            return
+            
+    def redtube(self, url):
+        try:           
+            u = client.request(url)
+            e = re.findall('(?s)"quality_([^"]*)":"([^"]*)', u)
+            e = [(i[0],i[1].replace('\/','/')) for i in e]
+            return e
+        except:
+            return
+
+    def naughtyblog(self, url):
+        try:           
+            u = client.request(url)
+            u = u.split('<strong>Download:', 1)[-1]; u = u.split('<strong>Watch online:', 1)[0]
+            r = re.findall('(?s)<a h(?:[^=]*)=(?:[^=]*)="([^"]*)(?:[^>]*)>([^<]*)', u)
+            hosts = ['Rapidgator','Uploaded']; e =[]
+            for i in r:
+                if any(x for x in hosts if x in i[0]): e.append((i[0].replace('Direct Link',''),i[1]))
+            return e
+        except:
+            return

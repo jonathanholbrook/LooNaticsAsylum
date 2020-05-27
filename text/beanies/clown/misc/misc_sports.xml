@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]E SPORTS[/COLOR] [COLOR orchid] (SE)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=116</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/e_sports.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/esports_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]HANDBALL[/COLOR] [COLOR orchid] (SE)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=130</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/handball.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/handball_fanart.jpg</fanart>
+</plugin>
+<item>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]SNOOKER[/COLOR] [COLOR orchid]EUROSPORT 2[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>
+        <sublink>http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8</sublink>
+    </link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/snooker.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/snooker_fanart.jpg</fanart>
+</item>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]TABLE TENNIS[/COLOR] [COLOR orchid] (SE)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=128</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/tabletennis.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/tabletennis_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]VOLLEYBALL[/COLOR] [COLOR orchid] (SE)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=118</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/volleyball.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/volleyball_fanart.jpg</fanart>
+</plugin>
+
+
+
+
+
+
+###############
+Fox
+        <sublink>http://cdn.yoursports.stream/wnyw.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36&Referer=http://yoursports.stream/ing/fox</sublink>
+        <sublink>https://e7.cdn4.us/ingest666/wnyw.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36&Referer=https://sportsbay.org</sublink>
+        <sublink>http://live.highstream.club/live/FOX/chunks.m3u8|Referer=http://imkmedia.com/watch/fox-network/</sublink>
+
+###############
+FS1
+        <sublink>http://cdn.yoursports.stream/fs1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36&Referer=http://yoursports.stream/ing/fs1</sublink>
+        <sublink>http://edge1.docache.net/sports/foxsp1.m3u8</sublink>
+        <sublink>http://live.fadev.club/live/FS1/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36&Referer=http://imkmedia.com/watch/fox-sports-1/</sublink>
+        <sublink>https://e7.cdn4.us/ingest666/fs-one.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36&Referer=https://live-tennis.stream/stream/45459.html</sublink>
+        <sublink>http://cdn.sports24.win/fs1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36&Referer=http://sports24.club/tv/v?id=fs1</sublink>
+        <sublink test>http://cdn1.soccerfree.icu/live/ch1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjAgNDo1NDoyNSBQTSZoYXNoX3ZhbHVlPWFaLy9LeFRNOHhGMFFsYVg0QStjaFE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAwMzpmNTpjYmNmOmMyMDA6NzVhNDphYjkyOjExODc6Y2NiNSZzdHJtX2xlbj03|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36&Referer=http://soccerlive.xyz/player/ch1.php</sublink>

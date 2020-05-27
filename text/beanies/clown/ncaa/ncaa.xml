@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<item>
+    <title>[COLOR orchid]¤¤¤¤¤[/COLOR] [B][COLOR white]NCAA[/COLOR] [COLOR orchid]LIVE[/COLOR][/B] [COLOR orchid]¤¤¤¤¤[/COLOR]</title>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ncaa.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ncaa_fanart.jpg</fanart>
+</item>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]NCAA FOOTBALL[/COLOR] [COLOR orchid] (6S)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=162</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ncaa.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ncaa_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]NCAA FOOTBALL[/COLOR] [COLOR orchid] (CS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=44</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ncaa.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ncaa_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]NCAA FOOTBALL[/COLOR] [COLOR orchid] (QA)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=138</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ncaa.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ncaa_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]NCAA FOOTBALL[/COLOR] [COLOR orchid] (VL)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=66</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ncaa.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ncaa_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]TRENDING SPORTS LIVE[/COLOR] [COLOR orchid] (YSS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=94</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV[/COLOR] [COLOR orchid] (YSS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=82</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV CHANNELS[/COLOR] [COLOR orchid] (WS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=214</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV CHANNELS[/COLOR] [COLOR orchid] (SB)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=226</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]MAD TITAN NCAA[/COLOR] [COLOR orchid] DIRECTS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://magnetic.website/Mad%20Titan/NCAA%20GAMES.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/titan.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ncaa_fanart.jpg</fanart>
+</dir>
+<item>
+    <title>[COLOR orchid]¤¤¤¤¤[/COLOR] [B][COLOR white]NCAA[/COLOR] [COLOR orchid] CHANNELS[/COLOR][/B] [COLOR orchid]¤¤¤¤¤[/COLOR]</title>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ncaa.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ncaa_fanart.jpg</fanart>
+</item>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]ESPN[/COLOR] [COLOR orchid] SPORTS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/channels/espn.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/espn.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ncaa_fanart.jpg</fanart>
+</dir>
+<item>
+<title>[COLOR orchid]¤[/COLOR] [B][COLOR white]NCAA[/COLOR] [COLOR orchid] GAMEDAY[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+<link>
+    <sublink>http://cdn.sports24.win/espn.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36&Referer=http://sports24.club/ncaa/gameday-espn.html</sublink>
+    <sublink>http://yrsprts.xyz/hls/yss.m3u8?ch=spn|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36</sublink>
+</link>
+<thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ncaa.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ncaa_fanart.jpg</fanart>
+</item>
+<dir>
+<title>[COLOR orchid]¤[/COLOR] [B][COLOR white]COLLEGE[/COLOR] [COLOR orchid] CHANNELS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/ncaa/ncaa_channels.xml</link>
+<thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ncaa.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ncaa_fanart.jpg</fanart>
+</dir>

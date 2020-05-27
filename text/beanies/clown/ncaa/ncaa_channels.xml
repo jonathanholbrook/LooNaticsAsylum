@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<item>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]SEC[/COLOR] [COLOR orchid]NETWORK[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>
+        <sublink>http://cdn.yoursports.stream/sec.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36&Referer=http://yoursports.stream/ing/sec</sublink>
+        <sublink>https://e7.cdn4.us/ingest666/sec-network.m3u8|Referer=https://box-live.stream</sublink>
+        <sublink>https://e7.cdn4.us/ingest666/sec-network.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36&Referer=https://sportsbay.org</sublink>
+    </link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/sec.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ncaab_fanart.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]BIG[/COLOR] [COLOR orchid]10[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>
+        <sublink>https://e7.cdn4.us/ingest666/btn.m3u8|Referer=https://box-live.stream</sublink>
+        <sublink>https://e7.cdn4.us/ingest666/btn.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36&Referer=https://sportsbay.org</sublink>
+        <sublink>http://cdn.yoursports.stream/btn.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36&Refererhttp://yoursports.stream/ing/btn</sublink>
+    </link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/btn.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ncaab_fanart.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]ACCN[/COLOR] [COLOR orchid]ESPN[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>
+        <sublink>https://e7.cdn4.us/ingest666/accn.m3u8|Referer=https://box-live.stream</sublink>
+        <sublink>https://e7.cdn4.us/ingest666/accn.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36&Referer=https://sportsbay.org</sublink>
+        <sublink>http://cdn.yoursports.stream/acc.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36&Referer=http://yoursports.stream/ing/acc</sublink>
+    </link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/accn.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ncaab_fanart.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]FOX[/COLOR] [COLOR orchid]SPORTS 1[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>
+        <sublink>https://cvtv.cvalley.net/hls/FS1/FS1.m3u8</sublink>
+        <sublink>http://cdn.yoursports.stream/fs1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36&Referer=http://yoursports.stream/ing/fs1</sublink>
+        <sublink>https://e7.cdn4.us/ingest666/fs-one.m3u8|Referer=https://box-live.stream</sublink>
+        <sublink>https://e7.cdn4.us/ingest666/fs-one.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36&Referer=https://sportsbay.org</sublink>
+    </link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fox_sports1.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ncaab_fanart.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]FOX[/COLOR] [COLOR orchid]SPORTS 2[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link >
+        <sublink>https://e7.cdn4.us/ingest666/fstwo.m3u8|Referer=https://box-live.stream</sublink>
+        <sublink>https://e7.cdn4.us/ingest666/fstwo.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36&Referer=https://sportsbay.org</sublink>
+    </link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fox_sports2.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ncaab_fanart.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]ABC[/COLOR] [COLOR orchid]SPORTS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link >
+        <sublink>http://cdn.yoursports.stream/abc5.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36&Referer=http://yoursports.stream/ing/abc</sublink>
+    </link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/abc_sports.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ncaab_fanart.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LONGHORN[/COLOR] [COLOR orchid]NETWORK[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link >
+        <sublink>http://cdn.yoursports.stream/lhn.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36&Referer=http://yoursports.stream/ing/lhn</sublink>
+    </link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/longhorn.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ncaab_fanart.jpg</fanart>
+</item>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]NBC[/COLOR] [COLOR orchid]SPORTS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/channels/nbc.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/nbc_sports.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ncaab_fanart.jpg</fanart>
+</dir>
+<item>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]CBS[/COLOR] [COLOR orchid]SPORTS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop_6.m3u8</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/cbs_sports.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ncaab_fanart.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]CBS[/COLOR] [COLOR orchid]TV[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://teleupmsl.akamaized.net/hls/live/2004009/whphdmsl/playlist.m3u8?set-segment-duration=quality&hdnea=st=1572721265~exp=1572742865~acl=!*/*!/payload/yupptvott_5_2372089_7d290cac-34f9-2301-6063-b3e7d50c1b19_DO_186.6.35.103_ustvnow_3_channel_60_-1/*~data=yupptvott_5_2372089_7d290cac-34f9-2301-6063-b3e7d50c1b19_DO_186.6.35.103_ustvnow_3_channel_60_-1~hmac=8a8b9bb66a5ce47b85066de65b95ec71b3598c442a4a5f23dce3136ae150396a</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/cbs_sports.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ncaab_fanart.jpg</fanart>
+</item>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]PAC[/COLOR] [COLOR orchid]12 SPORTS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/channels/pac12.xmll</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/pac12.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ncaab_fanart.jpg</fanart>
+</dir>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]TRENDING SPORTS LIVE[/COLOR] [COLOR orchid] (YSS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=94</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV[/COLOR] [COLOR orchid] (YSS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=82</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV CHANNELS[/COLOR] [COLOR orchid] (WS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=214</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV CHANNELS[/COLOR] [COLOR orchid] (SB)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=226</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>

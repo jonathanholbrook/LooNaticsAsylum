@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<item>
+    <title>[COLOR orchid]¤¤¤¤¤[/COLOR] [B][COLOR white]FORMULA 1[/COLOR] [COLOR orchid]LIVE[/COLOR][/B] [COLOR orchid]¤¤¤¤¤[/COLOR]</title>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/f1.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/f1_fanart.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]FORMULA 1[/COLOR] [COLOR orchid](GR)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>$doregex[makelist]</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/f1.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/f1_fanart.jpg</fanart>
+    <regex>
+        <name>makelist</name>
+        <listrepeat>
+            <![CDATA[
+        <title>[COLOR orchid]*[/COLOR] [COLOR white][makelist.param3][/COLOR] [COLOR orchid]*[/COLOR]</title><link>$doregex[makelist2]</link><thumbnail>[makelist.param2]</thumbnail>]]>
+        </listrepeat>
+        <expres>
+            <![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client,cache
+    import re,urllib
+    u = urllib.urlopen('http://givemereddit.stream/formula-1').read()
+    r = re.findall('(?s)<a href="([^"]*)(?:[^=]*)=(?:[^=]*)=(?:[^=]*)=(?:[^=]*)="([^"]*)">(?:[^>]*)>(?:[^>]*)>([^<]*)(?:[^>]*)>(?:[^>]*)>\s+([^\n]*)', u)
+    r = [(i[0],i[1],client.replaceHTMLCodes(i[2]), i[3]) for i in r if 'png' in i[1]]
+    r = [(i[0],i[1],i[2],i[3]) for i in r if 'All Games' not in i[2]]
+    return r
+]]>
+        </expres>
+        <page/>
+    </regex>
+    <regex>
+        <name>makelist2</name>
+        <expres>
+            <![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = '[makelist.param1]'):
+    from resources.lib.modules import client
+    import re
+    u = client.request(url) 
+    r = re.findall(' source: \'([^\']*)', u)[0]
+    return r
+]]>
+        </expres>
+        <page/>
+    </regex>
+</item>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]FORMULA 1[/COLOR] [COLOR orchid]LIVE (HS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=15</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/f1.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/f1_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]FORMULA 1[/COLOR] [COLOR orchid]LIVE (QA)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=144</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/f1.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/f1_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]FORMULA 1[/COLOR] [COLOR orchid]LIVE (SN)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=206</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/f1.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/f1_fanart.jpg</fanart>
+</plugin>
+<item>
+    <title>[COLOR orchid]¤¤¤¤¤[/COLOR] [B][COLOR white]FORMULA 1[/COLOR] [COLOR orchid]CHANNELS[/COLOR][/B] [COLOR orchid]¤¤¤¤¤[/COLOR]</title>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/f1.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/f1_fanart.jpg</fanart>
+</item>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]ESPN[/COLOR] [COLOR orchid]SPORTS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/channels/espn.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/espn.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/f1_fanart.jpg</fanart>
+</dir>
+<item>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]SKY SPORTS[/COLOR] [COLOR orchid]FORMULA 1[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Formula-1.html</link>
+    <thumbnail>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSF1.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/f1_fanart.jpg</fanart>
+</item>

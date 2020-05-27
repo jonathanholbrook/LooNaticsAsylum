@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]BOXING[/COLOR] [COLOR orchid]REPLAYS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/boxing/boxing_replays.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/boxing.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/boxing_fanart.jpg</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]MLB[/COLOR] [COLOR orchid]2019 FULL GAMES (1)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://pastebin.com/raw/mRBRMv6X</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/mlb.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/mlb_fanart.jpg</fanart>
+</dir>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]MLB[/COLOR] [COLOR orchid]2019 FULL GAMES (2)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://plugin.video.thebeanies/?action=youtubePlaylist&url=PLe-QdpSEO-ZKX_C8AQXwz2fZZPHDnJYx7</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/mlb.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/mlb_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]MLB[/COLOR] [COLOR orchid]2019 GAME RECAPS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://plugin.video.thebeanies/?action=youtubePlaylist&url=PLL-lmlkrmJamiSMOFET46BizlvPmI-95I</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/mlb.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/mlb_fanart.jpg</fanart>
+</plugin>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]NBA[/COLOR] [COLOR orchid]REPLAYS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/nba/nba_replays.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/nba.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/nba_fanart.jpg</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]NFL[/COLOR] [COLOR orchid] FULL GAME REPLAYS 2019/2020[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/nfl/nflreplays1920.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/nfl.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/nfl_fanart.jpg</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]NFL[/COLOR] [COLOR orchid]CONDENSED GAME REPLAYS 2019/2020[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/nfl/nflcondensed1920.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/nfl.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/nfl_fanart.jpg</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]UFC / MMA[/COLOR] [COLOR orchid]REPLAYS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/ufc_mma/replays.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/ufc.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]WWE RAW FULL SHOW[/COLOR] [COLOR orchid]REPLAYS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/wwe/raw.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/wwe_raw.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/wwe_raw_fanart.jpg</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]WWE SMACKDOWN FULL SHOW[/COLOR] [COLOR orchid]REPLAYS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/wwe/smack.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/smackdown.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/smackdown_fanart.jpg</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]WWE NXT FULL SHOW[/COLOR] [COLOR orchid]REPLAYS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/wwe/nxt.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/nxt.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/nxt_fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]WWE BACKSTAGE[/COLOR] [COLOR orchid]REPLAYS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/wwe/backstage.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/wwe_network.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/wwe-netwrok_fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]AEW FULL SHOW[/COLOR] [COLOR orchid]REPLAYS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/wwe/aew.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/aew.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/aew_fanart.jpg</fanart>
+</dir>

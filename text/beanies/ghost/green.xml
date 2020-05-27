@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<dir>
+<name>[COLOR dodgerblue]Â¤ [/COLOR] [B][COLOR white]1Click Hd Movies[/COLOR][/B] [COLOR dodgerblue] Â¤[/COLOR]</name>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/main_1click.xml</link>
+<thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_greenhat.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR dodgerblue]Â¤ [/COLOR] [B][COLOR white]1Click Kids Hd Movies[/COLOR][/B] [COLOR dodgerblue] Â¤[/COLOR]</name>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/hatkids.xml</link>
+<thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_greenhat.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR dodgerblue]Â¤ [/COLOR] [B][COLOR white]1Click Uhd RD Movies[/COLOR][/B] [COLOR dodgerblue] Â¤[/COLOR]</name>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/4k.xml</link>
+<thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_greenhat.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR dodgerblue]Â¤ [/COLOR] [B][COLOR white]1Click RD Collection[/COLOR][/B] [COLOR dodgerblue] Â¤[/COLOR]</name>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/rdcollections.xml</link>
+<thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_greenhat.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/fanart.jpg</fanart>

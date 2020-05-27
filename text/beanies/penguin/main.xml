@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<dir>
+    <name>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Stretching[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/penguin/Stretching/main_Stretching.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_blackhat.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/penguin/bg/fitness_fanart.jpg</fanart>
+</dir>
+<dir>
+    <name>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Targetted Workouts[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/penguin/TargettedWorkout/main_TargettedWorkout.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_blackhat.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/penguin/bg/fitness_fanart.jpg</fanart>
+</dir>
+<dir>
+    <name>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Fitness Channels[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/penguin/FitnessChannels/main_FitnessChannels.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_blackhat.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/penguin/bg/fitness_fanart.jpg</fanart>
+</dir>
+<dir>
+    <name>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Yoga Channels[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/penguin/YogaChannels/main_YogaChannels.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_blackhat.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/penguin/bg/fitness_fanart.jpg</fanart>
+</dir>
+<dir>
+    <name>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Anabolic DOC[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/penguin/AnabolicDoc/main_anabolicdoc.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_blackhat.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/penguin/bg/fitness_fanart.jpg</fanart>
+</dir>
+<dir>
+    <name>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Men's Health[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/penguin/MensHealth/main_menshealth.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_blackhat.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/penguin/bg/fitness_fanart.jpg</fanart>
+</dir>
+<dir>
+    <name>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Gravity Transformation[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/penguin/Gravity/main_gravity.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_blackhat.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/penguin/bg/fitness_fanart.jpg</fanart>
+</dir>
+<dir>
+    <name>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Spartan[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/penguin/Spartan/main_spartan.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_blackhat.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/penguin/bg/fitness_fanart.jpg</fanart>
+</dir>
+<dir>
+    <name>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Motivational[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/penguin/Motivational/main_motivation.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_blackhat.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/penguin/bg/fitness_fanart.jpg</fanart>
+</dir>
+
+  

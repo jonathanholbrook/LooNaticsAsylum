@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<item>
+    <title>[COLOR orchid]¤¤¤¤¤[/COLOR] [B][COLOR white]BAREKNUCLE[/COLOR] [COLOR orchid]LIVE DIRECTS[/COLOR][/B] [COLOR orchid]¤¤¤¤¤[/COLOR]</title>
+    <link>
+        <sublink></sublink>
+    </link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/bareknuckle.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/bareknuckle_fanart.png</fanart>
+</item>
+<item>
+    <title>[COLOR orchid]¤¤¤¤¤[/COLOR] [B][COLOR white]BARE KNUCKLE[/COLOR] [COLOR orchid]REPLAYS[/COLOR][/B] [COLOR orchid]¤¤¤¤¤[/COLOR]</title>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/bareknuckle.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/bareknuckle_fanart.png</fanart>
+</item>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]VALOR[/COLOR] [COLOR orchid]BARE KNUCKLE[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://plugin.video.thebeanies/?action=youtubePlaylist&url=PL0u_wl12cI-RYNCNsMJwvfMW6SiqqwtLO</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/valor.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/bareknuckle_fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]BARE KNUCKLE[/COLOR] [COLOR orchid]FIGHTING CHAMPIONSHIP[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://plugin.video.thebeanies/?action=youtubeChannel&url=UCEeMsInLdrUbIkbEcNm7g-A</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/bareknuckle.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/bareknuckle_fanart.png</fanart>
+</plugin>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<plugin>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Beastie Boys Chill Mix[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102CczFyKS_QC98gVkml-2CFQ/</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]The In Sound From Way Out! [/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>plugin://plugin.video.youtube/playlist/OLAK5uy_k5ez0l2_8uIwGrtzyRVD3pu0BP5nld56I/</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]The Mix-Up[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>plugin://plugin.video.youtube/playlist/OLAK5uy_nDZKy8NZrmO3mzMZzldfJx-zRUNehlwNg/</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+

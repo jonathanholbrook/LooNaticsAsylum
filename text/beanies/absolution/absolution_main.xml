@@ -1,0 +1,72 @@
+<dir>
+    <title>[COLORcyan][B]DEBRID ONLY WONT WORK WITHOUT IT[/COLOR][/B]</title>
+    <link>https://pastebin.com/raw/JN7UtTfN</link>
+ <thumbnail>https://i.imgur.com/qcuhmsi.png</thumbnail>
+    <fanart></fanart>
+</dir>
+ 
+ 
+<dir>
+    <title>[COLORgreen][B]Authorize Real Debrid[/COLOR][/B]</title>
+    <link>plugin://script.module.resolveurl/?mode=auth_rd</link>
+ <thumbnail>https://i.imgur.com/qcuhmsi.png</thumbnail>
+    <fanart></fanart>
+</dir>
+ 
+<dir>
+  <title>[COLORgreen][B]Authorize TRAKT[/COLOR][/B]</title>
+  <trakt>https://api.trakt.tv/users/me/lists/</trakt>
+  <thumbnail>https://i.imgur.com/qcuhmsi.png</thumbnail>
+  <fanart></fanart>
+  <summary>Pair Trakt</summary>
+  </dir>
+ 
+<dir>
+  <title>[COLORlime]MOVIES[/COLOR]</title>
+  <link>http://myatom.one/broken%20chains/MOVIES/movies%20main.txt</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </dir>
+
+<dir>
+  <title>[COLORlime]TV SHOWS[/COLOR]</title>
+  <link>http://myatom.one/broken%20chains/TV%20SHOWS/tv%20shows%20mainmenu.txt</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </dir>
+
+<dir>
+  <title>[COLORlime]DOCUMENTARIES[/COLOR]</title>
+  <link>http://myatom.one/broken%20chains/documentarys/rd_docs.txt</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </dir>
+
+<dir>
+  <title>[COLORlime]KIDS ZONE[/COLOR]</title>
+  <link>http://myatom.one/broken%20chains/KIDS/rd_kids.txt</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </dir>
+
+<dir>
+  <title>[COLORlime]WWE SHOWS[/COLOR]</title>
+  <link>http://myatom.one/broken%20chains/WWE/WWE%20MAIN.txt</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </dir>
+
+<dir>
+  <title>[COLORlime]MUSIC [/COLOR]</title>
+  <link>http://myatom.one/broken%20chains/Music/MUSIC%20MAIN.txt</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </dir>
+
+<dir>
+  <title>[COLORlime]YOUTUBE[/COLOR]</title>
+  <link>http://myatom.one/broken%20chains/youtube.txt</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </dir>
+

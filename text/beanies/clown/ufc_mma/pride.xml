@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<item>
+    <title>[COLOR orchid]¤¤¤¤¤[/COLOR] [B][COLOR white]YOUTUBE[/COLOR] [COLOR orchid]PERSONAL API KEYS MUST BE ENTERED[/COLOR][/B] [COLOR orchid]¤¤¤¤¤[/COLOR]</title>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/pride.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR orchid]¤¤¤¤¤[/COLOR] [B][COLOR white]PRIDE FC[/COLOR] [COLOR orchid]SPECIALS[/COLOR][/B] [COLOR orchid]¤¤¤¤¤[/COLOR]</title>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/pride.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</item>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]PRIDE[/COLOR] [COLOR orchid]BEST FIGHTERS OF ALL TIME[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://plugin.video.thebeanies/?action=youtubePlaylist&url=PLSjCJzrMeJ8b_q3JXnP7MZCW1GMxKBAx8</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/pride.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]PRIDE[/COLOR] [COLOR orchid]BEST FIGHTS OF ALL-TIME[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://plugin.video.thebeanies/?action=youtubePlaylist&url=PLSjCJzrMeJ8YoG6SKbm68OD_8aYLT3Vk9</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/pride.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]PRIDE[/COLOR] [COLOR orchid]GREATEST FIGHTERS HIGHLIGHTS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://plugin.video.thebeanies/?action=youtubePlaylist&url=PLSjCJzrMeJ8b63l_YoB622pGnS8yUnElS</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/pride.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/ufc_fanart.jpg</fanart>
+</plugin>

@@ -1,0 +1,13 @@
+<dir>
+<title>[COLORwhite]KIDS DEBRID MOVIES[/COLOR]</title>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/greenkids.xml</link>
+<thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_greenhat.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLORwhite]KIDS MOVIES[/COLOR]</title>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/kidsfree.xml</link>
+<thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_greenhat.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/fanart.jpg</fanart>
+</dir>

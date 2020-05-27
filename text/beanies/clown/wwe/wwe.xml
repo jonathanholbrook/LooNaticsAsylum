@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+
+<item>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]WWE[/COLOR] [COLOR orchid]NETWORK[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>
+        <sublink>http://hlslive-akc.med1.net.wwe.com/ls01/wwe/LINEAR/master_wired.m3u8|Cookie=mediaAuth_v2=</sublink>
+        <sublink>http://live.highstream.club/live/WWE/chunks.m3u8|Referer=http://imkmedia.com/watch/wwe-network/</sublink>
+        <sublink>http://cdnak19.cast4u.info/channels/3/10803.m3u8</sublink>
+        <sublink>http://cdnak4.cast4u.info/channels/2/10802.m3u8</sublink>
+        <sublink>http://cdnak19.cast4u.info/channels/2/10802.m3u8</sublink>
+    </link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/wwe_network.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/wwe-network_fanart.png</fanart>
+</item>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]WWE LIVE[/COLOR] [COLOR orchid] (AS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=134</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/wwe_network.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/wwe-network_fanart.png</fanart>
+</plugin>
+<item>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]WWE[/COLOR] [COLOR orchid]RAW LIVE[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>
+        <sublink>http://cdnak19.cast4u.info/channels/4/10804.m3u8</sublink>
+        <sublink>http://cdnak4.cast4u.info/channels/2/10802.m3u8</sublink>
+        <sublink>http://cdnak24.cast4u.info/channels/2/10802.m3u8</sublink>
+        <sublink>http://edge1.docache.net/sports/supersp9.m3u8</sublink>
+        <sublink>http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8</sublink>
+    </link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/wwe_raw.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/wwe_raw_fanart.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]WWE[/COLOR] [COLOR orchid]SMACKDOWN LIVE[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>
+        <sublink>http://cdnak4.cast4u.info/channels/2/10802.m3u8</sublink>
+        <sublink>http://cdnak19.cast4u.info/channels/2/10802.m3u8</sublink>
+    </link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/smackdown.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/smackdown_fanart.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]AEW[/COLOR] [COLOR orchid]LIVE[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>
+        <sublink>http://cdnak24.cast4u.info/channels/3/10803.m3u8</sublink>
+        <sublink>http://cdnak6.cast4u.info/channels/2/10802.m3u8</sublink>
+        <sublink>https://ok.ru/video/1569121705530</sublink>
+        <sublink>http://live.fadev.club/live/TNT/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36&Referer=http://imkmedia.com/watch/tnt/</sublink>
+    </link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/aew.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/aew_fanart.jpg</fanart>
+</item>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]MAD TITAN WWE[/COLOR] [COLOR orchid]LIVE[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://magnetic.website/Mad%20Titan/WWE-SMACKDOWN.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/titan.png</thumbnail>
+    <fanart>https://lordsofpain.net/wp-content/uploads/2018/06/Screen-Shot-2019-01-15-at-9.51.10-PM-900x480.png</fanart>
+</dir>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]WWE TRENDING SPORTS LIVE[/COLOR] [COLOR orchid] (YSS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=94</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV[/COLOR] [COLOR orchid] (YSS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=82</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV CHANNELS[/COLOR] [COLOR orchid] (WS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=214</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV CHANNELS[/COLOR] [COLOR orchid] (SB)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=226</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+<item>
+    <title>[COLOR orchid]¤¤¤¤¤[/COLOR] [B][COLOR white]WWE PPV FULL SHOW[/COLOR] [COLOR orchid]REPLAYS[/COLOR][/B] [COLOR orchid]¤¤¤¤¤[/COLOR]</title>
+    <link>
+        <sublink Money In The Bank Debrid>magnet:?xt=urn:btih:5ED61C0EB470244968ACA75761055434BFAD44E4&dn=WWE+Money+In+The+Bank+2020+PPV+WEB+h264-HEEL&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2740%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2770%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2730%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2740%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2730%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2720%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fipv6.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.open-internet.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce</sublink>
+        <sublink WrestleMania Night 2 Debrid>magnet:?xt=urn:btih:9d54ef58a58802a1c3147af3ee6beae07022341b&dn=WWE.Wrestlemania.36.Kick-Off.Part.2.WEB-DL.h264-TAR%5BTGx%5D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.ccc.de%3A80</sublink>
+        <sublink WrestleMania Night 2 Free>https://ok.ru/video/1450573302394</sublink>
+        <sublink WrestleMania Night 1 Debrid>magnet:?xt=urn:btih:6b393a31c5618523c1bc0340297bf256f441dc6b&dn=WWE.WrestleMania.36.PPV.Part.1.WEB.h264-HEEL%5BTGx%5D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.ccc.de%3A80</sublink>
+        <sublink WrestleMania Night 1 Free>https://ok.ru/video/1534298163877</sublink>
+        <sublink Elimination Chamber Debrid>https://rapidgator.net/file/9e1253970e2fe3bc7ee05afc61cb6ad8/WWE.Elimination.Chamber.2020.PPV.WEB.h264-HEEL.mp4.html
+</sublink>
+        <sublink Elimination Chamber Free>https://ok.ru/video/1286216813250</sublink>
+        <sublink Super Showdown Debrid>https://rapidgator.net/file/800f71fbf9096eeb456f23630b8fc141/WWE.Super.ShowDown.2020.PPV.WEB.h264-HEEL.mp4.html
+</sublink>
+        <sublink Super Showdown Free>https://ok.ru/video/1494562900645</sublink>
+        <sublink NXT Take  Over Debrid>https://rapidgator.net/file/cc228c12de2118b5d46e980407d73b30/WWE.NXT.TakeOver.Portland.2020.WEB.h264-HEEL.mp4.html
+</sublink>
+        <sublink Royal Rumble Free>https://ok.ru/video/1402241944067</sublink>
+         <sublink NXT Worlds Collide DEBRID>https://rapidgator.net/file/54c0780729b2315098b4f2cefd4efbb1/nxtworld.mp4.html
+</sublink>
+        <sublink NXT Worlds Collide Free>https://ok.ru/video/1401393580547</sublink>
+        <sublink TLC>https://ok.ru/video/2023179291149</sublink>
+        <sublink Starcade>https://ok.ru/video/1135869561445</sublink>
+        <sublink Survivor Series>https://ok.ru/video/1318061869577</sublink>
+        <sublink Crown Jewel 10/31/19>https://ok.ru/video/1807366752817</sublink>
+        <sublink Hell In A Cell>https://ok.ru/video/1779604589105</sublink>
+    </link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/wwe_network.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/wwe-network_fanart.png</fanart>
+</item>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]WWE RAW FULL SHOW[/COLOR] [COLOR orchid]REPLAYS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/wwe/raw.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/wwe_raw.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/wwe_raw_fanart.jpg</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]WWE SMACKDOWN FULL SHOW[/COLOR] [COLOR orchid]REPLAYS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/wwe/smack.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/smackdown.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/smackdown_fanart.jpg</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]WWE NXT FULL SHOW[/COLOR] [COLOR orchid]REPLAYS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/wwe/nxt.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/nxt.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/nxt_fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]WWE BACKSTAGE[/COLOR] [COLOR orchid]REPLAYS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/wwe/backstage.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/wwe_network.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/wwe-network_fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]AEW FULL SHOW[/COLOR] [COLOR orchid]REPLAYS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/wwe/aew.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/aew.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/aew_fanart.jpg</fanart>
+</dir>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<item>
+    <title>[COLOR orchid]¤¤¤¤¤[/COLOR] [B][COLOR white]MOTO GP[/COLOR] [COLOR orchid]LIVE[/COLOR][/B] [COLOR orchid]¤¤¤¤¤[/COLOR]</title>
+    <link>
+        <sublink></sublink>
+    </link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/motogp.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/motogp_fanart.jpg</fanart>
+</item>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]MOTO GP[/COLOR] [COLOR orchid](HS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=15</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/motogp.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/motogp_fanart.jpg</fanart>
+</plugin>
+<item>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]MOTO GP[/COLOR] [COLOR orchid]DIRECTS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>
+        <sublink></sublink>
+    </link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/motogp.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/motogp_fanart.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR orchid]¤¤¤¤¤[/COLOR] [B][COLOR white]MOTO GP[/COLOR] [COLOR orchid]CHANNELS[/COLOR][/B] [COLOR orchid]¤¤¤¤¤[/COLOR]</title>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/motogp.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/motogp_fanart.jpg</fanart>
+</item>
+<dir>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]ESPN[/COLOR] [COLOR orchid]SPORTS[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/channels/espn.xml</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/espn.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/motogp_fanart.jpg</fanart>
+</dir>
+

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<item>
+    <title>[COLOR orchid]¤¤¤¤¤[/COLOR] [B][COLOR white]XFL[/COLOR] [COLOR orchid]LIVE[/COLOR][/B] [COLOR orchid]¤¤¤¤¤[/COLOR]</title>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/xfl.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/xfl_fanart.jpg</fanart>
+</item>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]XFL LIVE[/COLOR] [COLOR orchid] (6S)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=160</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/xfl.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/xfl_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]XFL LIVE[/COLOR] [COLOR orchid] (AS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=132</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/xfl.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/xfl_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]XFL LIVE[/COLOR] [COLOR orchid] (CS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=124</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/xfl.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/xfl_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]XFL LIVE[/COLOR] [COLOR orchid] (QA)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=148</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/xfl.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/xfl_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]XFL LIVE[/COLOR] [COLOR orchid] (SE)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=120</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/xfl.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/xfl_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]XFL LIVE[/COLOR] [COLOR orchid] (VK)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=76</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/xfl.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/xfl_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]XFL LIVE[/COLOR] [COLOR orchid] (YSS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <link>plugin://script.beanies.sports/?mode=96</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/xfl.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/xfl_fanart.jpg</fanart>
+</plugin>
+<plugin>
+<title>[COLOR orchid]¤[/COLOR] [B][COLOR white]XFL TRENDING SPORTS LIVE[/COLOR] [COLOR orchid] (YSS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+<link>plugin://script.beanies.sports/?mode=94</link>
+<thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/xfl.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/xfl_fanart.jpg</fanart>
+</plugin>
+<plugin>
+<title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV[/COLOR] [COLOR orchid] (YSS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+<link>plugin://script.beanies.sports/?mode=82</link>
+<thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/xfl.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/xfl_fanart.jpg</fanart>
+</plugin>
+<plugin>
+<title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV CHANNELS[/COLOR] [COLOR orchid] (WS)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+<link>plugin://script.beanies.sports/?mode=214</link>
+<thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/xfl.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/xfl_fanart.jpg</fanart>
+</plugin>
