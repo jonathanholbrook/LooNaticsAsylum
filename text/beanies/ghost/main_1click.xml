@@ -5,19 +5,19 @@
 <name>[COLOR white]1Click Movies[/COLOR]</name>
 <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/indexers.xml</link>
 <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_greenhat.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/fanart.jpg</fanart>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
 </dir>
 
 <dir>
 <name>[COLOR white]1Click RD Movies[/COLOR]</name>
 <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/1click.xml</link>
 <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_greenhat.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/fanart.jpg</fanart>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
 </dir>
 
 <dir>
 <name>[COLOR white]1Click RD Documentaries[/COLOR]</name>
 <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/wardocu.xml</link>
 <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_greenhat.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/fanart.jpg</fanart>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
 </dir>
