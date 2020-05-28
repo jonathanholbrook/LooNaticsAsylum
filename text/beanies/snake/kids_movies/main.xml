@@ -3,19 +3,19 @@
 <layoutype>fuckOFF</layoutype>
 <dir>
 	<name>[COLOR orchid]¤ [/COLOR] [COLOR white][B]Family[/B][/COLOR]</name>
-	<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/skeleton/kids_movies/kids_family/main_family.xml</link>
+	<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/snake/kids_movies/kids_family/main_family.xml</link>
 	<thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_greyhat.png</thumbnail>
 	<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
 </dir>
 <dir>
 	<name>[COLOR orchid]¤ [/COLOR] [COLOR white][B]Animated[/B][/COLOR]</name>
-	<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/skeleton/kids_movies/kids_animated/main_animated.xml</link>
+	<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/snake/kids_movies/kids_animated/main_animated.xml</link>
 	<thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_greyhat.png</thumbnail>
 	<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
 </dir>
 <dir>
 	<name>[COLOR orchid]¤ [/COLOR] [COLOR white][B]Kids Favourites[/B][/COLOR]</name>
-	<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/skeleton/kids_movies/kids_favorite/main_favorite.xml</link>
+	<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/snake/kids_movies/kids_favorite/main_favorite.xml</link>
 	<thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_greyhat.png</thumbnail>
 	<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
 </dir>
