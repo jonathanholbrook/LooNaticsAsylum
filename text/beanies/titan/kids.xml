@@ -1,0 +1,118 @@
+ <dir>
+ <title>OTB Cartoons</title>
+ <otb2_car>all</otb2_car>
+ <thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/kids.png</thumbnail>
+ <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir> 
+	
+<dir>
+ <title>DC Comics</title>
+ <dccomics>all</dccomics>
+ <thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/kids.png</thumbnail>
+ <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+
+<dir>
+<title>Cartoons</title>
+<trakt>https://api.trakt.tv/users/1coolguy/lists/cartoons/items</trakt>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/kids.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<name>24/7 Cartoons</name>
+<link>http://magnetic.website/playground/24-7.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/kids.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Marvel/DC HQ</name>
+<link>http://magnetic.website/Mad%20Titan/marvel%20hq.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/kids.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+<fanart></fanart>
+</dir>
+
+		
+<dir>
+<title>Most Popular Series</title>
+<wctoon>main/sidebar-titles/0</wctoon>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/kids.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+<dir>
+<title>Latest Series Added</title>
+<wctoon>main/recent-release-main/1</wctoon>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/kids.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+
+
+ 		
+<dir>
+<title>Teens Tv Shows</title>
+<trakt>https://api.trakt.tv/users/1coolguy/lists/teens-tv-show/items</trakt>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/kids.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>Teens Movies</title>
+<imdburl>list/ls050434244</imdburl>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/kids.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+ <dir>
+ <title>Dubbed Anime</title>
+ <wctoon>category/dubbed-anime-list</wctoon>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/kids.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+ <dir>
+<title>Subbed Anime</title>
+ <wctoon>category/subbed-anime-list</wctoon>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/kids.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+
+ 
+<dir>
+<title>More Sub Anime</title>
+<imdburl>list/ls068154444</imdburl>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/kids.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+
+ <dir>
+<title>More Dubbed Anime- English</title>
+<imdburl>list/ls057339242</imdburl>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/kids.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+ 
+<dir>
+ <title>English Dubbed Japanese Anime Series</title>
+<imdburl>list/ls002780817</imdburl>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/kids.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+ 
+<dir>
+<title>English Dubbed Japanese Anime Movies</title>
+<imdburl>list/ls009754846</imdburl>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/kids.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+
+
+

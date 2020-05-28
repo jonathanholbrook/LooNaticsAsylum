@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>ghost</layoutype>
+  <dir>
+  <title>[COLORwhite]MOVIE[/COLOR]</title>
+  <link>http://www.ezzer-mac.com/frank/ghost/ghostxmls/xmls1/allaboutmovies.xml</link>
+  <thumbnail>http://www.ezzer-mac.com/frank/artghost/newghostfanart/movies.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+  <summary>Movies</summary>
+  </dir> 
+  
+  <dir>
+  <title>[COLORwhite]SHOW[/COLOR]</title>
+  <link>http://www.ezzer-mac.com/frank/ghost/ghostxmls/xmls1/alltvshows.xml</link>
+  <thumbnail>http://www.ezzer-mac.com/frank/artghost/newghostfanart/series.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+  <summary>Tv Shows</summary>
+  </dir> 
+  
+  <dir>
+  <title>[COLORwhite]KIDS[/COLOR]</title>
+  <link>http://www.ezzer-mac.com/frank/ghost/ghostxmls/xmls1/allkids.xml</link>
+  <thumbnail>http://www.ezzer-mac.com/frank/artghost/newghostfanart/kids.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+  <summary>Kids Movies</summary>
+  </dir>
+  
+  <dir>
+  <name>[COLORwhite]IPTV[/COLOR]</name>
+  <link>http://www.ezzer-mac.com/frank/ghost/ghostxmls/xmls1/iptv.xml</link>
+  <thumbnail>http://www.ezzer-mac.com/frank/artghost/newghostfanart/iptv.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+  <summary>Iptv</summary>
+  </dir>
+  
+  <dir>
+  <title>[COLORwhite]24/7[/COLOR]</title>
+  <link>http://www.ezzer-mac.com/frank/ghost/ghostxmls/xmls1/livetv1.xml</link>
+  <thumbnail>http://www.ezzer-mac.com/frank/artghost/newghostfanart/tv247.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+  <summary>Live Tv</summary>
+  </dir>
+  
+  <dir>
+   <title>[COLORwhite]SETUP[/COLOR]</title>
+   <link>http://www.ezzer-mac.com/frank/ghost/ghostxmls/xmls1/allsettings.xml</link>
+   <thumbnail>http://www.ezzer-mac.com/frank/artghost/newghostfanart/setup.png</thumbnail>
+   <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+   <summary>Settings</summary>
+  </dir>
+  
+ 
+
+
+  

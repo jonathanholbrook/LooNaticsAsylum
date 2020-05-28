@@ -1,0 +1,20 @@
+ <dir>
+  <title>Fantasy/Sci-Fi</title>
+  <trakt>https://api.trakt.tv/users/tuesdaysgone5150/lists/fantasy-sci-fi/items</trakt>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+ <dir>
+  <title>Action/Adventure</title>
+  <trakt>https://api.trakt.tv/users/tuesdaysgone5150/lists/action-adventure/items</trakt>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+ <dir>
+  <title>Epic History</title>
+  <trakt>https://api.trakt.tv/users/tuesdaysgone5150/lists/epic-history/items</trakt>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>

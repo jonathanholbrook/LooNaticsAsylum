@@ -1,0 +1,34 @@
+  <dir>
+        <title>IMDB Trending</title>
+        <imdburl>movies/trending</imdburl>
+<thumbnail>https://archive.org/download/trakt_202004/trakt.jpg</thumbnail>
+<fanart>https://archive.org/download/dm1_20200329/dm1.jpg</fanart>
+</dir>
+
+    <dir>
+      <title>TMDB Popular</title>
+      <tmdb>movies/popular</tmdb>
+<thumbnail>https://archive.org/download/trakt_202004/trakt.jpg</thumbnail>
+<fanart>https://archive.org/download/dm1_20200329/dm1.jpg</fanart>
+ </dir>
+
+<dir>
+<title>TMDB Now Playing</title>
+<tmdb>movies/now_playing</tmdb>
+<thumbnail>https://archive.org/download/trakt_202004/trakt.jpg</thumbnail>
+<fanart>https://archive.org/download/dm1_20200329/dm1.jpg</fanart>
+</dir>
+
+<dir>
+  <title>TMDB Upcoming</title>
+  <tmdb>movie/upcoming</tmdb>
+ <thumbnail>https://archive.org/download/trakt_202004/trakt.jpg</thumbnail>
+  <fanart>https://archive.org/download/dm1_20200329/dm1.jpg</fanart>
+</dir>
+
+<dir>
+  <title>TRAKT Popular Movies</title>
+  <trakt>https://api.trakt.tv/movies/popular</trakt>
+ <thumbnail>https://archive.org/download/trakt_202004/trakt.jpg</thumbnail>
+  <fanart>https://archive.org/download/dm1_20200329/dm1.jpg</fanart>
+</dir>

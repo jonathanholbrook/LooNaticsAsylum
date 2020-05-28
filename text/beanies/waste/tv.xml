@@ -1,0 +1,73 @@
+ <dir>
+  <title>Current TV</title><trakt>https://api.trakt.tv/users/daytrpr/lists/current-tv/items</trakt>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail> <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+<dir>
+  <title>Ended TV</title> <trakt>https://api.trakt.tv/users/daytrpr/lists/ended-tv/items</trakt> <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail> <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+ <dir>
+  <title>Crime TV</title>
+<trakt>https://api.trakt.tv/users/daytrpr/lists/crime-tv/items</trakt>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+<dir>
+  <title>Reality TV</title>
+<link>https://pastebin.com/raw/ihmrAyGj</link>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+ <dir>
+  <title>Fantasy/Sci-fi TV Shows</title>
+<trakt>https://api.trakt.tv/users/daytrpr/lists/fantasy-sci-fi-tv/items</trakt>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+ 
+ 
+ <dir>
+  <title>Networks</title>
+<link>http://dystopiabuilds.xyz/waste/networks.xml</link>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+ <dir>
+  <title>Tv Genres</title>
+<link>http://dystopiabuilds.xyz/waste/genre_tv.xml</link>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+  </dir>
+
+ <dir>
+  <title>Local News-USA Only</title>
+<link>http://dystopiabuilds.xyz/waste/news.xml</link>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+ <dir>
+  <title>Trending Shows</title>
+  <trakt>https://api.trakt.tv/shows/trending</trakt>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>  
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+ 
+ 
+ <dir>
+  <title>TMDB Popular</title>
+  <tmdb>tv/popular</tmdb>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+ <dir>
+  <title>TMDB Airing Today</title>
+  <tmdb>tv/today</tmdb>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>

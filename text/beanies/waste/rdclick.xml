@@ -1,0 +1,85 @@
+<item>
+ <title>[COLORred]***Real-Debrid Needed***[/COLOR]   </title>
+</item>
+
+<plugin>
+<name>Authorize Real Debrid (RESOLVE-URL)</name>
+<link>plugin://script.module.resolveurl/?mode=auth_rd</link>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+<summary>Authorize Real Debrid (RESOLVE-URL)</summary>
+</plugin>
+
+
+<dir>
+ <title>New Releases</title>
+ <link>https://pastebin.com/raw/b8hdJQ26</link>
+<thumbnail>http://dystopiabuilds.xyz/Images/film.jpg</thumbnail>
+<fanart>http://dystopiabuilds.xyz/Images/film.jpg</fanart>
+</dir>
+ 
+ 
+<dir>
+<title>TV Shows</title><link>https://pastebin.com/raw/wA8Bv4gc</link>
+<thumbnail>http://dystopiabuilds.xyz/Images/100%20misty.jpg</thumbnail>
+<fanart>http://dystopiabuilds.xyz/Images/apoc.jpg</fanart>
+</dir>
+
+<dir>
+ <title>Aliens & Robots</title>
+ <link>https://pastebin.com/raw/rpR5CXj3</link><thumbnail>http://dystopiabuilds.xyz/Images/warofworlds.jpg</thumbnail>
+<fanart>http://dystopiabuilds.xyz/Images/warofworlds.jpg</fanart>
+</dir>
+
+ 
+<dir>
+<title>Dystopian</title>
+<link>https://pastebin.com/raw/Pe7ubaqE</link>
+<thumbnail>http://dystopiabuilds.xyz/Images/shtf.jpg</thumbnail>
+<fanart>http://dystopiabuilds.xyz/Images/shtf.jpg</fanart>
+</dir>
+
+
+<dir>
+ <title>End of the World</title>
+ <link>https://pastebin.com/raw/fhrrH4K5</link>
+<thumbnail>http://dystopiabuilds.xyz/Images/eli.jpeg</thumbnail><fanart>http://dystopiabuilds.xyz/Images/legend.jpg</fanart>
+</dir>
+
+
+<dir>
+<title>International Movies (Subbed and Dubbed)</title>
+<link>https://pastebin.com/raw/0Thwz3vT</link>
+<thumbnail>http://dystopiabuilds.xyz/fanart/train-to-busan.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cOT8xLAhWdDkbINHsPHDVBtbzmi.jpg</fanart>
+</dir>
+
+
+<dir>
+ <title>Nature Gone Wild</title>
+ <link>https://pastebin.com/raw/hFf5X91H</link><thumbnail>http://dystopiabuilds.xyz/Images/twister.jpeg</thumbnail><fanart>http://dystopiabuilds.xyz/Images/contagion.jpg</fanart>
+</dir>
+
+
+<dir>
+ <title>Horror</title>
+ <link>https://pastebin.com/raw/gDd6A0b4</link>
+<thumbnail>http://dystopiabuilds.xyz/Images/horror.jpg</thumbnail>
+<fanart>http://dystopiabuilds.xyz/Images/horror.jpg</fanart>
+</dir>
+
+
+<dir>
+ <title>Wild West</title>
+<link>https://pastebin.com/raw/F8SbADSH</link>
+<thumbnail>http://dystopiabuilds.xyz/Images/westerns.jpg</thumbnail>
+<fanart>http://dystopiabuilds.xyz/Images/westerns1.jpg</fanart>
+</dir>
+
+
+<dir>
+<title>Requests</title>
+<link>https://pastebin.com/raw/VfsKxHa4</link>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>

@@ -1,0 +1,50 @@
+<plugin>
+<title>Halloween Makeup Tutorials</title>
+<link>plugin://plugin.video.youtube/playlist/PLvJSWNVcQQZsqPJeNcE54--wCLeU9U_Qs/</link>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+
+
+<dir>
+  <title>Docuseries-Ghosts & Aliens</title>
+  <trakt>https://api.trakt.tv/users/daytrpr/lists/docuseries/items</trakt> 
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail> 
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+<dir>
+ <title>Horror Docs n Movie Magic</title>
+ <link>https://pastebin.com/raw/f1NdRBZT</link>
+ <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+ <title>Music Docs n Movies</title>
+ <link>https://pastebin.com/raw/T6vyV4bY</link>
+ <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>TWD/FTWD Webisodes</title>
+<link>https://pastebin.com/raw/TS3dZRBG</link>
+<thumbnail>http://dystopiabuilds.xyz/image2/TWDwebisodeslogo.jpg</thumbnail>
+<fanart>http://dystopiabuilds.xyz/image2/TWDwebisodeslogo.jpg</fanart>
+</dir>
+
+
+<dir>
+<title>Comic Con 2019</title>
+<link>https://pastebin.com/raw/ftERdACa</link>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<plugin>
+<title>SHTF Documentaries and Clips</title>
+<link>plugin://plugin.video.youtube/playlist/PLvJSWNVcQQZufqfYLv4oGQnkZbOs6yCmQ/</link>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>

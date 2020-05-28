@@ -1,0 +1,118 @@
+<dir>
+<title>[COLORred]DEBRID NEW RELEASES..1 click[/COLOR]</title>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/base/renew.xml</link>
+<thumbnail>https://archive.org/download/icon.png_202004/icon.png.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>[COLORred]DEBRID 4K MOVIES..1 click[/COLOR]</title>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/base/rd4k.xml</link>
+<thumbnail>https://archive.org/download/icon.png_202004/icon.png.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>[COLORred]DEBRID MIX-UP..1 click[/COLOR]</title>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/base/rdmix.xml</link>
+<thumbnail>https://archive.org/download/icon.png_202004/icon.png.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>[COLORgold]**[/COLOR]LATEST COLLECTIONS[COLORgold]**[/COLOR]</title>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/base/collection.xml</link>
+<thumbnail>https://archive.org/download/icon.png_202004/icon.png.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+	<title>[COLORgold]**[/COLOR]NEW RELEASES[COLORgold]**[/COLOR]</title>
+	<tmdb>movies/now_playing</tmdb>
+<thumbnail>https://archive.org/download/icon.png_202004/icon.png.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+	<title>[COLORgold]**[/COLOR]TRENDING[COLORgold]**[/COLOR]</title>
+	<trakt>https://api.trakt.tv/movies/trending</trakt>
+<thumbnail>https://archive.org/download/icon.png_202004/icon.png.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+	<title>[COLORgold]**[/COLOR]POPULAR[COLORgold]**[/COLOR]</title>
+	<trakt>https://api.trakt.tv/movies/popular</trakt>
+<thumbnail>https://archive.org/download/icon.png_202004/icon.png.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>[COLORgold]**[/COLOR]GENRES[COLORgold]**[/COLOR]</title>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/base/genres.xml</link>
+<thumbnail>https://archive.org/download/icon.png_202004/icon.png.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+	<title>[COLORgold]**[/COLOR]TOP RATED[COLORgold]**[/COLOR]</title>
+	<tmdb>movies/top_rated</tmdb>
+<thumbnail>https://archive.org/download/icon.png_202004/icon.png.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>[COLORgold]**[/COLOR]TMDB/IMDB/TRAKT LIST[COLORgold]**[/COLOR]</title>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/base/imtmtr.xml</link>
+<thumbnail>https://archive.org/download/icon.png_202004/icon.png.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>[COLORgold]**[/COLOR]YEARS[COLORgold]**[/COLOR]</title>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/base/years.xml</link>
+<thumbnail>https://archive.org/download/icon.png_202004/icon.png.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>[COLORgold]**[/COLOR]STUDIOS[COLORgold]**[/COLOR]</title>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/base/studios.xml</link>
+<thumbnail>https://archive.org/download/icon.png_202004/icon.png.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>[COLORgold]**[/COLOR]ACTORS[COLORgold]**[/COLOR]</title>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/base/actors.xml</link>
+<thumbnail>https://archive.org/download/icon.png_202004/icon.png.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>[COLORgold]**[/COLOR]ACTRESS[COLORgold]**[/COLOR]</title>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/base/actress.xml</link>
+<thumbnail>https://archive.org/download/icon.png_202004/icon.png.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>[COLORred]SEARCH TMDB[/COLOR]</title>
+<tmdb>search</tmdb>
+<thumbnail>http://www.ezzer-mac.com/frank/artghost/movies.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>[COLORred]SEARCH IMDB[/COLOR]</title>
+<imdburl>searchmovies</imdburl>
+<thumbnail>http://www.ezzer-mac.com/frank/artghost/movies.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>[COLORred]SEARCH TRAKT[/COLOR]</title>
+<trakt>search</trakt>
+<thumbnail>http://www.ezzer-mac.com/frank/artghost/movies.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>

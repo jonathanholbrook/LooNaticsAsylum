@@ -1,0 +1,111 @@
+<xml>
+
+<dir>
+  <title>1 Click Section RD ONLY</title>
+  <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/waste/rdclick.xml</link>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+ <dir>
+  <title>Apocalyptic Movies</title>
+  <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/waste/apocalyptic.xml</link>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+ <dir>
+  <title>Sci-fi Movies</title>
+  <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/waste/sifi.xml</link>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+ <dir>
+  <title>Fantasy and Stuff</title>
+  <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/waste/fantasy.xml</link>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+  </dir>
+
+ <dir>
+  <title>Horror</title>
+  <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/waste/horror.xml</link>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+ <dir>
+  <title>TV Shows</title>
+  <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/waste/tv.xml</link>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+ 
+ <dir>
+  <title>Holiday Movie Collections</title>
+  <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/waste/holiday.xml</link>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+ 
+ 
+ <dir>
+  <title>Docs N More</title>
+  <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/waste/docs.xml</link>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+ <dir>
+  <title>Requests</title>
+  <link>https://pastebin.com/raw/tEhtqi34</link>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+ 
+ <dir>
+  <title>TMDB Popular</title>
+  <tmdb>movies/popular</tmdb>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icons_misc/tmbd.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+ <dir>
+  <title>TMDB Now Playing</title>
+  <tmdb>movies/now_playing</tmdb>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icons_misc/tmbd.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+ 
+
+ 
+ <dir>
+  <title>My Movie Watchlist</title>
+  <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icons_misc/trakt-icon-red.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+ <dir>
+  <title>My Trakt Lists</title>
+  <trakt>https://api.trakt.tv/users/me/lists/</trakt>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icons_misc/trakt-icon-red.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+ 
+ <dir>  <title>[COLORorange]Wasteland[/COLOR] Tools</title>
+  <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/waste/tools.xml</link>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+ 
+ <dir>
+  <title>[COLORorange]Wasteland[/COLOR] Search</title>
+  <tmdb>search</tmdb> 
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+</xml>

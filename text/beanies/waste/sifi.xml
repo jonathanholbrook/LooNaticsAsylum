@@ -1,0 +1,52 @@
+ <dir>
+  <title>Space</title> <trakt>https://api.trakt.tv/users/tuesdaysgone5150/lists/space/items</trakt>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+
+ <dir>
+  <title>Sci-Fi/Horror</title>
+<trakt>https://api.trakt.tv/users/tuesdaysgone5150/lists/sci-fi-horror/items</trakt>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+
+ <dir>
+  <title>Star Wars</title>
+  <tmdb>list/105425</tmdb>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+
+ <dir>
+  <title>SuperHeros</title>
+<trakt>https://api.trakt.tv/users/tuesdaysgone5150/lists/superhero/items</trakt>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+
+<dir>
+<title>Star Trek</title>
+<link>https://pastebin.com/raw/k3WMTuDs</link>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+
+<dir>
+<title>Classic Sci-Fi</title>
+<trakt>https://api.trakt.tv/users/tuesdaysgone5150/lists/classic-sci-fi/items</trakt>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+ 
+  <dir>
+  <title></title>
+  <tmdb></tmdb>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>

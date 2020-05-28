@@ -1,0 +1,32 @@
+ <dir>
+  <title>Movies</title>
+  <tmdb>list/92817</tmdb>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+ <dir>
+  <title>Writers/Directors</title>
+  <link>https://pastebin.com/raw/6P1AzQNX</link>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+ <dir>
+  <title>Box Sets</title>
+  <link>https://pastebin.com/raw/qRq1GA6j</link>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+ 
+ <dir>
+  <title>Holiday Horror</title>
+  <tmdb>list/93645</tmdb>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+ 
+
+
+</xml>

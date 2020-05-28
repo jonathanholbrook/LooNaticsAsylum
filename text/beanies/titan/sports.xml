@@ -1,0 +1,91 @@
+
+
+
+<dir>
+<title>***Live Sports-3-14-UFC LIVE ***</title>
+<link>https://magnetic.website/Mad%20Titan/MAG-SPORTS%20LIVE.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/sports.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+<summary>Live games,will be posted here, i will try my hardest to keep up and post games</summary>
+</dir>
+
+
+
+<dir>
+<title>***Sports Replays***</title>
+<link>http://magnetic.website/Mad%20Titan/REPLAYS.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/sports.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+<summary>Replays</summary>
+</dir>
+
+
+
+
+<dir>
+<title>***Sports Channels By Country***</title>
+<Airtable>sports_channels</Airtable>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/sports.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+
+
+
+<dir>
+<title>***Sports Channels 2***</title>
+<meta>
+<title>Sport Channels</title>
+<summary>Live Sports Channel Feeds</summary>
+</meta>
+<swift>swiftcategory/36</swift>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/sports.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+
+<dir>
+<title>***Sports Streams ( Live Games )***</title>
+<sport_stream>games</sport_stream>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/sports.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+
+<dir>
+<title>***Titan Favorite Sports Channels***</title>
+<link>http://magnetic.website/Mad%20Titan/my%20sports%20channels%20.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/sports.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+<summary></summary>
+</dir>
+
+
+<dir>
+<title>***NBA Season 2018-2019 Plus More***</title>
+<link>http://magnetic.website/Mad%20Titan/best%20of%20nba.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/sports.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>***NFL***</title>
+<link>http://magnetic.website/Mad%20Titan/NFL.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/sports.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>***MLB Videos***</title>
+<link>http://magnetic.website/Mad%20Titan/MLB.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/sports.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>***NHL Momments***</title>
+<link>http://magnetic.website/Mad%20Titan/NHL.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/sports.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+

@@ -1,0 +1,175 @@
+
+
+<dir>
+<title>Karaoke</title>
+<link>https://magnetic.website/Mad%20Titan/ROCKTHEMIC%20MAIN.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/music.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+
+
+
+<dir>
+<title>PodCast Zone</title>
+<link>http://magnetic.website/Mad%20Titan/podcast%20zone.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/music.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>Number 1's Through The Years</title>
+<link>https://magnetic.website/Mad%20Titan/allno1s%201960-2018.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/music.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Now Thats What I Call Music</title>
+<link>https://magnetic.website/Mad%20Titan/nowmusicall.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/music.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+<fanart></fanart>
+</dir>
+
+
+
+<dir>
+<title>Radio Stations</title>
+<link>https://magnetic.website/Mad%20Titan/RADIO%20STATIONS.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/music.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+<fanart></fanart>
+</dir>
+
+
+<dir>
+  <title>Tag Chart</title>
+  <lastfm>chart/tags</lastfm>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/music.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+  <title>Heavy Metal Tracks</title>
+  <lastfm>tag/metal/tracks</lastfm>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/music.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+  <title>Metal Artists</title>
+  <lastfm>tag/metal/artists</lastfm>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/music.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+  <title>Metal Albums</title>
+  <lastfm>tag/metal/albums</lastfm>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/music.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+
+
+<dir>
+<title>Rock Music</title>
+<otb_music>genre|Rock_Bands|app2nf3mKUqrf67c0</otb_music>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/music.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+    <dir>
+    <title>Pop Music</title>
+    <otb_music>genre|Pop_Bands|app6l5yniExppN9QP</otb_music>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/music.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+    </dir>
+	
+
+
+    <dir>
+    <title>Electronic</title>
+    <otb_music>genre|Electronic_Bands|appY48NlVVE4SqvBw</otb_music>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/music.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+    </dir>            
+
+    <dir>
+    <title>ZZ Top Albums</title>
+    <lastfm>artist/zz_top/albums</lastfm>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/music.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+    </dir>
+
+
+
+<plugin>
+<title>Popular songs of 2018</title>
+<link>plugin://plugin.video.youtube/playlist/PLRZlMhcYkA2EQSwaeOeZnJ1nOfpZTsMuS/</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/music.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+
+<plugin>
+<title>The 500 Hip-Hop</title>
+<link>plugin://plugin.video.youtube/playlist/PLAPo1R_GVX4IZGbDvUH60bOwIOnZplZzM/</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/music.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+
+<plugin>
+<title>Latin Trap Music</title>
+<link>plugin://plugin.video.youtube/playlist/PLv4rcQH1bJKJzWXfo7_O8MObNvHv3Koyl/</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/music.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+
+
+<plugin>
+<title>100 Greatest R&B Songs of the '90s</title>
+<link>plugin://plugin.video.youtube/playlist/PLD33465FFDA8A73FB/</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/music.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+
+<plugin>
+<title>100 country songs</title>
+<link>plugin://plugin.video.youtube/playlist/PLEEyQEShYtdWTyn36cnmbN3obf_f4huaE/</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/music.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+
+<plugin>
+<title>Best Disney Songs of 2018</title>
+<link>plugin://plugin.video.youtube/playlist/PLxhnpe8pN3TkenzFLTlz2hUd6_BZu-5Zv/</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/music.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+
+<plugin>
+<title>Nursery rhymes & Children songs</title>
+<link>plugin://plugin.video.youtube/playlist/PL9FDA79DC8AB4A032/</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/music.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+
+
+
+
+    <dir>
+    <title>Search Artist</title>
+    <lastfm>search/artist</lastfm>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/music.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+    </dir>
+
+    <dir>
+    <title>Search Album</title>
+    <lastfm>search/album</lastfm>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/music.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+    </dir>
+

@@ -1,0 +1,36 @@
+<plugin>
+<name>Wastelands Settings</name>
+<link>plugin://plugin.video.waste/?action=openSettings</link>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+
+<item>
+<title>Wastelands Authorize Trakt</title>
+<trakt>https://api.trakt.tv/sync/collection/shows</trakt>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+<summary>Authorize Trakt</summary>
+</item>
+
+<plugin>
+<name>Wastelands Authorize Real Debrid (RESOLVE-URL)</name>
+<link>plugin://script.module.resolveurl/?mode=auth_rd</link>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+<summary>Authorize Real Debrid (RESOLVE-URL)</summary>
+</plugin>
+
+<item>
+<title>Wastelands Pair With Sites</title>
+<pairwith>pairlist</pairwith>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</item>
+
+<dir>
+<title>Wastelands Search</title>
+<tmdb>search</tmdb>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>

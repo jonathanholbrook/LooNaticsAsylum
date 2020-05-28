@@ -1,0 +1,98 @@
+<dir>
+<title>[COLORred]DEBRID TV SHOWS..1 click[/COLOR]</title>
+<link>https://pastebin.com/raw/LaHwgc3D</link>
+<thumbnail>https://archive.org/download/icon.png-3/icon.png%20%283%29.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>[COLORred]DEBRID TV LATEST EPISODES..1 click[/COLOR]</title>
+<link>https://pastebin.com/raw/6bN8ZfYT</link>
+<thumbnail>https://archive.org/download/icon.png-3/icon.png%20%283%29.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>[COLORgold]**[/COLOR]Tv Genres[COLORgold]**[/COLOR]</title>
+<link>https://pastebin.com/raw/F9uR53qx</link>
+<thumbnail>https://archive.org/download/icon.png-3/icon.png%20%283%29.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+        <title>[COLORgold]**[/COLOR]New Shows[COLORgold]**[/COLOR]</title>
+        <imdburl>tvshows/new</imdburl>
+        <thumbnail>https://archive.org/download/icon.png-3/icon.png%20%283%29.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+    </dir>
+
+ Returns The TMDB Popular TV Shows List
+    <dir>
+      <title>[COLORgold]**[/COLOR]Popular[COLORgold]**[/COLOR]</title>
+      <tmdb>tv/popular</tmdb>
+<thumbnail>https://archive.org/download/icon.png-3/icon.png%20%283%29.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+    </dir>
+
+  <dir>
+        <title>[COLORgold]**[/COLOR]Best Ratings[COLORgold]**[/COLOR]</title>
+        <imdburl>tvshows/rating</imdburl>
+        <thumbnail>https://archive.org/download/icon.png-3/icon.png%20%283%29.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+    </dir>
+
+    <dir>
+        <title>[COLORgold]**[/COLOR]Most Viewed[COLORgold]**[/COLOR]</title>
+        <imdburl>tvshows/mostviews</imdburl>
+        <thumbnail>https://archive.org/download/icon.png-3/icon.png%20%283%29.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+    </dir>
+
+<dir>
+  <title>[COLORgold]**[/COLOR]TMDB Top Rated[COLORgold]**[/COLOR]</title>
+  <tmdb>tv/top_rated</tmdb>
+<thumbnail>https://archive.org/download/icon.png-3/icon.png%20%283%29.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+    <dir>
+      <title>[COLORgold]**[/COLOR]Airing Today[COLORgold]**[/COLOR]</title>
+      <tmdb>tv/today</tmdb>
+<thumbnail>https://archive.org/download/icon.png-3/icon.png%20%283%29.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+    </dir>
+
+ <dir>
+  <title>[COLORgold]**[/COLOR]TRAKT Trending Shows[COLORgold]**[/COLOR]</title>
+  <trakt>https://api.trakt.tv/shows/trending</trakt>
+   <thumbnail>https://archive.org/download/icon.png-3/icon.png%20%283%29.jpg</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+  <title>[COLORgold]**[/COLOR]TRAKT Popular Shows[COLORgold]**[/COLOR]</title>
+  <trakt>https://api.trakt.tv/shows/popular</trakt>
+   <thumbnail>https://archive.org/download/icon.png-3/icon.png%20%283%29.jpg</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+  <title>[COLORred]SEARCH TMDB[/COLOR]</title>
+  <tmdb>search</tmdb>
+  <thumbnail>https://archive.org/download/icon.png-3/icon.png%20%283%29.jpg</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+  <title>[COLORred]SEARCH TRAKT[/COLOR]</title>
+  <trakt>search</trakt>
+  <thumbnail>https://archive.org/download/icon.png-3/icon.png%20%283%29.jpg</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+  <title>[COLORred]SEARCH IMDB[/COLOR]</title>  
+  <imdburl>searchseries</imdburl>
+    <thumbnail>https://archive.org/download/icon.png-3/icon.png%20%283%29.jpg</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>

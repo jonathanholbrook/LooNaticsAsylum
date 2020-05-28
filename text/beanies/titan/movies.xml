@@ -1,0 +1,141 @@
+<dir>
+<title>**1-Click Movies By Year[B][COLORlime](DEBRID SUBCRIBERS ONLY)[/COLOR][/B]**</title>
+<link>https://magnetic.website/Mad%20Titan/movies%20by%20year.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/mad%20titan%20icons.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+<summary>1-Click Movies By Year</summary>
+</dir>
+
+	
+
+
+
+<dir>
+<title>**Titan 1-Click Boxsets [B][COLORlime](DEBRID SUBCRIBERS ONLY)[/COLOR][/B]**</title>
+<link>http://magnetic.website/Mad%20Titan/Boxsets.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/mad%20titan%20icons.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+<summary>Boxsets</summary>
+</dir>
+
+ <dir>
+    <title>**Titan Xumo On Demand**</title>
+    <xumo>demand</xumo>
+	<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/mad%20titan%20icons.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+    </dir>
+
+<dir>
+<title>**Titan 24/7 Films**</title>
+<arconaitv>main/movies</arconaitv>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/mad%20titan%20icons.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>     
+
+
+
+
+<dir>
+<title>**Titan 4K Movies[B][COLORlime](DEBRID SUBCRIBERS ONLY)[/COLOR][/B]**</title>
+<link>http://magnetic.website/Mad%20Titan/titan%204k%20movies.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/mad%20titan%20icons.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+<summary>PLEASE NOTE IN ORDER TO USE 4K YOU NEED REAL DEBRID SERVICE</summary>
+</dir>
+
+
+<dir>
+<title>**Titan Production Companies**</title>
+<link>http://magnetic.website/Mad%20Titan/production.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/mad%20titan%20icons.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+<summary></summary>
+</dir>
+
+
+
+
+<dir>
+  <title>**Trending Movies**</title>
+  <trakt>https://api.trakt.tv/movies/trending</trakt>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/mad%20titan%20icons.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+
+<dir>
+<title>**Titan Popular Movies**</title>
+<tmdb>movies/popular</tmdb>
+<thumbnail>http://magnetic.website/Mad%20Titan/icon.png</thumbnail>
+ </dir>
+
+<dir>
+  <title>**On The Big Screen**</title>
+  <tmdb>movies/now_playing</tmdb>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/mad%20titan%20icons.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+  <title>**Box Office**</title>
+  <trakt>https://api.trakt.tv/movies/boxoffice</trakt>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/mad%20titan%20icons.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+ <title>**Marvel Movies**</title>
+<link>https://magnetic.website/Mad%20Titan/MARVEL%20PHASES.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/mad%20titan%20icons.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+<fanart></fanart>
+</dir>
+
+
+ 
+  <dir>
+ <title>**DC-Movies**</title>
+ <tmdb>list/64421</tmdb>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/mad%20titan%20icons.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+ 
+ <dir>
+ <title>**Friendly Faces**</title>
+ <tmdb>people/popular</tmdb>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/mad%20titan%20icons.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+ 
+   <dir>
+    <title>**Genres**</title>
+    <link>http://magnetic.website/Mad%20Titan/movies%20genre.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/mad%20titan%20icons.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+  </dir>
+
+
+<dir>
+  <title>**Movie Watchlist ( activate with your trakt )**</title>
+  <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/mad%20titan%20icons.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+  <title>**Movie Collection (activate with your trakt )**</title>
+  <trakt>https://api.trakt.tv/sync/collection/movies</trakt>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/mad%20titan%20icons.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+  <dir>
+    <title>**Search**</title>
+    <tmdb>search</tmdb>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/mad%20titan%20icons.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+  </dir>
+
+
+

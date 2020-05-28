@@ -1,0 +1,68 @@
+<xml>
+ <dir>
+  <title>Post Apocalyptic</title>
+  <trakt>https://api.trakt.tv/users/tuesdaysgone5150/lists/apocalyptic/items</trakt>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+ <dir>
+  <title>Natural Disaster</title>
+  <trakt>https://api.trakt.tv/users/tuesdaysgone5150/lists/natural-disaster/items</trakt>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+ <dir>
+  <title>Killer Animals</title>
+  <tmdb>list/92718</tmdb>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+ <dir>
+  <title>Dystopian</title>
+  <trakt>https://api.trakt.tv/users/tuesdaysgone5150/lists/dystopian/items</trakt>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+ 
+ <dir>
+  <title>Apocalyptic Rom/Com</title>
+  <trakt>https://api.trakt.tv/users/tuesdaysgone5150/lists/zombie-rom-com/items</trakt>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+ 
+ 
+ <dir>
+  <title>Zombie Movies</title>
+  <trakt>https://api.trakt.tv/users/tuesdaysgone5150/lists/zombies/items</trakt>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+ 
+ 
+ <dir>
+  <title>Classic Zombies and More</title>
+  <trakt>https://api.trakt.tv/users/tuesdaysgone5150/lists/classic-and-b-movie-zombies/items</trakt>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+ 
+ <dir>
+ <title>Vampires</title>
+<trakt>https://api.trakt.tv/users/tuesdaysgone5150/lists/vampires/items</trakt>
+<thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+
+ <dir>
+  <title>Undead Box Sets</title>
+  <link>http://dystopiabuilds.xyz/waste/undead_box_sets.xml</link>
+  <thumbnail>http://dystopiabuilds.xyz/waste/icon.png</thumbnail>
+  <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+ </dir>
+
+</xml>

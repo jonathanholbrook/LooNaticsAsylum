@@ -1,0 +1,67 @@
+<dir>
+<title>[COLORgold]MOVIES[/COLOR]</title>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/base/movies.xml</link>
+<thumbnail>https://archive.org/download/icon.png-2/icon.png%20%282%29.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>[COLORgold]TV SHOWS[/COLOR]</title>
+<link>https://pastebin.com/raw/wd6FFiXq</link>
+<thumbnail>https://archive.org/download/icon.png-2/icon.png%20%282%29.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>[COLORdarkblue]***************************************[/COLOR]</title>
+<link></link>
+<thumbnail>https://archive.org/download/icon.png-2/icon.png%20%282%29.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>...WELCOME TO BASE...</title>
+<link></link>
+<thumbnail>https://archive.org/download/icon.png-2/icon.png%20%282%29.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>...FREE + DEBRID .. 1 CLICK MOVIES + TV SHOWS...</title>
+<link></link>
+<thumbnail>https://archive.org/download/icon.png-2/icon.png%20%282%29.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>[COLORdarkblue]***************************************[/COLOR]</title>
+<link></link>
+<thumbnail>https://archive.org/download/icon.png-2/icon.png%20%282%29.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<plugin>
+<name>[COLORlime]LINK REAL DEBRID HERE[/COLOR]</name>
+<link>plugin://script.module.resolveurl/?mode=auth_rd</link>
+<thumbnail>https://archive.org/download/rd12_20200409/rd1%20%282%29.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+<summary>Pair Real Debrid</summary>
+</plugin>
+
+<dir>
+  <title>[COLORlime]PAIR TRAKT[/COLOR]</title>
+  <trakt>https://api.trakt.tv/users/me/lists/</trakt>
+  <thumbnail>http://www.ezzer-mac.com/frank/art/trakticon.png</thumbnail>
+  <fanart>http://www.ezzer-mac.com/frank/art/traktfanart.jpg</fanart>
+  <summary>Pair Trakt</summary>
+  </dir></link>
+<thumbnail></thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
+
+<dir>
+<title>[COLORdarkblue]****************************************[/COLOR]</title>
+<link></link>
+<thumbnail>https://archive.org/download/icon.png-2/icon.png%20%282%29.jpg</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir>
