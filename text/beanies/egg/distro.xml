@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+
+<plugin>
+    <title>[COLOR orchid]Â¤[/COLOR] [B][COLOR white]DISTRO[/COLOR] [COLOR orchid] TV[/COLOR][/B] [COLOR orchid]Â¤[/COLOR]</title>
+    <link>plugin://plugin.video.distrotv/?mode=1</link>
+    <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/distro.png</thumbnail>
+    <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</plugin>
+
