@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>fuckOFF</layoutype>
 <item>
@@ -90,7 +90,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 def GetLSProData(page_data,Cookie_Jar,m,url = '[makelist.param1]'):
     from resources.lib.modules import client
     import re
-    u = client.request(url) 
+    u = client.request(url)
     r = re.findall(' source: \'([^\']*)', u)[0]
     return r
 ]]></expres>
@@ -147,12 +147,12 @@ def GetLSProData(page_data,Cookie_Jar,m,url = '[makelist.param1]'):
 </plugin>
 <item>
     <title>[COLOR orchid]¤¤¤¤¤[/COLOR] [B][COLOR white]FIFA[/COLOR] [COLOR orchid]CHANNELS[/COLOR][/B] [COLOR orchid]¤¤¤¤¤[/COLOR]</title>
-    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/bg/sportsstream/SKYSPORTSPL.png</thumbnail>
+    <thumbnail>https://bitbucket.org/team-beanies/xmls/raw/master/sports/bg/sportsstream/SKYSPORTSPL.png</thumbnail>
     <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/fifa_fanart.jpg</fanart>
 </item>
 <item>
     <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]SKY SPORTS[/COLOR] [COLOR orchid]PREMIER LEAGUE[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
     <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Premier-League.html</link>
-    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/clown/bg/sportsstream/SKYSPORTSPL.png</thumbnail>
+    <thumbnail>https://bitbucket.org/team-beanies/xmls/raw/master/sports/bg/sportsstream/SKYSPORTSPL.png</thumbnail>
     <fanart>special://home/addons/script.thebeanies.artwork/resources/fanart/fifa_fanart.jpg</fanart>
 </item>
