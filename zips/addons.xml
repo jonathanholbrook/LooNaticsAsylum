@@ -387,6 +387,7 @@
 
 </addon>
 
+
 <addon  id="script.swift" version="20.6.1" name="   [COLORmagenta]Swift[COLORcyan]Streamz[/COLOR]" provider-name="[COLORmagenta]• [COLORcyan]Cable [COLORmagenta]•[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
