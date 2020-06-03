@@ -340,7 +340,7 @@
     </extension>
 </addon>
 
-<addon  id="plugin.video.watchdogs" version="20.5.20" name="   [COLORmagenta]Watch[COLORcyan]dogs[/COLOR]" provider-name="[COLORmagenta]• [COLORcyan]Cable [COLORmagenta]•[/COLOR]">
+<addon  id="plugin.video.watchdogs" version="20.6.1" name="   [COLORmagenta]Watch[COLORcyan]dogs[/COLOR]" provider-name="[COLORmagenta]• [COLORcyan]Cable [COLORmagenta]•[/COLOR]">
 
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
@@ -387,7 +387,7 @@
 
 </addon>
 
-<addon  id="script.swift" version="20.5.20" name="   [COLORmagenta]Swift[COLORcyan]Streamz[/COLOR]" provider-name="[COLORmagenta]• [COLORcyan]Cable [COLORmagenta]•[/COLOR]">
+<addon  id="script.swift" version="20.6.1" name="   [COLORmagenta]Swift[COLORcyan]Streamz[/COLOR]" provider-name="[COLORmagenta]• [COLORcyan]Cable [COLORmagenta]•[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
     <import addon="script.module.pycryptodome" />
@@ -397,7 +397,7 @@
     <import addon="script.module.routing" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="addon.py">
-    <provides>program executable video all</provides>
+    <provides></provides>
   </extension>
   <extension point="xbmc.addon.metadata">
         <summary lang="en">[COLORmagenta]Watch[COLORcyan]dogs[/COLOR] [COLORwhite]SwiftStreamz[/COLOR]</summary>
@@ -417,7 +417,7 @@
   </extension>
 </addon>
 
-<addon  id="script.tvtap" version="20.5.20" name="   [COLORmagenta]Tv[COLORcyan]Tap[/COLOR]" provider-name="[COLORmagenta]• [COLORcyan]Cable [COLORmagenta]•[/COLOR]">
+<addon  id="script.tvtap" version="20.6.1" name="   [COLORmagenta]Tv[COLORcyan]Tap[/COLOR]" provider-name="[COLORmagenta]• [COLORcyan]Cable [COLORmagenta]•[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
     <import addon="script.module.pycryptodome" />
@@ -427,7 +427,7 @@
     <import addon="script.module.routing" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="addon.py">
-    <provides>program executable video all</provides>
+    <provides></provides>
   </extension>
   <extension point="xbmc.addon.metadata">
         <summary lang="en">[COLORmagenta]Watch[COLORcyan]dogs[/COLOR] [COLORwhite]TvTap[/COLOR]</summary>
