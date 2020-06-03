@@ -1,2 +1,0 @@
-[B][COLOR magenta]Update - v20.5.20[/COLOR][/B]
-[COLOR cyan]--[/COLOR][I] Initial Version[/I]
