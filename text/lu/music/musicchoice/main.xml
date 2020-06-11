@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>GoFuckYourself</layoutype>
+
+<dir>
+<title>MUSIC CHOICE - AUDIO CHANNELS</title>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/music/musicchoice/audio.xml</link>
+<thumbnail>http://www.sofritoforyoursoul.com/wp-content/uploads/2013/08/music_choice_us.png</thumbnail>
+<fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
+</dir>
+
+<dir >
+<title>MUSIC CHOICE - VIDEO CHANNELS (Down)</title>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/music/musicchoice/channels.xml</link>
+<thumbnail>http://www.sofritoforyoursoul.com/wp-content/uploads/2013/08/music_choice_us.png</thumbnail>
+<fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
+</dir >
