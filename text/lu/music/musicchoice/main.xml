@@ -6,12 +6,12 @@
 <title>MUSIC CHOICE - AUDIO CHANNELS</title>
 <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/music/musicchoice/audio.xml</link>
 <thumbnail>http://www.sofritoforyoursoul.com/wp-content/uploads/2013/08/music_choice_us.png</thumbnail>
-<fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
+<fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
 <dir >
 <title>MUSIC CHOICE - VIDEO CHANNELS (Down)</title>
 <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/music/musicchoice/channels.xml</link>
 <thumbnail>http://www.sofritoforyoursoul.com/wp-content/uploads/2013/08/music_choice_us.png</thumbnail>
-<fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
+<fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir >
