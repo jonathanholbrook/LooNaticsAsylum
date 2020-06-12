@@ -1,6 +1,0 @@
-[B][COLOR magenta]Update - v20.6.1[/COLOR][/B]
-[COLOR cyan]--[/COLOR][I] Added USTvGo IPTV[/I]
-[COLOR cyan]--[/COLOR][I] Other fixes[/I]
-
-[B][COLOR magenta]Update - v20.5.20[/COLOR][/B]
-[COLOR cyan]--[/COLOR][I] Initial Version[/I]
