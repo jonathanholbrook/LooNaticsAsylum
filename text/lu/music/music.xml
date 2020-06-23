@@ -27,14 +27,6 @@
 </plugin>
 
 <dir>
-    <title>Music Choice [COLORyellow]Needs Fixing[/COLOR]</title>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/music/musicchoice/main.xml</link>
-    <thumbnail>http://www.sofritoforyoursoul.com/wp-content/uploads/2013/08/music_choice_us.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
-    <content></content>
-</dir>
-
-<dir>
 <name>Now Music</name>
 <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/music/nowmusic.xml</link>
 <thumbnail>http://i.imgur.com/nbA6HyC.png</thumbnail>
