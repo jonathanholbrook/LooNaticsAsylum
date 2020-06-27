@@ -2,42 +2,42 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 <dir>
-    <name>NAME</name>
+    <name>Ace's Adventure</name>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/ace.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/ace.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
 <dir>
-    <name>NAME</name>
+    <name>Duck's Dynasty</name>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/duck.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/duck.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
 <dir>
-    <name>NAME</name>
+    <name>Lexi's Castle</name>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/lexi.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/lexi.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
 <dir>
-    <name>NAME</name>
+    <name>Rev's Road</name>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/rev.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/rev.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
 <dir>
-    <name>NAME</name>
+    <name>Slam's Spinners</name>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/slam.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/slam.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
 <dir>
-    <name>NAME</name>
+    <name>Teche's Toy Lab</name>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/tech.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/tech.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
