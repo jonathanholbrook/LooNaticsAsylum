@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>GoFuckYourself</layoutype>
+<dir>
+    <name>NAME</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/ace.xml</link>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/1click.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>NAME</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/duck.xml</link>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/duck.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>NAME</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/lexi.xml</link>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/lexi.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>NAME</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/rev.xml</link>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/rev.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>NAME</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/slam.xml</link>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/slam.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>NAME</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/tech.xml</link>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/tech.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>NAME</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/adolpho.xml</link>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/adolpho.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>NAME</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/dr.xml</link>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/dr.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>NAME</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/drake.xml</link>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/drake.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>NAME</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/gunnar.xml</link>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/gunnar.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>NAME</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/massive.xml</link>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/massive.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>NAME</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/mastermind.xml</link>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/mastermind.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>NAME</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/melvin.xml</link>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/melvin.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>NAME</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/ophiuchus.xml</link>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/ophiuchus.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>NAME</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/otto.xml</link>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/otto.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>NAME</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/pierre.xml</link>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/pierre.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>NAME</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/pinkster.xml</link>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/pinkster.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>NAME</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/ringmaster.xml</link>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/ringmaster.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>NAME</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/weather.xml</link>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/weather.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>NAME</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/zadavia.xml</link>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/zadavia.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+</xml>
