@@ -2,141 +2,141 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 <dir>
-    <name>Ace's Adventure</name>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/ace.xml</link>
+    <name>Ace's Adventure / Action</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/Action_Adventure.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/ace.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
 <dir>
-    <name>Duck's Dynasty</name>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/duck.xml</link>
+    <name>Duck's Dynasty of Romance</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/Romantic.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/duck.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
 <dir>
-    <name>Lexi's Castle</name>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/lexi.xml</link>
+    <name>Lexi's Castle of Fantasy Movies</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/Fantasy_Sci_fi.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/lexi.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
 <dir>
-    <name>Rev's Road</name>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/rev.xml</link>
+    <name>Rev's Road to Comics / Novels</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/Comics_Graphic_Novels.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/rev.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
 <dir>
-    <name>Slam's Spinners</name>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/slam.xml</link>
+    <name>Slam's Spinners of Horror</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/Horror.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/slam.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
 <dir>
-    <name>Teche's Toy Lab</name>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/tech.xml</link>
+    <name>Teche's Toy Lab of Disney Movies</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/Disney.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/tech.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
 <dir>
-    <name>NAME</name>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/adolpho.xml</link>
+    <name>Adolpho's Creature Feature</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/Creature_Features.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/adolpho.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
 <dir>
-    <name>NAME</name>
+    <name>Dr. Dare's Stoners</name>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/dr.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/dr.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
 <dir>
-    <name>NAME</name>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/drake.xml</link>
+    <name>Drake's Sports</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/Sports_Movies.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/drake.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
-<dir>
+<dir >
     <name>NAME</name>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/gunnar.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/gunnar.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
-</dir>
+</dir >
 
 <dir>
-    <name>NAME</name>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/massive.xml</link>
+    <name>Massive's War Room Movies</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/War.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/massive.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
-<dir>
+<dir >
     <name>NAME</name>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/mastermind.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/mastermind.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
-</dir>
+</dir >
 
 <dir>
-    <name>NAME</name>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/melvin.xml</link>
+    <name>Melvin's SyFy</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/Sci_Fi.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/melvin.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
 <dir>
-    <name>NAME</name>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/ophiuchus.xml</link>
+    <name>Ophiuchus Western Movies</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/Westerns.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/ophiuchus.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
 <dir>
-    <name>NAME</name>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/otto.xml</link>
+    <name>Otto's Odd B Movies</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/B_Movies.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/otto.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
 <dir>
-    <name>NAME</name>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/pierre.xml</link>
+    <name>Pierre's Black / White Movies</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/Black_and_White_Classics.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/pierre.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
 <dir>
-    <name>NAME</name>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/pinkster.xml</link>
+    <name>Pinkster's Crime</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/Crime.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/pinkster.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
 <dir>
-    <name>NAME</name>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/ringmaster.xml</link>
+    <name>Ringmaster's Comedy</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/Comedy.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/ringmaster.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
-<dir>
+<dir >
     <name>NAME</name>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/weather.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/weather.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
-</dir>
+</dir >
 
 <dir>
-    <name>NAME</name>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/zadavia.xml</link>
+    <name>Zadavia's Motivational / Inspiration</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/userlists/Motivational_Inspirational.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/zadavia.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>

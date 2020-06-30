@@ -1,25 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
+
 <dir>
-    <name>1Click Movies (Free Hosters)</name>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/oneclick/click.xml</link>
+    <title>[COLOR springgreen]1Click Movies [COLOR palegreen]# - E[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/oneclick/1clicka-e.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/1click.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
 <dir>
-    <name>1Click Name ...</name>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/oneclick/NAME.xml</link>
+    <title>[COLOR springgreen]1Click Movies [COLOR palegreen]F - K[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/oneclick/1clickf-k.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/1click.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
 <dir>
-    <name>1Click Name ...</name>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/oneclick/NAME.xml</link>
+    <title>[COLOR springgreen]1Click Movies [COLOR palegreen]L - P[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/oneclick/1clickl-p.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/1click.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
+
+<dir>
+    <title>[COLOR springgreen]1Click Movies [COLOR palegreen]Q - T[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/oneclick/1clickq-t.xml</link>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/1click.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLOR springgreen]1Click Movies [COLOR palegreen]U - Z[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/oneclick/1clicku-z.xml</link>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/1click.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
 </xml>
-
