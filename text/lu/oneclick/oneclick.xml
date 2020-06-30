@@ -3,6 +3,12 @@
 <layoutype>GoFuckYourself</layoutype>
 
 <dir>
+    <title>[COLOR springgreen]Updated [COLOR palegreen]Monthly[/COLOR]</title>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/1click.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+<dir>
     <title>[COLOR springgreen]1Click Movies [COLOR palegreen]# - E[/COLOR]</title>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/oneclick/1clicka-e.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/1click.png</thumbnail>
