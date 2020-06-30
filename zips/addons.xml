@@ -1087,4 +1087,302 @@ Il peut optionnellement gerer les playlistes pour filtrer les resultats.
     </extension>
 </addon>
 
+<addon id="context.lu"
+version="20.6.30" name="   [COLORspringgreen]Loonatics [COLORpalegreen]Unleashed [COLORspringgreen]Context[/COLOR]"
+provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen]•[/COLOR]">
+    <requires>
+        <import addon="xbmc.python" version="2.23.0" />
+    </requires>
+    <extension point="kodi.context.item">
+        <menu id="kodi.core.main">
+            <item library="contextSettings.py">
+                <label>[B][COLORspringgreen]LU[/COLOR][/B] - CM Settings</label>
+                <visible>
+                    String.IsEqual(Window(home).Property(context.lu.settings),true) +
+                    String.StartsWith(ListItem.path,plugin://plugin.video.lu/) +
+                    String.IsEqual(ListItem.Property(isLU_widget),true)
+                </visible>
+            </item>
+
+            <item library="traktManager.py">
+                <label>[B][COLORspringgreen]LU[/COLOR][/B] - Trakt Manager</label>
+                <visible>
+                    String.IsEqual(Window(home).Property(context.lu.traktManager),true) +
+                    String.StartsWith(ListItem.path,plugin://plugin.video.lu/) +
+                    String.IsEqual(ListItem.Property(isLU_widget),true) +
+                    [String.IsEqual(ListItem.dbtype,episode) | String.IsEqual(ListItem.dbtype,tvshow) | String.IsEqual(ListItem.dbtype,season) | String.IsEqual(ListItem.dbtype,movie)]
+                </visible>
+            </item>
+
+            <item library="clearProviders.py">
+                <label>[B][COLORspringgreen]LU[/COLOR][/B] - Clear Providers</label>
+                <visible>
+                    String.IsEqual(Window(home).Property(context.lu.clearProviders),true) +
+                    String.StartsWith(ListItem.FolderPath,plugin://plugin.video.lu/?action=play) +
+                    String.IsEqual(ListItem.Property(isLU_widget),true) +
+                    [String.IsEqual(ListItem.dbtype,episode) | String.IsEqual(ListItem.dbtype,movie)]
+                </visible>
+            </item>
+
+            <item library="clearBookmark.py">
+                <label>[B][COLOR red]LU[/COLOR][/B] - Clear Item Bookmark</label>
+                <visible>
+                    String.IsEqual(Window(home).Property(context.lu.clearBookmark),true) +
+                    String.StartsWith(ListItem.FolderPath,plugin://plugin.video.lu/?action=play) +
+                    String.IsEqual(ListItem.Property(isLU_widget),true) +
+<!--                    !String.IsEqual(ListItem.Property(resumetime),0) + -->
+                    !String.IsEqual(ListItem.Property(lu_resumetime),0) +
+                    [String.IsEqual(ListItem.dbtype,episode) | String.IsEqual(ListItem.dbtype,movie)]
+                </visible>
+            </item>
+            <item library="rescrape.py">
+                <label>[B][COLORspringgreen]LU[/COLOR][/B] - Rescrape Item</label>
+                <visible>
+                    String.IsEqual(Window(home).Property(context.lu.rescrape),true) +
+                    String.StartsWith(ListItem.FolderPath,plugin://plugin.video.lu/?action=play) +
+                    String.IsEqual(ListItem.Property(isLU_widget),true) +
+                    [String.IsEqual(ListItem.dbtype,episode) | String.IsEqual(ListItem.dbtype,movie)]
+                </visible>
+            </item>
+
+            <item library="playFromHere.py">
+                <label>[B][COLORspringgreen]LU[/COLOR][/B] - Play from here</label>
+                <visible>
+                    String.IsEqual(Window(home).Property(context.lu.playFromHere),true) +
+                    String.StartsWith(ListItem.path,plugin://plugin.video.lu/) +
+                    String.IsEqual(ListItem.Property(isLU_widget),true) +
+                    String.IsEqual(ListItem.dbtype,episode)
+                </visible>
+            </item>
+
+            <item library="autoPlay.py">
+                <label>[B][COLORspringgreen]LU[/COLOR][/B] - Auto Play</label>
+                <visible>
+                    String.IsEmpty(Window(home).Property(plugin.video.lu.autoPlay)) +
+                    String.IsEqual(Window(home).Property(context.lu.autoPlay),true) +
+                    String.StartsWith(ListItem.FolderPath,plugin://plugin.video.lu/?action=play) +
+                    String.IsEqual(ListItem.Property(isLU_widget),true) +
+                    [String.IsEqual(ListItem.dbtype,episode) | String.IsEqual(ListItem.dbtype,movie)]
+                </visible>
+            </item>
+
+            <item library="sourceSelect.py">
+                <label>[B][COLORspringgreen]LU[/COLOR][/B] - Source Select</label>
+                <visible>
+                    !String.IsEmpty(Window(home).Property(plugin.video.lu.autoPlay)) +
+                    String.IsEqual(Window(home).Property(context.lu.sourceSelect),true) +
+                    String.StartsWith(ListItem.FolderPath,plugin://plugin.video.lu/?action=play) +
+                    String.IsEqual(ListItem.Property(isLU_widget),true) +
+                    [String.IsEqual(ListItem.dbtype,episode) | String.IsEqual(ListItem.dbtype,movie)]
+                </visible>
+            </item>
+
+            <item library="findSimilar.py">
+                <label>[B][COLORspringgreen]LU[/COLOR][/B] - Find Similar</label>
+                <visible>
+                    String.IsEqual(Window(home).Property(context.lu.findSimilar),true) +
+                    String.StartsWith(ListItem.path,plugin://plugin.video.lu/) +
+                    String.IsEqual(ListItem.Property(isLU_widget),true) +
+                    [String.IsEqual(ListItem.dbtype,tvshow) | String.IsEqual(ListItem.dbtype,movie)]
+                </visible>
+            </item>
+
+            <item library="browseSeries.py">
+                <label>[B][COLORspringgreen]LU[/COLOR][/B] - Browse Series</label>
+                <visible>
+                    String.IsEqual(Window(home).Property(context.lu.browseSeries),true) +
+                    String.StartsWith(ListItem.path,plugin://plugin.video.lu/) +
+                    String.IsEqual(ListItem.Property(isLU_widget),true) +
+                    [String.IsEqual(ListItem.dbtype,episode) | String.IsEqual(ListItem.dbtype,tvshow)]
+                </visible>
+            </item>
+
+            <item library="browseEpisodes.py">
+                <label>[B][COLORspringgreen]LU[/COLOR][/B] - Browse Episodes</label>
+                <visible>
+                    String.IsEqual(Window(home).Property(context.lu.browseEpisodes),true) +
+                    String.StartsWith(ListItem.path,plugin://plugin.video.lu/) +
+                    String.IsEqual(ListItem.Property(isLU_widget),true) +
+                    String.IsEqual(ListItem.dbtype,episode)
+                </visible>
+            </item> -->
+
+        </menu>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">[COLORwhite]Loonatics Unleashed Context[/COLOR]</summary>
+        <description>[COLORwhite]Loonatics Unleashed Context[/COLOR]</description>
+        <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+        <forum></forum>
+        <website></website>
+        <source></source>
+        <disclaimer lang="en"></disclaimer>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <news>
+        </news>
+    </extension>
+</addon>
+
+<addon  id="script.lu.swift" version="20.6.30"
+        name="   [COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR] [COLORspringgreen]Swift[COLORpalegreen]Streamz[/COLOR]"
+        provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen]•[/COLOR]">
+  <requires>
+    <import addon="xbmc.python" version="2.26.0"/>
+    <import addon="script.module.pycryptodome" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.kodi-six" />
+    <import addon="script.module.future" />
+    <import addon="script.module.routing" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides></provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+        <summary lang="en">[COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR] [COLORwhite]SwiftStreamz[/COLOR]</summary>
+        <description>[COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR] [COLORwhite]SwiftStreamz[/COLOR]</description>
+        <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
+<addon  id="script.lu.tvtap" version="20.6.30"
+        name="   [COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR] [COLORspringgreen]Tv[COLORpalegreen]Tap[/COLOR]"
+        provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen]•[/COLOR]">
+  <requires>
+    <import addon="xbmc.python" version="2.26.0"/>
+    <import addon="script.module.pycryptodome" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.kodi-six" />
+    <import addon="script.module.future" />
+    <import addon="script.module.routing" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides></provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+        <summary lang="en">[COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR] [COLORwhite]TvTap[/COLOR]</summary>
+        <description>[COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR] [COLORwhite]TvTap[/COLOR]</description>
+        <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
+    <addon  id="plugin.video.lu"
+    version="20.6.30"
+    name="   [COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR]"
+    provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen]•[/COLOR]">
+    <requires>
+        <import addon="xbmc.python" version="2.19.0" />
+        <import addon="script.module.requests" version="2.19.1" />
+        <import addon="script.module.beautifulsoup4" version="4.5.3"/>
+        <import addon="script.module.metahandler" version="2.9.0" />
+        <import addon="plugin.video.youtube" version="6.2.0"/>
+        <import addon="script.module.resolveurl" />
+        <import addon="script.module.openscrapers" />
+        <import addon="script.module.addon.signals" version="0.0.3"/>
+        <import addon="context.lu" version="20.6.30" />
+        <import addon="script.lu.swift" version="20.6.30" />
+        <import addon="script.lu.tvtap" version="20.6.30" />
+        <import addon="script.elementum.burst" version="0.0.49" />
+        <import addon="plugin.video.elementum" version="0.1.58" />
+        <import addon="context.elementum" version="0.0.3" />
+        <import addon="plugin.video.acmeplayer" version="20.6.30" />
+    </requires>
+
+    <extension point="xbmc.python.pluginsource" library="lu.py">
+        <provides>video</provides>
+    </extension>
+
+    <extension point="xbmc.service" library="service.py" start="startup" />
+    <extension point="xbmc.python.module" library="resources/lib/"/>
+
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <reuselanguageinvoker>false</reuselanguageinvoker> <!-- You can enable this if you want, expect some instability but much faster menu speeds -->
+        <summary lang="en">[COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR] [COLORwhite]Movies-TV Shows-Trakt-IMDB-TMDB[/COLOR]</summary>
+        <description>[COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR] [COLORwhite]Movies-TV Shows-Trakt-IMDB-TMDB[/COLOR]</description>
+        <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+        <forum></forum>
+        <website></website>
+        <source></source>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+            <screenshot>resources/screenshots/screenshot000.png</screenshot>
+        </assets>
+        <news></news>
+    </extension>
+
+</addon>
+
+    <addon id="plugin.video.acmeplayer"
+    version="20.6.30"
+    name="   [COLORspringgreen]Acme [COLORpalegreen]Player[/COLOR]"
+    provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen]•[/COLOR]">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+        <import addon="metadata.tvdb.com" version="3.0.14"/>
+        <import addon="script.module.futures" version="2.2.0"/>
+        <import addon="script.module.requests" version="2.19.1"/>
+        <import addon="script.module.requests-cache" version="0.4.13"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py"/>
+    <extension point="kodi.context.item">
+        <menu id="kodi.core.main">
+            <item library="context.py">
+                <label>Acme Player - Default Player</label>
+                <visible>!String.StartsWith(ListItem.path,plugin://plugin.video.acmeplayer/)+[String.IsEqual(ListItem.dbtype,episode)|String.IsEqual(ListItem.dbtype,movie)]</visible>
+            </item>
+            <item library="context2.py">
+                <label>Acme Player - Choose Player</label>
+                <visible>String.IsEqual(ListItem.dbtype,movie) | String.IsEqual(ListItem.dbtype,episode)</visible>
+            </item>
+        </menu>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">TMDb, TVDb and Trakt browser</summary>
+        <description lang="en">Browse The MovieDb, The TVDb, Trakt and pass info along to library or an addon. Needs player-files and the appropriate addon to play the files.</description>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <license></license>
+        <forum></forum>
+        <website></website>
+        <source></source>
+        <news>
+        </news>
+    </extension>
+</addon>
+
 </addons>
