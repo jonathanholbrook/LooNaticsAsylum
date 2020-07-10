@@ -355,7 +355,7 @@
     </extension>
 </addon>
 
-<addon  id="plugin.video.watchdogs" version="20.6.22" name="   [COLORmagenta]Watch[COLORcyan]dogs[/COLOR]" provider-name="[COLORmagenta]• [COLORcyan]Cable [COLORmagenta]•[/COLOR]">
+<addon  id="plugin.video.watchdogs" version="20.7.10" name="   [COLORmagenta]Watch[COLORcyan]dogs[/COLOR]" provider-name="[COLORmagenta]• [COLORcyan]Cable [COLORmagenta]•[/COLOR]">
 
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
