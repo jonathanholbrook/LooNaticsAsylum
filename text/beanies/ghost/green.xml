@@ -2,29 +2,36 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>fuckOFF</layoutype>
 <dir>
-<name>[COLOR white]1Click Hd Movies[/COLOR]</name>
+<name>[COLOR white]This Section is Closed[/COLOR]</name>
 <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/main_1click.xml</link>
 <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_greenhat.png</thumbnail>
 <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
 </dir>
 
-<dir>
+<dir >
+<name>[COLOR white]1Click Hd Movies[/COLOR]</name>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/main_1click.xml</link>
+<thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_greenhat.png</thumbnail>
+<fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
+</dir >
+
+<dir >
 <name>[COLOR white]1Click Kids Hd Movies[/COLOR]</name>
 <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/hatkids.xml</link>
 <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_greenhat.png</thumbnail>
 <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
-</dir>
+</dir >
 
-<dir>
+<dir >
 <name>[COLOR white]1Click Uhd RD Movies[/COLOR]</name>
 <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/4k.xml</link>
 <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_greenhat.png</thumbnail>
 <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
-</dir>
+</dir >
 
-<dir>
+<dir >
 <name>[COLOR white]1Click RD Collection[/COLOR]</name>
 <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/beanies/ghost/rdcollections.xml</link>
 <thumbnail>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/main_greenhat.png</thumbnail>
 <fanart>special://home/addons/script.thebeanies.artwork/resources/media/thebeanies/fanart.png</fanart>
-</dir>
+</dir >
