@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>GoFuckYourself</layoutype>
+
+<dir>
+    <title>[COLOR springgreen]1Click [COLOR palegreen]Sylth [COLOR lime]Vester[/COLOR]</title>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/1click.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLOR springgreen]1Click 4k Movie Magnets[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/watchdogs36/dedsec/master/LU4k.xml</link>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/1click.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLOR springgreen]1Click 4k Movie Magnets[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/watchdogs36/dedsec/master/lumovies.xml</link>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/1click.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+</xml>
