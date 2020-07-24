@@ -5,21 +5,21 @@
 <dir>
     <title>[COLOR springgreen]Be Patient [COLOR palegreen]Movies will take [COLOR lime]a minute to load[/COLOR]</title>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/sylthmovies.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/sylthmovies.jpg</fanart>
 </dir>
 
 <dir>
     <title>[COLOR red]1Click [COLOR whitesmoke]4k Movie [COLOR dimgray]RD Only[/COLOR]</title>
     <link>https://raw.githubusercontent.com/watchdogs36/dedsec/master/LU4k.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/sylthmovies.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/sylthmovies.jpg</fanart>
 </dir>
 
 <dir>
     <title>[COLOR red]1Click [COLOR whitesmoke]Movie [COLOR dimgray]RD Only[/COLOR]</title>
     <link>https://raw.githubusercontent.com/watchdogs36/dedsec/master/lumovies.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/sylthmovies.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/sylthmovies.jpg</fanart>
 </dir>
 
 </xml>
