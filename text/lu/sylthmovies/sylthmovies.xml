@@ -3,26 +3,26 @@
 <layoutype>GoFuckYourself</layoutype>
 
 <dir>
-    <title>[COLOR red]Sylth [COLOR white]Vester [COLOR gray]Masterpiece Theater[/COLOR]</title>
-    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/1click.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
-</dir>
-
-<dir>
     <title>[COLOR springgreen]Be Patient [COLOR palegreen]Movies will take [COLOR lime]a minute to load[/COLOR]</title>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/1click.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
 <dir>
-    <title>[COLOR red]1Click [COLOR white]4k Movie [COLOR gray]Magnets[/COLOR]</title>
+    <title>[COLOR red]Sylth [COLOR whitesmoke]Vester [COLOR dimgray]Masterpiece Theater[/COLOR]</title>
+    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/1click.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLOR red]1Click [COLOR whitesmoke]4k Movie [COLOR dimgray]Magnets[/COLOR]</title>
     <link>https://raw.githubusercontent.com/watchdogs36/dedsec/master/LU4k.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/1click.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
 </dir>
 
 <dir>
-    <title>[COLOR red]1Click [COLOR white]Movie [COLOR gray]Magnets[/COLOR]</title>
+    <title>[COLOR red]1Click [COLOR whitesmoke]Movie [COLOR dimgray]Magnets[/COLOR]</title>
     <link>https://raw.githubusercontent.com/watchdogs36/dedsec/master/lumovies.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/1click.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
