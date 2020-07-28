@@ -16,14 +16,14 @@
 
 <dir>
     <title>[COLOR red]1Click [COLOR whitesmoke]4k Movie [COLOR dimgray]RD Only[/COLOR]</title>
-    <link>https://raw.githubusercontent.com/watchdogs36/dedsec/master/LU4k.xml</link>
+    <link>https://raw.githubusercontent.com/watchdogs36/straitjacket/master/text/oneclick/LU4k.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/sylthmovies.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/sylthmovies.jpg</fanart>
 </dir>
 
 <dir>
     <title>[COLOR red]1Click [COLOR whitesmoke]Movie [COLOR dimgray]RD Only[/COLOR]</title>
-    <link>https://raw.githubusercontent.com/watchdogs36/dedsec/master/lumovies.xml</link>
+    <link>https://raw.githubusercontent.com/watchdogs36/straitjacket/master/text/oneclick/lumovies.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/sylthmovies.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/sylthmovies.jpg</fanart>
 </dir>
