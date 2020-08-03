@@ -18,14 +18,14 @@
     <title>[COLORdeepskyblue]4K [COLORblue]Movies [COLORlightsteelblue]RD Only[/COLOR]</title>
     <link>https://raw.githubusercontent.com/watchdogs36/straitjacket/master/text/oneclick/LU4k.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/cable.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/madfan.jpg</fanart>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/cable.jpg</fanart>
 </dir>
 
 <dir>
     <title>[COLORdeepskyblue]Random [COLORblue]Movies [COLORlightsteelblue]RD Only[/COLOR]</title>
     <link>https://raw.githubusercontent.com/watchdogs36/straitjacket/master/text/oneclick/lumovies.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/cable.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/madfan.jpg</fanart>
+    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/cable.jpg</fanart>
 </dir>
 
 </xml>
