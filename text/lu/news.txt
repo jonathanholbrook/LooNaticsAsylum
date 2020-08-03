@@ -1,4 +1,9 @@
-[B][COLOR springgreen]20.8.1[/COLOR][/B]
+[B][COLOR springgreen]20.8.3[/COLOR][/B]
+[COLOR palegreen]--[/COLOR][I] Adult section pw has changed[/I]
+[COLOR palegreen]--[/COLOR][I] Password for Cartoons ADULT: yen00L[/I]
+[COLOR palegreen]--[/COLOR][I] Password for XXX ADULT: yen00L[/I]
+
+[B][COLOR springgreen]20.6.30[/COLOR][/B]
 [COLOR palegreen]--[/COLOR][I] No News is Good News![/I]
 [COLOR palegreen]--[/COLOR][I] Password for Cartoons ADULT: drowssap[/I]
 [COLOR palegreen]--[/COLOR][I] Password for XXX ADULT: drowssap[/I]
