@@ -1,0 +1,13 @@
+name="Amazon Products"
+section="no"
+url="https://bitbucket.org/team-crew/text_files/raw/master/builds/advance/default.xml"
+icon="http://"
+fanart="http://"
+description="Default advancesettings for Amazon products"
+
+name="Nvidia Shield Setting"
+section="no"
+url="https://bitbucket.org/team-crew/text_files/raw/master/builds/advance/shield.xml"
+icon="http://"
+fanart="http://"
+description="Default advancesettings for Nvidia Shield"

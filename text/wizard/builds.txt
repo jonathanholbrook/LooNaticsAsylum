@@ -1,0 +1,19 @@
+
+id="plugin.program.acme"
+version="0.0.0"
+zip="https://plugin.program.acme-0.0.0.zip"
+
+
+name="Name " 
+version="0.0.0"
+url="https://name.zip"
+minor="http://"
+gui="https://guisettings.zip"
+kodi="18.8"
+theme="http://"
+icon="https://icon.png"
+fanart="https://fanart.jpg"
+preview="http://"
+adult="no"
+info="https://info.txt"
+description=""
