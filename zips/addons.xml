@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-
 <addon id="repository.loonaticsasylum"
        name="  [COLORspringgreen]L[COLORpalegreen]o[COLORlime]o[COLORred]N[COLORcrimson]a[COLORmediumpurple]t[COLORmediumorchid]i[COLORorangered]c[COLORorange]s [COLORdeepskyblue]Asylum[/COLOR] [COLORblue]Repo[/COLOR]"
        version="20.8.21"
@@ -1576,5 +1575,4 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
         </news>
     </extension>
 </addon>
-
 </addons>
