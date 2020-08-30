@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
     <addon id="plugin.video.acmeplayer"
-    version="20.6.30"
-    name="   [COLORspringgreen]Acme [COLORpalegreen]Player[/COLOR]"
+    version="20.8.29"
+    name="   [COLORspringgreen]ACME [COLORpalegreen]Player[/COLOR]"
     provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen]•[/COLOR]">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
@@ -17,11 +17,11 @@
     <extension point="kodi.context.item">
         <menu id="kodi.core.main">
             <item library="context.py">
-                <label>Acme Player - Default Player</label>
+                <label>ACME Player - Default Player</label>
                 <visible>!String.StartsWith(ListItem.path,plugin://plugin.video.acmeplayer/)+[String.IsEqual(ListItem.dbtype,episode)|String.IsEqual(ListItem.dbtype,movie)]</visible>
             </item>
             <item library="context2.py">
-                <label>Acme Player - Choose Player</label>
+                <label>ACME Player - Choose Player</label>
                 <visible>String.IsEqual(ListItem.dbtype,movie) | String.IsEqual(ListItem.dbtype,episode)</visible>
             </item>
         </menu>
