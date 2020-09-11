@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="context.lu"
-version="20.8.29" name="   [COLORspringgreen]Loonatics [COLORpalegreen]Unleashed [COLORspringgreen]Context[/COLOR]"
+version="20.9.11" name="   [COLORspringgreen]Loonatics [COLORpalegreen]Unleashed [COLORspringgreen]Context[/COLOR]"
 provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen]•[/COLOR]">
     <requires>
         <import addon="xbmc.python" version="2.23.0" />
@@ -51,6 +51,11 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
                     String.StartsWith(ListItem.FolderPath,plugin://plugin.video.lu/?action=play) +
                     String.IsEqual(ListItem.Property(isLU_widget),true) +
                     [String.IsEqual(ListItem.dbtype,episode) | String.IsEqual(ListItem.dbtype,movie)]
+
+<!-- Future for Library CM to Rescrape -->
+<!--                    !String.IsEmpty(Window(home).Property(context.lu.rescrape)) +
+                    [String.Contains(ListItem.Path,plugin.video.lu) + String.IsEqual(ListItem.FileExtension,strm) | String.StartsWith(ListItem.FolderPath,plugin://plugin.video.lu/?action=play)] +
+                    [String.IsEqual(ListItem.dbtype,episode) | String.IsEqual(ListItem.dbtype,movie)] -->
                 </visible>
             </item>
             <item library="playFromHere.py">
