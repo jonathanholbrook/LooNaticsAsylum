@@ -1332,7 +1332,7 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
 </addon>
 
     <addon  id="plugin.video.lu"
-    version="20.9.11"
+    version="20.9.13"
     name="   [COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR]"
     provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen]•[/COLOR]">
     <requires>
