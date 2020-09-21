@@ -1332,7 +1332,7 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
 </addon>
 
     <addon  id="plugin.video.lu"
-    version="20.9.13"
+    version="20.9.21"
     name="   [COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR]"
     provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen]•[/COLOR]">
     <requires>
@@ -1340,6 +1340,8 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
         <import addon="script.module.requests" version="2.19.1" />
         <import addon="script.module.beautifulsoup4" version="4.5.3"/>
         <import addon="script.module.metahandler" version="2.9.0" />
+        <import addon="script.module.js2py" />
+        <import addon="script.module.pyjsparser" />
         <import addon="plugin.video.youtube" version="6.2.0"/>
         <import addon="script.module.resolveurl" />
         <import addon="script.module.openscrapers" />
