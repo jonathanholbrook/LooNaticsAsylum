@@ -312,7 +312,7 @@
        version="20.9.27"
        provider-name="[COLORgreen]• [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]•[/COLOR] [COLORwhite]/[/COLOR] [COLORred]Rev[/COLOR] [COLORcrimson]Run[/COLOR][COLORsalmon]ner[/COLOR]">
   <requires>
-    <import addon="plugin.video.SportsDevil" version="2019.05.25"/>
+    <import addon="plugin.video.SportsDevil" optional="true" />
     <import addon="plugin.video.youtube"/>
     <import addon="script.common.plugin.cache" version="2.5.5"/>
     <import addon="script.module.beautifulsoup4" version="4.5.3"/>
