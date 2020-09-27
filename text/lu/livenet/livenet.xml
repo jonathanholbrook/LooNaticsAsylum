@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>GoFuckYourself</layoutype>
+
+<plugin>
+    <title>LiveNet</title>
+    <link>plugin://script.lu.livenet/</link>
+    <thumbnail>special://home/addons/script.lu.livenet/icon.png</thumbnail>
+    <fanart>special://home/addons/script.lu.livenet/fanart.jpg</fanart>
+</plugin>
