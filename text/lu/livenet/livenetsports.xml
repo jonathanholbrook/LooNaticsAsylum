@@ -10,8 +10,15 @@
 </plugin>
 
 <plugin>
-    <title>Live Sports Channels</title>
+    <title>Live Sports Channels (1)</title>
     <link>plugin://script.lu.livenet/list_channels/1</link>
     <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\livenetsports.png</thumbnail>
     <fanart>special://home/addons/script.lu.livenet/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Live Sports Channels (2)</title>
+    <link>plugin://script.lu.tvtap/list_channels/5</link>
+    <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\livenetsports.png</thumbnail>
+    <fanart>special://home/addons/script.lu.tvtap/fanart.jpg</fanart>
 </plugin>
