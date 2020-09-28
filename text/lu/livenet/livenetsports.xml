@@ -3,8 +3,15 @@
 <layoutype>GoFuckYourself</layoutype>
 
 <plugin>
-    <title>Live Games Schedule</title>
+    <title>Live Games (Schedule)</title>
     <link>plugin://script.lu.livenet//list_live</link>
+    <thumbnail>special://home/addons/script.lu.livenet/icon.png</thumbnail>
+    <fanart>special://home/addons/script.lu.livenet/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Live Sports Channels</title>
+    <link>plugin://script.lu.livenet/list_channels/5</link>
     <thumbnail>special://home/addons/script.lu.livenet/icon.png</thumbnail>
     <fanart>special://home/addons/script.lu.livenet/fanart.jpg</fanart>
 </plugin>
