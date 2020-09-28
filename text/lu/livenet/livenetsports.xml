@@ -3,7 +3,7 @@
 <layoutype>GoFuckYourself</layoutype>
 
 <plugin>
-    <title>LiveNet</title>
+    <title>Live Games Schedule</title>
     <link>plugin://script.lu.livenet/list_channels/25</link>
     <thumbnail>special://home/addons/script.lu.livenet/icon.png</thumbnail>
     <fanart>special://home/addons/script.lu.livenet/fanart.jpg</fanart>
