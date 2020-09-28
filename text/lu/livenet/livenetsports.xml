@@ -5,13 +5,13 @@
 <plugin>
     <title>Live Games (Schedule)</title>
     <link>plugin://script.lu.livenet/list_live</link>
-    <thumbnail>special://home/addons/script.lu.livenet/icon.png</thumbnail>
+    <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\livenetsports.png</thumbnail>
     <fanart>special://home/addons/script.lu.livenet/fanart.jpg</fanart>
 </plugin>
 
 <plugin>
     <title>Live Sports Channels</title>
     <link>plugin://script.lu.livenet/list_channels/1</link>
-    <thumbnail>special://home/addons/script.lu.livenet/icon.png</thumbnail>
+    <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\livenetsports.png</thumbnail>
     <fanart>special://home/addons/script.lu.livenet/fanart.jpg</fanart>
 </plugin>
