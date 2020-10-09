@@ -65,21 +65,21 @@
         <checksum>http://420clubhouse.xyz/_Repov2/addons.xml.md5</checksum>
         <datadir zip="true">http://420clubhouse.xyz/_Repov2/</datadir>
     </dir>
-	<dir>
-		<info compressed="false">https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/</datadir>
-	</dir>
-	<dir>
-		<info compressed="false">https://raw.githubusercontent.com/mr-kodi/repository.fenomscrapers/master/zips/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/mr-kodi/repository.fenomscrapers/master/zips/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/mr-kodi/repository.fenomscrapers/master/zips/</datadir>
-	</dir>
-	<dir>
-		<info compressed="false">https://raw.githubusercontent.com/skyfsza/repository.auramod/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/skyfsza/repository.auramod/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/skyfsza/repository.auramod/master/</datadir>
-	</dir>
+    <dir>
+        <info compressed="false">https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/</datadir>
+    </dir>
+    <dir>
+        <info compressed="false">https://raw.githubusercontent.com/mr-kodi/repository.fenomscrapers/master/zips/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/mr-kodi/repository.fenomscrapers/master/zips/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/mr-kodi/repository.fenomscrapers/master/zips/</datadir>
+    </dir>
+    <dir>
+        <info compressed="false">https://raw.githubusercontent.com/skyfsza/repository.auramod/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/skyfsza/repository.auramod/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/skyfsza/repository.auramod/master/</datadir>
+    </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>[COLORspringgreen]L[COLORpalegreen]o[COLORlime]o[COLORred]N[COLORcrimson]a[COLORmediumpurple]t[COLORmediumorchid]i[COLORorangered]c[COLORorange]s [COLORdeepskyblue]Asylum[/COLOR] [COLORblue]Repo[/COLOR]</summary>
@@ -141,86 +141,86 @@
 </addon>
 
 <addon id="repository.venom" name="[COLOR red]Venom[/COLOR] Repository" version="1.9" provider-name="Venom">
-	<extension point="xbmc.addon.repository" name="Venom Repo">
+    <extension point="xbmc.addon.repository" name="Venom Repo">
 
-		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/123Venom/zips/master/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/123Venom/zips/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/123Venom/zips/master/</datadir>
-		</dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/123Venom/zips/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/123Venom/zips/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/123Venom/zips/master/</datadir>
+        </dir>
 
-		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/drinfernoo/repository.openwizard/master/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/drinfernoo/repository.openwizard/master/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/drinfernoo/repository.openwizard/master/zips/</datadir>
-		</dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/drinfernoo/repository.openwizard/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/drinfernoo/repository.openwizard/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/drinfernoo/repository.openwizard/master/zips/</datadir>
+        </dir>
 
-		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/skyfsza/repository.auramod/master/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/skyfsza/repository.auramod/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/skyfsza/repository.auramod/master/</datadir>
-		</dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/skyfsza/repository.auramod/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/skyfsza/repository.auramod/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/skyfsza/repository.auramod/master/</datadir>
+        </dir>
 
-		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/</datadir>
-		</dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/</datadir>
+        </dir>
 
-		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/nixgates/nixgates/master/packages/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/nixgates/nixgates/master/packages/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/nixgates/nixgates/master/packages</datadir>
-		</dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/nixgates/nixgates/master/packages/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/nixgates/nixgates/master/packages/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/nixgates/nixgates/master/packages</datadir>
+        </dir>
 
-		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openmeta/master/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openmeta/master/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openmeta/master/zips/</datadir>
-		</dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openmeta/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openmeta/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openmeta/master/zips/</datadir>
+        </dir>
 
-		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/</datadir>
-		</dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/</datadir>
+        </dir>
 
-		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
-		</dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+        </dir>
 
-		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/newt-sc/a4kSubtitles/master/packages/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/newt-sc/a4kSubtitles/master/packages/addons.xml.crc</checksum>
-			<datadir>https://github.com/newt-sc/a4kSubtitles/archive</datadir>
-			<artdir>https://github.com/a4k-openproject/a4kSubtitles/releases/download/v0.0.13</artdir>
-		</dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/newt-sc/a4kSubtitles/master/packages/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/newt-sc/a4kSubtitles/master/packages/addons.xml.crc</checksum>
+            <datadir>https://github.com/newt-sc/a4kSubtitles/archive</datadir>
+            <artdir>https://github.com/a4k-openproject/a4kSubtitles/releases/download/v0.0.13</artdir>
+        </dir>
 
-		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/drinfernoo/plugin.program.autowidget/repo/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/drinfernoo/plugin.program.autowidget/repo/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/drinfernoo/plugin.program.autowidget/repo/zips/</datadir>
-		</dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/drinfernoo/plugin.program.autowidget/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/drinfernoo/plugin.program.autowidget/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/drinfernoo/plugin.program.autowidget/repo/zips/</datadir>
+        </dir>
 
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">[B][COLOR red]Venom[/COLOR][/B] - We do not host any of the contents streamed</summary>
-		<description lang="en">[B][COLOR red]Venom[/COLOR][/B] - This addon does not form part of the Kodi Media Centre. Please do not seek assistance with this addon from any of the Official Kodi Support Channels.The author does not host any of the content in this addon and takes no responsibility for content found.</description>
-		<disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon. The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation. This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-		<news>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">[B][COLOR red]Venom[/COLOR][/B] - We do not host any of the contents streamed</summary>
+        <description lang="en">[B][COLOR red]Venom[/COLOR][/B] - This addon does not form part of the Kodi Media Centre. Please do not seek assistance with this addon from any of the Official Kodi Support Channels.The author does not host any of the content in this addon and takes no responsibility for content found.</description>
+        <disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon. The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation. This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <news>
 [B][COLOR red]Update - v1.9 - Aug 15, 2020[/COLOR][/B]
 [COLOR yellow]--[/COLOR][I] Added AutoWidgets.[/I]
 [COLOR yellow]--[/COLOR][I] Added a4kSubtitles.[/I]
-		</news>
-	</extension>
+        </news>
+    </extension>
 </addon>
 
 <addon id="repository.exodusredux" name="Exodus Redux Repo" version="0.0.9" provider-name="I-A-C">
@@ -254,32 +254,32 @@
 </addon>
 
 <addon id="repository.gaia" version="5.0.0" name="Gaia Repository" provider-name="Gaia">
-	<extension point="xbmc.addon.repository" name="Gaia Repository">
-		<dir>
-			<info compressed="false">https://github.com/gaiaorigin/gaiaorigin/raw/master/common/addons.xml?v=5.0.0</info>
-			<checksum>https://github.com/gaiaorigin/gaiaorigin/raw/master/common/addons.xml.md5?v=5.0.0</checksum>
-			<datadir zip="true">https://github.com/gaiaorigin/gaiaorigin/raw/master/common/</datadir>
-		</dir>
-		<info compressed="false">https://github.com/gaiaorigin/gaiaorigin/raw/master/addons.xml?v=5.0.0</info>
-		<checksum>https://github.com/gaiaorigin/gaiaorigin/raw/master/addons.xml.md5?v=5.0.0</checksum>
-		<datadir zip="true">https://github.com/gaiaorigin/gaiaorigin/raw/master/</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Gaia Main Repository</summary>
-		<description lang="en">The Gaia repository for the addon, resources, extensions, and external addons. Any of the Gaia mirror repositories can be used for installation and updates.</description>
-		<disclaimer lang="en">Gaia and its developers are not in any way affiliated with Kodi, Premiumize, OffCloud, RealDebrid, EasyNews, Orion, or any of the sites and providers used in the addon.<br/>Gaia is and always will be free and open-source. None of its code and resources may be sold or redistributed for any commercial purposes.<br/>Gaia and its developers do not host, create, or distribute any of the content displayed in the addon, it simply searches public websites.</disclaimer>
-		<platform>all</platform>
-		<license>GPL 3.0</license>
-		<website>https://gaiakodi.com</website>
-		<forum>https://gaiakodi.com/?support</forum>
-	</extension>
+    <extension point="xbmc.addon.repository" name="Gaia Repository">
+        <dir>
+            <info compressed="false">https://github.com/gaiaorigin/gaiaorigin/raw/master/common/addons.xml?v=5.0.0</info>
+            <checksum>https://github.com/gaiaorigin/gaiaorigin/raw/master/common/addons.xml.md5?v=5.0.0</checksum>
+            <datadir zip="true">https://github.com/gaiaorigin/gaiaorigin/raw/master/common/</datadir>
+        </dir>
+        <info compressed="false">https://github.com/gaiaorigin/gaiaorigin/raw/master/addons.xml?v=5.0.0</info>
+        <checksum>https://github.com/gaiaorigin/gaiaorigin/raw/master/addons.xml.md5?v=5.0.0</checksum>
+        <datadir zip="true">https://github.com/gaiaorigin/gaiaorigin/raw/master/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Gaia Main Repository</summary>
+        <description lang="en">The Gaia repository for the addon, resources, extensions, and external addons. Any of the Gaia mirror repositories can be used for installation and updates.</description>
+        <disclaimer lang="en">Gaia and its developers are not in any way affiliated with Kodi, Premiumize, OffCloud, RealDebrid, EasyNews, Orion, or any of the sites and providers used in the addon.<br/>Gaia is and always will be free and open-source. None of its code and resources may be sold or redistributed for any commercial purposes.<br/>Gaia and its developers do not host, create, or distribute any of the content displayed in the addon, it simply searches public websites.</disclaimer>
+        <platform>all</platform>
+        <license>GPL 3.0</license>
+        <website>https://gaiakodi.com</website>
+        <forum>https://gaiakodi.com/?support</forum>
+    </extension>
 </addon>
 
 <addon id="repository.aenemapy" name="Aenemapy Addons Repository" version="2018.01.04.2" provider-name="aenemapy">
     <extension point="xbmc.addon.repository" name="Aenemapy Addons Repository">
-		<info compressed="false">https://raw.githubusercontent.com/aenemapy/aenemapyrepo/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/aenemapy/aenemapyrepo/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/aenemapy/aenemapyrepo/master/zips/</datadir>
+        <info compressed="false">https://raw.githubusercontent.com/aenemapy/aenemapyrepo/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/aenemapy/aenemapyrepo/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/aenemapy/aenemapyrepo/master/zips/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Aenemapy repo</summary>
@@ -600,22 +600,22 @@
 </addon>
 
 <addon id="script.module.pytz" name="pytz" version="2014.2" provider-name="Stuart Bishop, Paul Backhouse">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0"/>
-	</requires>
-	<extension point="xbmc.python.module" library="lib"/>
-	<extension point="xbmc.addon.metadata">
-	    <summary lang="en">World Timezone Definitions for Python.</summary>
-	    <description lang="en">pytz brings the Olson tz database into Python. This library allows accurate and cross platform timezone calculations using Python 2.4 or higher. It also solves the issue of ambiguous times at the end of daylight saving time, which you can read more about in the Python Library Reference (datetime.tzinfo).</description>
-	    <platform>all</platform>
-	    <language></language>
-	    <license>MIT</license>
-	    <forum></forum>
-	    <website>https://pypi.python.org/pypi/pytz/</website>
-	    <source>https://github.com/powlo/script.module.pytz</source>
-	    <email></email>
-	    <disclaimer lang="en">Use at your own risk. The authors accept no liability. May cause permanent and/or catastrophic damage. Side effects include, but are not limited to loss of memory, seizures, sudden fits of rage, sudden fits of melancholy, inability to recall prominent capital cities, lack of respect for authority, fear of cats, temporary and/or permanent black outs. Avoid inhalation. Use in a well ventilated space. Keep away from small children.</disclaimer>
-	</extension>
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.module" library="lib"/>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">World Timezone Definitions for Python.</summary>
+        <description lang="en">pytz brings the Olson tz database into Python. This library allows accurate and cross platform timezone calculations using Python 2.4 or higher. It also solves the issue of ambiguous times at the end of daylight saving time, which you can read more about in the Python Library Reference (datetime.tzinfo).</description>
+        <platform>all</platform>
+        <language></language>
+        <license>MIT</license>
+        <forum></forum>
+        <website>https://pypi.python.org/pypi/pytz/</website>
+        <source>https://github.com/powlo/script.module.pytz</source>
+        <email></email>
+        <disclaimer lang="en">Use at your own risk. The authors accept no liability. May cause permanent and/or catastrophic damage. Side effects include, but are not limited to loss of memory, seizures, sudden fits of rage, sudden fits of melancholy, inability to recall prominent capital cities, lack of respect for authority, fear of cats, temporary and/or permanent black outs. Avoid inhalation. Use in a well ventilated space. Keep away from small children.</disclaimer>
+    </extension>
 </addon>
 
 <addon id="script.module.pyjsparser" name="pyjsparser" version="2.7.2a" provider-name="Addons4Kodi">
@@ -643,10 +643,10 @@
   provider-name="Helly">
   <requires>
     <import addon="xbmc.gui" version="5.14.0"/>
-	  <import addon="script.favourites" version="7.1.1"/>
-	  <import addon="service.skin.widgets" version="0.0.33"/>
-	  <import addon="service.library.data.provider" version="0.3.2"/>
-	  <import addon="script.randomandlastitems" version="2.2.2"/>
+      <import addon="script.favourites" version="7.1.1"/>
+      <import addon="service.skin.widgets" version="0.0.33"/>
+      <import addon="service.library.data.provider" version="0.3.2"/>
+      <import addon="script.randomandlastitems" version="2.2.2"/>
   </requires>
   <extension
     point="xbmc.gui.skin"
@@ -665,23 +665,23 @@
     <disclaimer lang="en_US">You break it - You get to keep the pieces</disclaimer>
     <disclaimer lang="nl">Wie zijn billen brandt - moet op de blaren zitten</disclaimer>
     <platform>all</platform>
-	  <license>GNU General Public License version 2</license>
-	  <forum>https://forum.kodi.tv/showthread.php?tid=315391</forum>
-	  <website></website>
-	  <email></email>
-	  <source>https://github.com/Helly1206/skin.xonfluence</source>
+      <license>GNU General Public License version 2</license>
+      <forum>https://forum.kodi.tv/showthread.php?tid=315391</forum>
+      <website></website>
+      <email></email>
+      <source>https://github.com/Helly1206/skin.xonfluence</source>
     <assets>
       <icon>resources/icon.png</icon>
       <fanart>resources/fanart.jpg</fanart>
-	    <screenshot>resources/screenshot-01.jpg</screenshot>
-	    <screenshot>resources/screenshot-02.jpg</screenshot>
-	    <screenshot>resources/screenshot-03.jpg</screenshot>
-	    <screenshot>resources/screenshot-04.jpg</screenshot>
-	    <screenshot>resources/screenshot-05.jpg</screenshot>
-	    <screenshot>resources/screenshot-06.jpg</screenshot>
-	    <screenshot>resources/screenshot-07.jpg</screenshot>
-	    <screenshot>resources/screenshot-08.jpg</screenshot>
-	    <screenshot>resources/screenshot-09.jpg</screenshot>
+        <screenshot>resources/screenshot-01.jpg</screenshot>
+        <screenshot>resources/screenshot-02.jpg</screenshot>
+        <screenshot>resources/screenshot-03.jpg</screenshot>
+        <screenshot>resources/screenshot-04.jpg</screenshot>
+        <screenshot>resources/screenshot-05.jpg</screenshot>
+        <screenshot>resources/screenshot-06.jpg</screenshot>
+        <screenshot>resources/screenshot-07.jpg</screenshot>
+        <screenshot>resources/screenshot-08.jpg</screenshot>
+        <screenshot>resources/screenshot-09.jpg</screenshot>
     </assets>
     <news>See changelog for latest changes</news>
   </extension>
@@ -785,152 +785,152 @@ Il peut optionnellement gerer les playlistes pour filtrer les resultats.
 </addon>
 
 <addon id="script.favourites" name="Favourites script" version="7.1.3" provider-name="ronie, `Black">
-	<requires>
-		<import addon="xbmc.python" version="2.25.0"/>
-	</requires>
-	<extension point="xbmc.python.library" library="default.py"/>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="be_BY">Favourites script</summary>
-		<summary lang="bg_BG">Скрипт "Любими"</summary>
-		<summary lang="ca_ES">Script Preferit</summary>
-		<summary lang="cs_CZ">Script pro Oblíbené</summary>
-		<summary lang="da_DK">Favoritscript</summary>
-		<summary lang="de_DE">Favoriten-Skript</summary>
-		<summary lang="el_GR">Script Αγαπημένων</summary>
-		<summary lang="en_GB">Favourites script</summary>
-		<summary lang="en_NZ">Favourites script</summary>
-		<summary lang="en_US">Favorites script</summary>
-		<summary lang="es_ES">Script de Favoritos</summary>
-		<summary lang="es_AR">Favoritos</summary>
-		<summary lang="fi_FI">Suosikit skripti</summary>
-		<summary lang="fr_FR">Script Favoris</summary>
-		<summary lang="fr_CA">Le script des favoris</summary>
-		<summary lang="gl_ES">Script de Favoritos</summary>
-		<summary lang="he_IL">סקריפט מועדפים</summary>
-		<summary lang="hr_HR">Omiljene skripte</summary>
-		<summary lang="hu_HU">Kedvencek script</summary>
-		<summary lang="id_ID">Script favorit</summary>
-		<summary lang="it_IT">Script preferiti</summary>
-		<summary lang="ko_KR">즐겨찾기 스크립트</summary>
-		<summary lang="lt_LT">Mėgstamiausių skriptas</summary>
-		<summary lang="nl_NL">Favourietenscript</summary>
-		<summary lang="nb_NO">Favorittskript</summary>
-		<summary lang="pl_PL">Skrypt ulubionych</summary>
-		<summary lang="pt_PT">Script de Favoritos</summary>
-		<summary lang="pt_BR">Script Favoritos</summary>
-		<summary lang="ro_RO">Script Favorite</summary>
-		<summary lang="ru_RU">Скрипт "Избранное"</summary>
-		<summary lang="sv_SE">Favoritskript</summary>
-		<summary lang="tr_TR">Sık kullanılanlar betiği</summary>
-		<summary lang="zh_CN">收藏夹脚本</summary>
-		<description lang="be_BY">Fetches item from your Kodi favourites to populate Home menu/submenu with custom buttons.</description>
-		<description lang="bg_BG">Извлича информация от вашето меню "Любими" и показва допълнителни бутони в главното меню и подменюто.</description>
-		<description lang="ca_ES">Obtenir els temes Preferits dels seus Kodi per omplir el menú Inici / submenú amb botons personalitzats.</description>
-		<description lang="cs_CZ">Přenese položky z Oblíbených do Home menu/submenu pod vlastní tlačítka. </description>
-		<description lang="da_DK">Henter elementer fra din Kodi-favoritter til at fylde Hjemmemenu/undermenu med brugerbestemte knapper.</description>
-		<description lang="de_DE">Stellt die Einträge aus der Kodi-Favoriten-Liste für benutzerdefinierte Verknüpfungen auf dem Startbildschirm zur Verfügung.</description>
-		<description lang="el_GR">Χρησιμοποιεί αντικείμενα από τα αγαπημένα σας του Kodi για να συμπληρώσει τα προσαρμοσμένα πλήκτρα μενού/υπομενού της Αρχικής Οθόνης</description>
-		<description lang="en_GB">Fetches item from your Kodi favourites to populate Home menu/submenu with custom buttons.</description>
-		<description lang="en_NZ">Fetches item from your Kodi favourites to populate Home menu/submenu with custom buttons.</description>
-		<description lang="en_US">Fetches item from your Kodi favorites to populate Home menu/submenu with custom buttons.</description>
-		<description lang="es_ES">Usar ítems de tus favoritos de Kodi para crear menús y submenús personalizados</description>
-		<description lang="es_AR">Obtiene medios de sus favoritos en Kodi para enriquecer su menu inicio y sub carpetas con botones personalizados</description>
-		<description lang="fi_FI">Hakee Kodin suosikeista kohteita ja populoi sillä Koti-valikon / alivalikon muokatuilla napeilla.</description>
-		<description lang="fr_FR">Récupère l'élément depuis les favoris Kodi pour remplir le menu/sous-menu de la page d'accueil avec des boutons personnalisés.</description>
-		<description lang="fr_CA">Récupère l'élément de vos favoris Kodi pour remplir le menu d'accueil/le sous-menu avec des boutons personnalisés.</description>
-		<description lang="gl_ES">Obtén o elemento dos favoritos para estabelecer botóns personalizados no Menú Principal/Submenú</description>
-		<description lang="he_IL">מייבא פריט מהמועדפים שלך לאכלוס תפריט/תת תפריט עם לחצנים מותאמים אישית במסך הבית.</description>
-		<description lang="hr_HR">Dohvaća stavke iz vašeg Kodi 'Omiljeno' izbornika i popunjava Početni izbornik/podizbornik s prilagođenim tipkama.</description>
-		<description lang="hu_HU">Összegyűjti az elemeket az Kodi kedvencek közül és a központi menü almenüjébe helyezi egyedi gombokkal.</description>
-		<description lang="id_ID">Ambil item dari favorit Kodi Anda untuk mengisi menu/submenu Beranda dengan tombol suka-suka.</description>
-		<description lang="it_IT">Preleva elementi dai tuoi preferiti per popolare il menù principale ed i sottomenù con bottoni personalizzato.</description>
-		<description lang="ko_KR">Kodi 즐겨찾기에서 항목을 가져와 사용자 설정 버튼으로 홈 메뉴/서브메뉴에 표시합니다.</description>
-		<description lang="lt_LT">Paima elementus iš Kodi mėgstamiausiųjų, kad užpildytų pagrindinio meniu/submeniu individualiais mygtukais.</description>
-		<description lang="nl_NL">Haalt item van je Kodi favorieten op om in het Home menu/submenu te plaatsen via losse buttons.</description>
-		<description lang="nb_NO">Henter oppføringer fra favorittene dine i Kodi for å befolke hovedmenyen og undermenyen med egendefinerte knapper.</description>
-		<description lang="pl_PL">Pobiera pozycje z twoich ulubionych w celu zapełnienia menu/podmenu niestandardowymi przyciskami.</description>
-		<description lang="pt_PT">Obtém itens dos seus favoritos do Kodi para povoar o Menu Principal/submenu com botões personalizados.</description>
-		<description lang="pt_BR">Compila itens dos seus favoritos do Kodi para ocupar menus e submenus da tela inicial com botões personalizados.</description>
-		<description lang="ru_RU">Извлекает информацию из Вашего меню "Избранное" и отображает дополнительные кнопки в главном меню и подменю.</description>
-		<description lang="sv_SE">Hämtar objekt från dina Kodi-favoriter för att fylla ut hem-menyn med egna knappar.</description>
-		<description lang="zh_CN">将 Kodi 收藏夹项目用于主界面菜单/子菜单的自定义按钮。</description>
-		<disclaimer lang="be_BY">Needs skin support for it to be used properly</disclaimer>
-		<disclaimer lang="bg_BG">Необходима е поддръжка от страна на облика за коректно функциониране</disclaimer>
-		<disclaimer lang="ca_ES">Necessita Suport de la pell perquè sigui utilitzat correctament</disclaimer>
-		<disclaimer lang="cs_CZ">Pro správné použití je potřeba podpora skinu.</disclaimer>
-		<disclaimer lang="da_DK">Behøver skinsupport for at blive brugt ordentligt</disclaimer>
-		<disclaimer lang="de_DE">Benötigt Skin-Support um korrekt genutzt zu werden</disclaimer>
-		<disclaimer lang="el_GR">Απαιτείται υποστήριξη από το κέλυφος για να χρησιμοποιηθεί σωστά</disclaimer>
-		<disclaimer lang="en_GB">Needs skin support for it to be used properly</disclaimer>
-		<disclaimer lang="en_NZ">Needs skin support for it to be used properly</disclaimer>
-		<disclaimer lang="en_US">Needs skin support for it to be used properly</disclaimer>
-		<disclaimer lang="es_ES">Necesita ser soportado por el skin para poder funcionar correctamente</disclaimer>
-		<disclaimer lang="es_AR">Necesita soporte de mascara para ser usada correctamente</disclaimer>
-		<disclaimer lang="fi_FI">Toimiakseen kunnolla, skinin tulee tukea tätä</disclaimer>
-		<disclaimer lang="fr_FR">Nécessite le support du thème pour qu'il soit utilisé correctement</disclaimer>
-		<disclaimer lang="fr_CA">Le prise en charge de l'habillage est nécessaire pour qu'il soit utilisé correctement</disclaimer>
-		<disclaimer lang="gl_ES">Precisa da axuda da pel para que sexa utilizado correctamente</disclaimer>
-		<disclaimer lang="he_IL">להפעלה כראוי נדרשת תמיכה במעטפת</disclaimer>
-		<disclaimer lang="hr_HR">Zahtijeva podršku presvlake za ispravno korištenje</disclaimer>
-		<disclaimer lang="hu_HU">Felszín támogatás szükséges a helyes működéshez</disclaimer>
-		<disclaimer lang="id_ID">Memerlukan dukungan kulit untuk dapat digunakan dengan baik</disclaimer>
-		<disclaimer lang="it_IT">E' necessario che lo skin supporti lo script per funzionare correttamente</disclaimer>
-		<disclaimer lang="ko_KR">스킨에서 지원해야 합니다</disclaimer>
-		<disclaimer lang="lt_LT">Reikalingas teminės išvaizdos palaikymas tinkamam naudojimui</disclaimer>
-		<disclaimer lang="nl_NL">Heeft skinondersteuning nodig om correct te werken</disclaimer>
-		<disclaimer lang="nb_NO">Krever skallstøtte for å fungere riktig</disclaimer>
-		<disclaimer lang="pl_PL">Wymagane wsparcie skórki w celu poprawnego działania</disclaimer>
-		<disclaimer lang="pt_PT">Necessita de um tema compatível para funcionar correctamente.</disclaimer>
-		<disclaimer lang="pt_BR">Necessita de suporte da skin para ser usado adequadamente</disclaimer>
-		<disclaimer lang="ro_RO">Necesită suport din partea costumului pentru a fi folosit cum trebuie</disclaimer>
-		<disclaimer lang="ru_RU">Необходима поддержка скинов для корректного отображения</disclaimer>
-		<disclaimer lang="sl_SI">Potrebuje podporo preobleke, da bo uporabljeno pravilno.</disclaimer>
-		<disclaimer lang="sv_SE">Behöver skalsupport för att kunna användas riktigt</disclaimer>
-		<disclaimer lang="tr_TR">Düzgün kullanılabilmesi için dış görünüm desteğine ihtiyacınız var</disclaimer>
-		<disclaimer lang="zh_CN">正常使用需要皮肤支持</disclaimer>
-		<language></language>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE Version 2</license>
-		<forum>https://forum.kodi.tv/showthread.php?tid=114671</forum>
-		<source>https://gitlab.com/ronie/script.favourites</source>
-		<assets>
-			<icon>resources/icon.png</icon>
-		</assets>
-	</extension>
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+    </requires>
+    <extension point="xbmc.python.library" library="default.py"/>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="be_BY">Favourites script</summary>
+        <summary lang="bg_BG">Скрипт "Любими"</summary>
+        <summary lang="ca_ES">Script Preferit</summary>
+        <summary lang="cs_CZ">Script pro Oblíbené</summary>
+        <summary lang="da_DK">Favoritscript</summary>
+        <summary lang="de_DE">Favoriten-Skript</summary>
+        <summary lang="el_GR">Script Αγαπημένων</summary>
+        <summary lang="en_GB">Favourites script</summary>
+        <summary lang="en_NZ">Favourites script</summary>
+        <summary lang="en_US">Favorites script</summary>
+        <summary lang="es_ES">Script de Favoritos</summary>
+        <summary lang="es_AR">Favoritos</summary>
+        <summary lang="fi_FI">Suosikit skripti</summary>
+        <summary lang="fr_FR">Script Favoris</summary>
+        <summary lang="fr_CA">Le script des favoris</summary>
+        <summary lang="gl_ES">Script de Favoritos</summary>
+        <summary lang="he_IL">סקריפט מועדפים</summary>
+        <summary lang="hr_HR">Omiljene skripte</summary>
+        <summary lang="hu_HU">Kedvencek script</summary>
+        <summary lang="id_ID">Script favorit</summary>
+        <summary lang="it_IT">Script preferiti</summary>
+        <summary lang="ko_KR">즐겨찾기 스크립트</summary>
+        <summary lang="lt_LT">Mėgstamiausių skriptas</summary>
+        <summary lang="nl_NL">Favourietenscript</summary>
+        <summary lang="nb_NO">Favorittskript</summary>
+        <summary lang="pl_PL">Skrypt ulubionych</summary>
+        <summary lang="pt_PT">Script de Favoritos</summary>
+        <summary lang="pt_BR">Script Favoritos</summary>
+        <summary lang="ro_RO">Script Favorite</summary>
+        <summary lang="ru_RU">Скрипт "Избранное"</summary>
+        <summary lang="sv_SE">Favoritskript</summary>
+        <summary lang="tr_TR">Sık kullanılanlar betiği</summary>
+        <summary lang="zh_CN">收藏夹脚本</summary>
+        <description lang="be_BY">Fetches item from your Kodi favourites to populate Home menu/submenu with custom buttons.</description>
+        <description lang="bg_BG">Извлича информация от вашето меню "Любими" и показва допълнителни бутони в главното меню и подменюто.</description>
+        <description lang="ca_ES">Obtenir els temes Preferits dels seus Kodi per omplir el menú Inici / submenú amb botons personalitzats.</description>
+        <description lang="cs_CZ">Přenese položky z Oblíbených do Home menu/submenu pod vlastní tlačítka. </description>
+        <description lang="da_DK">Henter elementer fra din Kodi-favoritter til at fylde Hjemmemenu/undermenu med brugerbestemte knapper.</description>
+        <description lang="de_DE">Stellt die Einträge aus der Kodi-Favoriten-Liste für benutzerdefinierte Verknüpfungen auf dem Startbildschirm zur Verfügung.</description>
+        <description lang="el_GR">Χρησιμοποιεί αντικείμενα από τα αγαπημένα σας του Kodi για να συμπληρώσει τα προσαρμοσμένα πλήκτρα μενού/υπομενού της Αρχικής Οθόνης</description>
+        <description lang="en_GB">Fetches item from your Kodi favourites to populate Home menu/submenu with custom buttons.</description>
+        <description lang="en_NZ">Fetches item from your Kodi favourites to populate Home menu/submenu with custom buttons.</description>
+        <description lang="en_US">Fetches item from your Kodi favorites to populate Home menu/submenu with custom buttons.</description>
+        <description lang="es_ES">Usar ítems de tus favoritos de Kodi para crear menús y submenús personalizados</description>
+        <description lang="es_AR">Obtiene medios de sus favoritos en Kodi para enriquecer su menu inicio y sub carpetas con botones personalizados</description>
+        <description lang="fi_FI">Hakee Kodin suosikeista kohteita ja populoi sillä Koti-valikon / alivalikon muokatuilla napeilla.</description>
+        <description lang="fr_FR">Récupère l'élément depuis les favoris Kodi pour remplir le menu/sous-menu de la page d'accueil avec des boutons personnalisés.</description>
+        <description lang="fr_CA">Récupère l'élément de vos favoris Kodi pour remplir le menu d'accueil/le sous-menu avec des boutons personnalisés.</description>
+        <description lang="gl_ES">Obtén o elemento dos favoritos para estabelecer botóns personalizados no Menú Principal/Submenú</description>
+        <description lang="he_IL">מייבא פריט מהמועדפים שלך לאכלוס תפריט/תת תפריט עם לחצנים מותאמים אישית במסך הבית.</description>
+        <description lang="hr_HR">Dohvaća stavke iz vašeg Kodi 'Omiljeno' izbornika i popunjava Početni izbornik/podizbornik s prilagođenim tipkama.</description>
+        <description lang="hu_HU">Összegyűjti az elemeket az Kodi kedvencek közül és a központi menü almenüjébe helyezi egyedi gombokkal.</description>
+        <description lang="id_ID">Ambil item dari favorit Kodi Anda untuk mengisi menu/submenu Beranda dengan tombol suka-suka.</description>
+        <description lang="it_IT">Preleva elementi dai tuoi preferiti per popolare il menù principale ed i sottomenù con bottoni personalizzato.</description>
+        <description lang="ko_KR">Kodi 즐겨찾기에서 항목을 가져와 사용자 설정 버튼으로 홈 메뉴/서브메뉴에 표시합니다.</description>
+        <description lang="lt_LT">Paima elementus iš Kodi mėgstamiausiųjų, kad užpildytų pagrindinio meniu/submeniu individualiais mygtukais.</description>
+        <description lang="nl_NL">Haalt item van je Kodi favorieten op om in het Home menu/submenu te plaatsen via losse buttons.</description>
+        <description lang="nb_NO">Henter oppføringer fra favorittene dine i Kodi for å befolke hovedmenyen og undermenyen med egendefinerte knapper.</description>
+        <description lang="pl_PL">Pobiera pozycje z twoich ulubionych w celu zapełnienia menu/podmenu niestandardowymi przyciskami.</description>
+        <description lang="pt_PT">Obtém itens dos seus favoritos do Kodi para povoar o Menu Principal/submenu com botões personalizados.</description>
+        <description lang="pt_BR">Compila itens dos seus favoritos do Kodi para ocupar menus e submenus da tela inicial com botões personalizados.</description>
+        <description lang="ru_RU">Извлекает информацию из Вашего меню "Избранное" и отображает дополнительные кнопки в главном меню и подменю.</description>
+        <description lang="sv_SE">Hämtar objekt från dina Kodi-favoriter för att fylla ut hem-menyn med egna knappar.</description>
+        <description lang="zh_CN">将 Kodi 收藏夹项目用于主界面菜单/子菜单的自定义按钮。</description>
+        <disclaimer lang="be_BY">Needs skin support for it to be used properly</disclaimer>
+        <disclaimer lang="bg_BG">Необходима е поддръжка от страна на облика за коректно функциониране</disclaimer>
+        <disclaimer lang="ca_ES">Necessita Suport de la pell perquè sigui utilitzat correctament</disclaimer>
+        <disclaimer lang="cs_CZ">Pro správné použití je potřeba podpora skinu.</disclaimer>
+        <disclaimer lang="da_DK">Behøver skinsupport for at blive brugt ordentligt</disclaimer>
+        <disclaimer lang="de_DE">Benötigt Skin-Support um korrekt genutzt zu werden</disclaimer>
+        <disclaimer lang="el_GR">Απαιτείται υποστήριξη από το κέλυφος για να χρησιμοποιηθεί σωστά</disclaimer>
+        <disclaimer lang="en_GB">Needs skin support for it to be used properly</disclaimer>
+        <disclaimer lang="en_NZ">Needs skin support for it to be used properly</disclaimer>
+        <disclaimer lang="en_US">Needs skin support for it to be used properly</disclaimer>
+        <disclaimer lang="es_ES">Necesita ser soportado por el skin para poder funcionar correctamente</disclaimer>
+        <disclaimer lang="es_AR">Necesita soporte de mascara para ser usada correctamente</disclaimer>
+        <disclaimer lang="fi_FI">Toimiakseen kunnolla, skinin tulee tukea tätä</disclaimer>
+        <disclaimer lang="fr_FR">Nécessite le support du thème pour qu'il soit utilisé correctement</disclaimer>
+        <disclaimer lang="fr_CA">Le prise en charge de l'habillage est nécessaire pour qu'il soit utilisé correctement</disclaimer>
+        <disclaimer lang="gl_ES">Precisa da axuda da pel para que sexa utilizado correctamente</disclaimer>
+        <disclaimer lang="he_IL">להפעלה כראוי נדרשת תמיכה במעטפת</disclaimer>
+        <disclaimer lang="hr_HR">Zahtijeva podršku presvlake za ispravno korištenje</disclaimer>
+        <disclaimer lang="hu_HU">Felszín támogatás szükséges a helyes működéshez</disclaimer>
+        <disclaimer lang="id_ID">Memerlukan dukungan kulit untuk dapat digunakan dengan baik</disclaimer>
+        <disclaimer lang="it_IT">E' necessario che lo skin supporti lo script per funzionare correttamente</disclaimer>
+        <disclaimer lang="ko_KR">스킨에서 지원해야 합니다</disclaimer>
+        <disclaimer lang="lt_LT">Reikalingas teminės išvaizdos palaikymas tinkamam naudojimui</disclaimer>
+        <disclaimer lang="nl_NL">Heeft skinondersteuning nodig om correct te werken</disclaimer>
+        <disclaimer lang="nb_NO">Krever skallstøtte for å fungere riktig</disclaimer>
+        <disclaimer lang="pl_PL">Wymagane wsparcie skórki w celu poprawnego działania</disclaimer>
+        <disclaimer lang="pt_PT">Necessita de um tema compatível para funcionar correctamente.</disclaimer>
+        <disclaimer lang="pt_BR">Necessita de suporte da skin para ser usado adequadamente</disclaimer>
+        <disclaimer lang="ro_RO">Necesită suport din partea costumului pentru a fi folosit cum trebuie</disclaimer>
+        <disclaimer lang="ru_RU">Необходима поддержка скинов для корректного отображения</disclaimer>
+        <disclaimer lang="sl_SI">Potrebuje podporo preobleke, da bo uporabljeno pravilno.</disclaimer>
+        <disclaimer lang="sv_SE">Behöver skalsupport för att kunna användas riktigt</disclaimer>
+        <disclaimer lang="tr_TR">Düzgün kullanılabilmesi için dış görünüm desteğine ihtiyacınız var</disclaimer>
+        <disclaimer lang="zh_CN">正常使用需要皮肤支持</disclaimer>
+        <language></language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE Version 2</license>
+        <forum>https://forum.kodi.tv/showthread.php?tid=114671</forum>
+        <source>https://gitlab.com/ronie/script.favourites</source>
+        <assets>
+            <icon>resources/icon.png</icon>
+        </assets>
+    </extension>
 </addon>
 
 <addon id="repository.aeon.nox.silvo" name="Aeon Nox: SiLVO Repository" version="1.0.5" provider-name="SiLVO">
-	<requires>
-		<import addon="xbmc.addon" version="12.0.0"/>
-	</requires>
-	<extension point="xbmc.addon.repository" name="Aeon Nox: SiLVO Repo">
-		<dir minversion="15.0.0">
-			<info compressed="true">https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/isengard/addons.xml</info>
-			<checksum>https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/isengard/addons.xml.md5</checksum>
-			<datadir zip="true">https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/isengard</datadir>
-		</dir>
-		<dir minversion="16.0.0">
-			<info compressed="true">https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/jarvis/addons.xml</info>
-			<checksum>https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/jarvis/addons.xml.md5</checksum>
-			<datadir zip="true">https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/jarvis</datadir>
-		</dir>
-		<dir minversion="17.0.0">
-			<info compressed="true">https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/krypton/addons.xml</info>
-			<checksum>https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/krypton/addons.xml.md5</checksum>
-			<datadir zip="true">https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/krypton</datadir>
-		</dir>
-		<dir minversion="17.9.0">
-			<info compressed="true">https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/leia/addons.xml</info>
-			<checksum>https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/leia/addons.xml.md5</checksum>
-			<datadir zip="true">https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/leia</datadir>
-		</dir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>My version of Aeon Nox 5</summary>
-		<description>Main Repository for Aeon Nox: SiLVO</description>
-		<platform>all</platform>
-		<news>[I]v1.0.5[/I][CR]- Leia support</news>
-	</extension>
+    <requires>
+        <import addon="xbmc.addon" version="12.0.0"/>
+    </requires>
+    <extension point="xbmc.addon.repository" name="Aeon Nox: SiLVO Repo">
+        <dir minversion="15.0.0">
+            <info compressed="true">https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/isengard/addons.xml</info>
+            <checksum>https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/isengard/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/isengard</datadir>
+        </dir>
+        <dir minversion="16.0.0">
+            <info compressed="true">https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/jarvis/addons.xml</info>
+            <checksum>https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/jarvis/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/jarvis</datadir>
+        </dir>
+        <dir minversion="17.0.0">
+            <info compressed="true">https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/krypton/addons.xml</info>
+            <checksum>https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/krypton/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/krypton</datadir>
+        </dir>
+        <dir minversion="17.9.0">
+            <info compressed="true">https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/leia/addons.xml</info>
+            <checksum>https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/leia/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/leia</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>My version of Aeon Nox 5</summary>
+        <description>Main Repository for Aeon Nox: SiLVO</description>
+        <platform>all</platform>
+        <news>[I]v1.0.5[/I][CR]- Leia support</news>
+    </extension>
 </addon>
 
 <addon id="context.elementum" name="Elementum Context Helper" version="0.0.3" provider-name="elgatito">
@@ -1016,14 +1016,14 @@ Il peut optionnellement gerer les playlistes pour filtrer les resultats.
     <extension point="xbmc.addon.metadata">
         <summary lang="en">Elementum torrents provider</summary>
         <summary lang="hr">Elementum torrent pružatelji usluga</summary>
-		<summary lang="es">Proveedor de torrents Elementum</summary>
+        <summary lang="es">Proveedor de torrents Elementum</summary>
         <description lang="en">Elementum Burst is a lean and mean multi-provider for Elementum.</description>
         <description lang="hr">Elementum Burst je višestruki pružatelj usluga za Elementum.</description>
-		<description lang="es">Elementum Burst es un multi-proveedor simple y eficiente para Elementum.</description>
+        <description lang="es">Elementum Burst es un multi-proveedor simple y eficiente para Elementum.</description>
         <disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content providers.</disclaimer>
-		<disclaimer lang="hr">Autor ovog dodatka ne posjeduje i ne distribuira bilo kakav sadržaj koji je pronađen. Autor nije povezan sa bilo kojim izvorom sadržaja.</disclaimer>
-		<disclaimer lang="es">El autor no aloja ni distribuye ninguno de los contenidos mostrados por este complemento. El autor no tiene ninguna afiliación con los proveedores de contenido.</disclaimer>    
-		<license>WTFPL, Version 2, December 2004. See included LICENSE.</license>
+        <disclaimer lang="hr">Autor ovog dodatka ne posjeduje i ne distribuira bilo kakav sadržaj koji je pronađen. Autor nije povezan sa bilo kojim izvorom sadržaja.</disclaimer>
+        <disclaimer lang="es">El autor no aloja ni distribuye ninguno de los contenidos mostrados por este complemento. El autor no tiene ninguna afiliación con los proveedores de contenido.</disclaimer>    
+        <license>WTFPL, Version 2, December 2004. See included LICENSE.</license>
         <website>https://elementum.surge.sh</website>
         <source>https://github.com/elgatito/script.elementum.burst</source>
         <forum>TODO</forum>
@@ -1170,7 +1170,7 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
     </extension>
 </addon>
 
-<addon  id="script.lu.swift" version="20.6.30"
+<addon  id="script.lu.swift" version="20.10.8"
         name="   [COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR] [COLORspringgreen]Swift[COLORpalegreen]Streamz[/COLOR]"
         provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen]•[/COLOR]">
   <requires>
@@ -1185,6 +1185,7 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
     <provides></provides>
   </extension>
   <extension point="xbmc.addon.metadata">
+  <reuselanguageinvoker>true</reuselanguageinvoker>
         <summary lang="en">[COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR] [COLORwhite]SwiftStreamz[/COLOR]</summary>
         <description>[COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR] [COLORwhite]SwiftStreamz[/COLOR]</description>
         <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
@@ -1316,7 +1317,7 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
 </addon>
 
     <addon  id="plugin.video.lu"
-    version="20.9.29"
+    version="20.10.8"
     name="   [COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR]"
     provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen]•[/COLOR]">
     <requires>
@@ -1332,7 +1333,7 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
         <import addon="script.module.addon.signals" version="0.0.3"/>
         <import addon="context.lu" version="20.6.30" />
         <import addon="context.lu.trailer" version="20.9.1" />
-        <import addon="script.lu.swift" version="20.6.30" optional="true"/>
+        <import addon="script.lu.swift" version="20.10.8" optional="true"/>
         <import addon="script.lu.tvtap" version="20.6.30" optional="true"/>
         <import addon="script.lu.livenet" version="20.9.28" optional="true"/>
         <import addon="script.elementum.burst" version="0.0.49" optional="true"/>
@@ -1417,101 +1418,101 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
 </addon>
 
 <addon id="plugin.video.premiumizer" version="2019.11.11" name="Premiumizer" provider-name="aenema">
-	<requires>
-		<import addon="xbmc.python" version="2.19.0" />
-		<import addon="script.module.beautifulsoup4" />
-		<import addon="script.module.metalibrary" />	
-		<import addon="script.module.requests" />	
-		<import addon="repository.aenemapy" />
-		
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="main.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.service" library="service.py" start="startup" />
-	<extension point="kodi.context.item">
-		<menu id="kodi.core.main">
-			<menu>
-				
-				<label>[COLOR red]Premiumizer[/COLOR]</label>
-				<item library="context/updatecache.py">
-					<label>New Cloud Cache</label>
-					<visible>System.HasAddon(plugin.video.premiumizer)</visible>
-				</item>
-				<item library="context/updatelibrary.py">
-					<label>Update Library</label>
-					<visible>System.HasAddon(plugin.video.premiumizer)</visible>
-				</item>
-				<item library="context/contextTools.py">
-					<label>Settings</label>
-					<visible>System.HasAddon(plugin.video.premiumizer)</visible>
-				</item>
-			</menu>
-		</menu>
-	</extension>	
+    <requires>
+        <import addon="xbmc.python" version="2.19.0" />
+        <import addon="script.module.beautifulsoup4" />
+        <import addon="script.module.metalibrary" />    
+        <import addon="script.module.requests" />   
+        <import addon="repository.aenemapy" />
+        
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="startup" />
+    <extension point="kodi.context.item">
+        <menu id="kodi.core.main">
+            <menu>
+                
+                <label>[COLOR red]Premiumizer[/COLOR]</label>
+                <item library="context/updatecache.py">
+                    <label>New Cloud Cache</label>
+                    <visible>System.HasAddon(plugin.video.premiumizer)</visible>
+                </item>
+                <item library="context/updatelibrary.py">
+                    <label>Update Library</label>
+                    <visible>System.HasAddon(plugin.video.premiumizer)</visible>
+                </item>
+                <item library="context/contextTools.py">
+                    <label>Settings</label>
+                    <visible>System.HasAddon(plugin.video.premiumizer)</visible>
+                </item>
+            </menu>
+        </menu>
+    </extension>    
 
-	<extension point="xbmc.addon.metadata">
+    <extension point="xbmc.addon.metadata">
         <description>Premiumize Cloud Addon with a twist!
-		This addon is inteded for use with content that you currently own! The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.	
-		</description>
-	
-		<summary lang="en">premiumizer Cloud Addon</summary>
-		<platform>all</platform>
-		<forum>-</forum>
-		<website>http://premiumize.me</website>
-		<source>-</source>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-		<news>-</news>
-	</extension>
+        This addon is inteded for use with content that you currently own! The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.   
+        </description>
+    
+        <summary lang="en">premiumizer Cloud Addon</summary>
+        <platform>all</platform>
+        <forum>-</forum>
+        <website>http://premiumize.me</website>
+        <source>-</source>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <news>-</news>
+    </extension>
 </addon>
 
 <addon id="plugin.video.realizer" version="2019.09.01" name="Realizer" provider-name="aenema">
-	<requires>
-		<import addon="xbmc.python" version="2.19.0" />
-		<import addon="script.module.beautifulsoup4" />
-		<import addon="script.module.metalibrary" />	
-		<import addon="script.module.requests" />		
-		<import addon="script.module.feedparser" />			
-		<import addon="repository.aenemapy" />		
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="main.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.service" library="service.py" start="startup" />
-	<extension point="xbmc.addon.metadata">
+    <requires>
+        <import addon="xbmc.python" version="2.19.0" />
+        <import addon="script.module.beautifulsoup4" />
+        <import addon="script.module.metalibrary" />    
+        <import addon="script.module.requests" />       
+        <import addon="script.module.feedparser" />         
+        <import addon="repository.aenemapy" />      
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="startup" />
+    <extension point="xbmc.addon.metadata">
         <description>Realdebrid Cloud Addon with a twist!
-		This addon is inteded for use with content that you currently own! The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.	
-		</description>
-	
-		<summary lang="en">Real-Debrid Cloud Addon</summary>
-		<platform>all</platform>
-		<forum>-</forum>
-		<website>http://real-debrid.com</website>
-		<source>-</source>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-		<news>-</news>
-	</extension>
+        This addon is inteded for use with content that you currently own! The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.   
+        </description>
+    
+        <summary lang="en">Real-Debrid Cloud Addon</summary>
+        <platform>all</platform>
+        <forum>-</forum>
+        <website>http://real-debrid.com</website>
+        <source>-</source>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <news>-</news>
+    </extension>
 </addon>
 
 <addon id="script.ezmaintenanceplus" name="EZ Maintenance+" version="2019.05.10.3" provider-name="aenema">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.requests" version="1.0.0" />
-    <import addon="repository.aenemapy" version="1.0.0" />		
+    <import addon="repository.aenemapy" version="1.0.0" />      
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py"> 
      <provides>video executable</provides> 
   </extension> 
   <extension point="xbmc.service" library="service.py" start="startup" />
   <extension point="xbmc.addon.metadata">
-	<summary>A Streamlined Utility Tool for Kodi</summary>
-	<description>No Bloatware, no Nonsense! Just Keep your Kodi sharp and clean with this utility tool... Now with a Custom Wizard.</description>
+    <summary>A Streamlined Utility Tool for Kodi</summary>
+    <description>No Bloatware, no Nonsense! Just Keep your Kodi sharp and clean with this utility tool... Now with a Custom Wizard.</description>
     <language></language>
     <platform>all</platform>
     <license>The MIT License</license>
@@ -1521,57 +1522,57 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
 </addon>
 
 <addon id="script.hideosd" version="2018.05.20" name="Hide Video OSD" provider-name="aenema">
-	<requires>
-		<import addon="xbmc.python" version="2.10.0" />
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="main.py">
-		<provides>executable</provides>
-	</extension>
-	<extension point="xbmc.service" library="service.py" start="startup" />
-	<extension point="xbmc.addon.metadata">
+    <requires>
+        <import addon="xbmc.python" version="2.10.0" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="startup" />
+    <extension point="xbmc.addon.metadata">
         <description>A Simple script to autohide video osd for inactivity. Timeout can be set in the addon settings</description>
-	
-		<summary lang="en">Autohide Video OSD</summary>
-		<platform>all</platform>
-		<forum>-</forum>
-		<website>-</website>
-		<source>-</source>
-		<news>-</news>
-	</extension>
+    
+        <summary lang="en">Autohide Video OSD</summary>
+        <platform>all</platform>
+        <forum>-</forum>
+        <website>-</website>
+        <source>-</source>
+        <news>-</news>
+    </extension>
 </addon>
 
 <addon id="script.module.metalibrary" name="Meta Library" version="2019.02.20" provider-name="aenema">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0" />
-	</requires>
-	<extension point="xbmc.python.module" library="lib" />
-	<extension point="xbmc.python.pluginsource" library="lib/default.py" />
-	<extension point="xbmc.addon.metadata">
-		<platform>all</platform>
-		<summary lang="en">meta database for fast Images.</summary>
-		<description lang="en">Meta DB</description>
+    <requires>
+        <import addon="xbmc.python" version="2.1.0" />
+    </requires>
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.python.pluginsource" library="lib/default.py" />
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">meta database for fast Images.</summary>
+        <description lang="en">Meta DB</description>
         <source>unknown</source>
-	</extension>
+    </extension>
 </addon>
 
 <addon id="script.tvskipintro" version="2018.02.21" name="TV Skip Intro" provider-name="aenema">
-	<requires>
-		<import addon="xbmc.python" version="2.10.0" />
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="main.py">
-		<provides>executable</provides>
-	</extension>
-	<extension point="xbmc.service" library="service.py" start="startup" />
-	<extension point="xbmc.addon.metadata">
+    <requires>
+        <import addon="xbmc.python" version="2.10.0" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="startup" />
+    <extension point="xbmc.addon.metadata">
         <description>Prompt a Skip Intro dialog Netflix style. Skips intro for your favourite shows. The addon creates a database of your shows and stores a custom set skip value</description>
-	
-		<summary lang="en">Skip TV Shows Intro</summary>
-		<platform>all</platform>
-		<forum>-</forum>
-		<website>-</website>
-		<source>-</source>
-		<news>-</news>
-	</extension>
+    
+        <summary lang="en">Skip TV Shows Intro</summary>
+        <platform>all</platform>
+        <forum>-</forum>
+        <website>-</website>
+        <source>-</source>
+        <news>-</news>
+    </extension>
 </addon>
 
 <addon id="script.module.cherrypy"
@@ -1703,7 +1704,7 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
   <requires>
     <import addon="xbmc.python" version="2.24.0"/>
     <import addon="script.module.requests"/>
-	  <import addon="script.module.streamlink.base" />  
+      <import addon="script.module.streamlink.base" />  
   </requires>
   <extension point="xbmc.python.module" library="lib/"/>
   <extension point="xbmc.addon.metadata">
