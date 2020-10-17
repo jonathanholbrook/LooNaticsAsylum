@@ -57,10 +57,11 @@ name="Youtube Free Movies"
 section="false"
 search="false"
 subid="false"
-playlistid="PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx"
+playlistid="PL8zlx4BqIHTg-WC4vBVwLcRalCmvX7XVe"
 channelid="false"
 videoid="false"
 icon="special://home/addons/plugin.video.lu/resources/artwork/lu/icon.png"
 fanart="special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg"
 description="Youtube Free Movies"
 
+PL8zlx4BqIHTg-WC4vBVwLcRalCmvX7XVe
