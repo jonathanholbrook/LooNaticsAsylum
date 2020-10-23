@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon  id="script.lu.tvtap" version="20.6.30"
+<addon  id="script.lu.tvtap" version="20.10.23"
         name="   [COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR] [COLORspringgreen]Tv[COLORpalegreen]Tap[/COLOR]"
         provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen]•[/COLOR]">
   <requires>
@@ -11,7 +11,7 @@
     <import addon="script.module.routing" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="addon.py">
-    <provides></provides>
+    <provides>all</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
         <summary lang="en">[COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR] [COLORwhite]TvTap[/COLOR]</summary>

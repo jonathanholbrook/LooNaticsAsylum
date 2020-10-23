@@ -1203,7 +1203,7 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
   </extension>
 </addon>
 
-<addon  id="script.lu.tvtap" version="20.6.30"
+<addon  id="script.lu.tvtap" version="20.10.23"
         name="   [COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR] [COLORspringgreen]Tv[COLORpalegreen]Tap[/COLOR]"
         provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen]•[/COLOR]">
   <requires>
@@ -1215,7 +1215,7 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
     <import addon="script.module.routing" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="addon.py">
-    <provides></provides>
+    <provides>all</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
         <summary lang="en">[COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR] [COLORwhite]TvTap[/COLOR]</summary>
@@ -1234,6 +1234,7 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
     </assets>
   </extension>
 </addon>
+
 
 <addon  id="script.lu.livenet" version="20.9.28"
         name="   [COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR] [COLORspringgreen]Live[COLORpalegreen]NET[/COLOR]"
