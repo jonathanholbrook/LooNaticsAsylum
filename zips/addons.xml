@@ -318,7 +318,7 @@
     <assets>
       <icon>icon.png</icon>
       <fanart>fanart.jpg</fanart>
-    </assets> 
+    </assets>
   </extension>
 </addon>
 
@@ -1022,7 +1022,7 @@ Il peut optionnellement gerer les playlistes pour filtrer les resultats.
         <description lang="es">Elementum Burst es un multi-proveedor simple y eficiente para Elementum.</description>
         <disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content providers.</disclaimer>
         <disclaimer lang="hr">Autor ovog dodatka ne posjeduje i ne distribuira bilo kakav sadržaj koji je pronađen. Autor nije povezan sa bilo kojim izvorom sadržaja.</disclaimer>
-        <disclaimer lang="es">El autor no aloja ni distribuye ninguno de los contenidos mostrados por este complemento. El autor no tiene ninguna afiliación con los proveedores de contenido.</disclaimer>    
+        <disclaimer lang="es">El autor no aloja ni distribuye ninguno de los contenidos mostrados por este complemento. El autor no tiene ninguna afiliación con los proveedores de contenido.</disclaimer>
         <license>WTFPL, Version 2, December 2004. See included LICENSE.</license>
         <website>https://elementum.surge.sh</website>
         <source>https://github.com/elgatito/script.elementum.burst</source>
@@ -1422,10 +1422,10 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.beautifulsoup4" />
-        <import addon="script.module.metalibrary" />    
-        <import addon="script.module.requests" />   
+        <import addon="script.module.metalibrary" />
+        <import addon="script.module.requests" />
         <import addon="repository.aenemapy" />
-        
+
     </requires>
     <extension point="xbmc.python.pluginsource" library="main.py">
         <provides>video</provides>
@@ -1434,7 +1434,7 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
     <extension point="kodi.context.item">
         <menu id="kodi.core.main">
             <menu>
-                
+
                 <label>[COLOR red]Premiumizer[/COLOR]</label>
                 <item library="context/updatecache.py">
                     <label>New Cloud Cache</label>
@@ -1450,13 +1450,13 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
                 </item>
             </menu>
         </menu>
-    </extension>    
+    </extension>
 
     <extension point="xbmc.addon.metadata">
         <description>Premiumize Cloud Addon with a twist!
-        This addon is inteded for use with content that you currently own! The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.   
+        This addon is inteded for use with content that you currently own! The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.
         </description>
-    
+
         <summary lang="en">premiumizer Cloud Addon</summary>
         <platform>all</platform>
         <forum>-</forum>
@@ -1474,10 +1474,10 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.beautifulsoup4" />
-        <import addon="script.module.metalibrary" />    
-        <import addon="script.module.requests" />       
-        <import addon="script.module.feedparser" />         
-        <import addon="repository.aenemapy" />      
+        <import addon="script.module.metalibrary" />
+        <import addon="script.module.requests" />
+        <import addon="script.module.feedparser" />
+        <import addon="repository.aenemapy" />
     </requires>
     <extension point="xbmc.python.pluginsource" library="main.py">
         <provides>video</provides>
@@ -1485,9 +1485,9 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
     <extension point="xbmc.service" library="service.py" start="startup" />
     <extension point="xbmc.addon.metadata">
         <description>Realdebrid Cloud Addon with a twist!
-        This addon is inteded for use with content that you currently own! The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.   
+        This addon is inteded for use with content that you currently own! The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.
         </description>
-    
+
         <summary lang="en">Real-Debrid Cloud Addon</summary>
         <platform>all</platform>
         <forum>-</forum>
@@ -1505,11 +1505,11 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.requests" version="1.0.0" />
-    <import addon="repository.aenemapy" version="1.0.0" />      
+    <import addon="repository.aenemapy" version="1.0.0" />
   </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py"> 
-     <provides>video executable</provides> 
-  </extension> 
+  <extension point="xbmc.python.pluginsource" library="default.py">
+     <provides>video executable</provides>
+  </extension>
   <extension point="xbmc.service" library="service.py" start="startup" />
   <extension point="xbmc.addon.metadata">
     <summary>A Streamlined Utility Tool for Kodi</summary>
@@ -1532,7 +1532,7 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
     <extension point="xbmc.service" library="service.py" start="startup" />
     <extension point="xbmc.addon.metadata">
         <description>A Simple script to autohide video osd for inactivity. Timeout can be set in the addon settings</description>
-    
+
         <summary lang="en">Autohide Video OSD</summary>
         <platform>all</platform>
         <forum>-</forum>
@@ -1566,7 +1566,7 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
     <extension point="xbmc.service" library="service.py" start="startup" />
     <extension point="xbmc.addon.metadata">
         <description>Prompt a Skip Intro dialog Netflix style. Skips intro for your favourite shows. The addon creates a database of your shows and stores a custom set skip value</description>
-    
+
         <summary lang="en">Skip TV Shows Intro</summary>
         <platform>all</platform>
         <forum>-</forum>
@@ -1682,11 +1682,11 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
    <import addon="script.module.dateutil" />
    <import addon="script.module.simplejson" />
    <import addon="script.module.six" />
-   <import addon="script.module.requests" />   
+   <import addon="script.module.requests" />
    <import addon="plugin.video.f4mTester" />
    <import addon="script.module.slproxy" />
   </requires>
-  <extension 
+  <extension
     point="xbmc.python.pluginsource"
     library="default.py">
    <provides>video</provides>
@@ -1705,7 +1705,7 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
   <requires>
     <import addon="xbmc.python" version="2.24.0"/>
     <import addon="script.module.requests"/>
-      <import addon="script.module.streamlink.base" />  
+      <import addon="script.module.streamlink.base" />
   </requires>
   <extension point="xbmc.python.module" library="lib/"/>
   <extension point="xbmc.addon.metadata">
