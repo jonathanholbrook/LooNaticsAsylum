@@ -36,3 +36,10 @@
     <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
 </plugin>
+
+<plugin>
+    <title>Testing - Monthly</title>
+    <link>plugin://plugin.video.live.streamspro/?url=https://xzotiks.com/TeXTtExt/tigerlive/test/test.m3u&mode=1&name=LU</link>
+    <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
+</plugin>
