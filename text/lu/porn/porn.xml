@@ -2,9 +2,16 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 
-<plugin>
+<plugin >
 <name>FluxusTV-XXX M3u List - Updated Monthly</name>
 <link>plugin://plugin.video.live.streamspro/?url=https://bit.ly/30zU8C4&mode=1&name=LU</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin >
+
+<plugin>
+<name>FluxusTV-XXX M3u List - Updated Monthly</name>
+<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/porn/fluxusadult.m3u&mode=1&name=LU</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
