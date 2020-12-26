@@ -38,50 +38,8 @@
 </plugin>
 
 <plugin>
-    <title>Testing - Monthly</title>
+    <title>Testing - Movies Monthly</title>
     <link>plugin://plugin.video.live.streamspro/?url=https://xzotiks.com/TeXTtExt/tigerlive/test/test.m3u&mode=1&name=LU</link>
-    <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
-</plugin>
-
-<plugin>
-    <title>Testing - 24-7 1200 channels.2020.12.26</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://xzotiks.com/TeXTtExt/tigerlive/test/24-7_1200_channels.2020.12.26.m3u&mode=1&name=LU</link>
-    <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
-</plugin>
-
-<plugin>
-    <title>Testing - all sports channels scenetime 2020.12.26</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://xzotiks.com/TeXTtExt/tigerlive/test/all_sports_channels_scenetime_2020.12.26.m3u&mode=1&name=LU</link>
-    <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
-</plugin>
-
-<plugin>
-    <title>Testing - Aussie sport 2020.12.26</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://xzotiks.com/TeXTtExt/tigerlive/test/Aussie_sport_2020.12.26.m3u&mode=1&name=LU</link>
-    <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
-</plugin>
-
-<plugin>
-    <title>Testing - Movies-VOD-2020-12-26</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://xzotiks.com/TeXTtExt/tigerlive/test/Movies-VOD-2020-12-26.m3u&mode=1&name=LU</link>
-    <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
-</plugin>
-
-<plugin>
-    <title>Testing - TV-VOD-2020-12-26</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://xzotiks.com/TeXTtExt/tigerlive/test/TV-VOD-2020-12-26.m3u&mode=1&name=LU</link>
-    <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
-</plugin>
-
-<plugin>
-    <title>Testing - usa sports Default 2020.12.26</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://xzotiks.com/TeXTtExt/tigerlive/test/usa_sports_Default_2020.12.26.m3u&mode=1&name=LU</link>
     <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
 </plugin>
