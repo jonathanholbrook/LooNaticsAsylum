@@ -1160,7 +1160,7 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
     </extension>
 </addon>
 
-<addon  id="script.lu.swift" version="20.10.8"
+<addon  id="script.lu.swift" version="21.1.6"
         name="   [COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR] [COLORspringgreen]Swift[COLORpalegreen]Streamz[/COLOR]"
         provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen]•[/COLOR]">
   <requires>
@@ -1226,7 +1226,7 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
 </addon>
 
 
-<addon  id="script.lu.livenet" version="20.9.28"
+<addon  id="script.lu.livenet" version="21.1.6"
         name="   [COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR] [COLORspringgreen]Live[COLORpalegreen]NET[/COLOR]"
         provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen]•[/COLOR]">
   <requires>
@@ -1308,7 +1308,7 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
 </addon>
 
     <addon  id="plugin.video.lu"
-    version="20.11.19"
+    version="21.1.6"
     name="   [COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR]"
     provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen]•[/COLOR]">
     <requires>
