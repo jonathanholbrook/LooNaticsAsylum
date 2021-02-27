@@ -2,6 +2,13 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 
+<dir>
+    <title>24/7 TvShows - Movies</title>
+    <link>https://xzotiks.com/TeXTtExt/tigerlive/test/2472.xml</link>
+    <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
+</dir>
+
 <plugin>
     <name>Tv Lodge - Updated Monthly</name>
     <link>plugin://plugin.video.live.streamspro/?url=https://bit.ly/ltv-english&mode=1&name=LU</link>
@@ -36,17 +43,3 @@
     <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
 </plugin>
-
-<dir>
-    <title>Testing 1</title>
-    <link>https://xzotiks.com/TeXTtExt/tigerlive/test/2471.xml</link>
-    <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
-</dir>
-
-<dir>
-    <title>Testing 2</title>
-    <link>https://xzotiks.com/TeXTtExt/tigerlive/test/2472.xml</link>
-    <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
-</dir>
