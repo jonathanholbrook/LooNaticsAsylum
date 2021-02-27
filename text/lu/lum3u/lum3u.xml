@@ -39,14 +39,14 @@
 
 <dir>
     <title>Testing 1</title>
-    <link>https://xzotiks.com/TeXTtExt/tigerlive/test/2471.xml&mode=1&name=LU</link>
+    <link>https://xzotiks.com/TeXTtExt/tigerlive/test/2471.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
 </dir>
 
 <dir>
     <title>Testing 2</title>
-    <link>https://xzotiks.com/TeXTtExt/tigerlive/test/2472.xml&mode=1&name=LU</link>
+    <link>https://xzotiks.com/TeXTtExt/tigerlive/test/2472.xml</link>
     <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
 </dir>
