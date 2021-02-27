@@ -30,12 +30,12 @@
     <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
 </plugin>
 
-<plugin>
+<plugin >
     <title>Fluxus Radio - Updated Monthly</title>
     <link>plugin://plugin.video.live.streamspro/?url=https://bit.ly/FluxusTV-Radio&mode=1&name=LU</link>
     <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
-</plugin>
+</plugin >
 
 <plugin>
     <title>Fluxus Faith - Updated Monthly</title>
