@@ -44,9 +44,9 @@
     <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
 </plugin>
 
-<plugin>
+<dir>
     <title>Testing 2</title>
     <link>plugin://plugin.video.live.streamspro/?url=https://xzotiks.com/TeXTtExt/tigerlive/test/2472.xml&mode=1&name=LU</link>
     <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
-</plugin>
+</dir>
