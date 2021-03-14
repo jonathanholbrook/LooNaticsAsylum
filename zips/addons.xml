@@ -1246,7 +1246,7 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
 </addon>
 
 
-<addon  id="script.lu.livenet" version="21.1.6"
+<addon  id="script.lu.livenet" version="21.3.14"
         name="   [COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR] [COLORspringgreen]Live[COLORpalegreen]NET[/COLOR]"
         provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen]•[/COLOR]">
   <requires>
@@ -1276,6 +1276,9 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
     <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>   <fanart>fanart.jpg</fanart>
     </assets>
   </extension>
 </addon>
