@@ -9,19 +9,19 @@
     <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
 </dir>
 
-<plugin>
+<plugin >
     <name>Tv Lodge - Updated Monthly</name>
     <link>plugin://plugin.video.live.streamspro/?url=https://bit.ly/ltv-english&mode=1&name=LU</link>
     <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
-</plugin>
+</plugin >
 
-<plugin>
+<plugin >
     <name>Stratus Tv - Updated Monthly</name>
     <link>plugin://plugin.video.live.streamspro/?url=https://bit.ly/stv-us&mode=1&name=LU</link>
     <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
-</plugin>
+</plugin >
 
 <plugin>
     <title>Fluxus Tv - Updated Monthly</title>
@@ -37,9 +37,9 @@
     <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
 </plugin >
 
-<plugin>
+<plugin >
     <title>Fluxus Faith - Updated Monthly</title>
     <link>plugin://plugin.video.live.streamspro/?url=https://bit.ly/FluxusTV-Faith&mode=1&name=LU</link>
     <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
     <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
-</plugin>
+</plugin >
