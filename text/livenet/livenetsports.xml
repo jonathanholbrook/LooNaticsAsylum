@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>GoFuckYourself</layoutype>
+
+<plugin>
+    <title>Live Games (Schedule)</title>
+    <link>plugin://plugin.acme.livenet/list_live</link>
+    <thumbnail>special://home/addons/plugin.acme.livenet\livesports.png</thumbnail>
+    <fanart>special://home/addons/plugin.acme.livenet/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>LiveNet Sports</title>
+    <link>plugin://plugin.acme.livenet/list_channels/1</link>
+    <thumbnail>special://home/addons/plugin.acme.livenet\livesports.png</thumbnail>
+    <fanart>special://home/addons/plugin.acme.livenet/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>TvTap Sports</title>
+    <link>plugin://plugin.acme.tvtap/list_channels/5</link>
+    <thumbnail>special://home/addons/plugin.acme.tvtap\livesports.png</thumbnail>
+    <fanart>special://home/addons/plugin.acme.tvtap/fanart.jpg</fanart>
+</plugin>
