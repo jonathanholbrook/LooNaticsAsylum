@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>GoFuckYourself</layoutype>
+<dir>
+    <name>Ace's Adventure / Action</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/Action_Adventure.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/ace.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>Duck's Dynasty of Romance</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/Romantic.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/duck.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>Lexi's Castle of Fantasy Movies</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/Fantasy_Sci_fi.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/lexi.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>Rev's Road to Comics / Novels</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/Comics_Graphic_Novels.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/rev.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>Slam's Spinners of Horror</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/Horror.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/slam.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>Teche's Toy Lab of Disney Movies</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/Disney.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/tech.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>Adolpho's Creature Feature</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/Creature_Features.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/adolpho.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>Dr. Dare's Stoners</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/stoners.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/dr.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>Drake's Sports</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/Sports_Movies.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/drake.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/fanart.jpg</fanart>
+</dir>
+
+<dir >
+    <name>NAME</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/gunnar.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/gunnar.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/fanart.jpg</fanart>
+</dir >
+
+<dir>
+    <name>Massive's War Room Movies</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/War.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/massive.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/fanart.jpg</fanart>
+</dir>
+
+<dir >
+    <name>NAME</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/mastermind.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/mastermind.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/fanart.jpg</fanart>
+</dir >
+
+<dir>
+    <name>Melvin's SyFy</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/Sci_Fi.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/melvin.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>Ophiuchus Western Movies</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/Westerns.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/ophiuchus.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>Otto's Odd B Movies</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/B_Movies.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/otto.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>Pierre's Black / White Movies</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/Black_and_White_Classics.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/pierre.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>Pinkster's Crime</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/Crime.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/pinkster.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <name>Ringmaster's Comedy</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/Comedy.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/ringmaster.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/fanart.jpg</fanart>
+</dir>
+
+<dir >
+    <name>NAME</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/weather.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/weather.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/fanart.jpg</fanart>
+</dir >
+
+<dir>
+    <name>Zadavia's Motivational / Inspiration</name>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/Motivational_Inspirational.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/zadavia.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/userlists/fanart.jpg</fanart>
+</dir>
+</xml>
