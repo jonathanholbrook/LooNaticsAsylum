@@ -4,42 +4,14 @@
 
 <dir>
     <title>24/7 TvShows - Movies</title>
-    <link>https://xzotiks.com/TeXTtExt/tigerlive/test/2472.xml</link>
-    <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/24x7.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
 </dir>
-
-<plugin >
-    <name>Tv Lodge - Updated Monthly</name>
-    <link>plugin://plugin.video.live.streamspro/?url=https://bit.ly/ltv-english&mode=1&name=LU</link>
-    <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
-</plugin >
-
-<plugin >
-    <name>Stratus Tv - Updated Monthly</name>
-    <link>plugin://plugin.video.live.streamspro/?url=https://bit.ly/stv-us&mode=1&name=LU</link>
-    <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
-</plugin >
 
 <plugin>
     <title>Fluxus Tv - Updated Monthly</title>
     <link>plugin://plugin.video.live.streamspro/?url=https://bitbucket.org/!api/2.0/snippets/fluxustv/expnoX/files/IPTV_032321&mode=1&name=LU</link>
-    <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
 </plugin>
-
-<plugin >
-    <title>Fluxus Radio - Updated Monthly</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://bit.ly/FluxusTV-Radio&mode=1&name=LU</link>
-    <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
-</plugin >
-
-<plugin >
-    <title>Fluxus Faith - Updated Monthly</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://bit.ly/FluxusTV-Faith&mode=1&name=LU</link>
-    <thumbnail>special://home/addons/plugin.video.lu\resources\artwork\lu\m3ulist.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu\resources\artwork\lu\fanart.jpg</fanart>
-</plugin >
