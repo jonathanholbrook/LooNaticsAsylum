@@ -2,23 +2,16 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 
-<plugin >
-<name>FluxusTV-XXX M3u List - Updated Monthly</name>
-<link>plugin://plugin.video.live.streamspro/?url=https://bit.ly/30zU8C4&mode=1&name=LE</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin >
-
 <plugin>
 <name>FluxusTV-XXX M3u List - Updated Monthly</name>
-<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/porn/fluxusadult.m3u&mode=1&name=LU</link>
+<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/porn/fluxusadult.m3u&mode=1&name=LE</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 
-<plugin >
+<plugin>
 <name>Porn Parody Movies</name>
-<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/porn/BWPARODY.m3u&mode=1&name=LU</link>
+<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/porn/BWPARODY.m3u&mode=1&name=LE</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin >
+</plugin>
