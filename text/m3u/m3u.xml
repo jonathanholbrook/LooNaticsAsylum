@@ -15,3 +15,10 @@
     <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
 </plugin>
+
+<dir>
+    <title>Foreign Channels</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/foreign/foreign.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/foreign/fanart.jpg</fanart>
+</dir>
