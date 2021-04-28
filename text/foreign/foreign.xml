@@ -10,12 +10,14 @@
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/2000px-Flag_of_Afghanistan.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/foreign/fanart.jpg</fanart>
 </plugin>
+
 <dir>
     <title>Albania</title>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/foreign/al.m3u</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/2000px-Flag_of_Albania.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/foreign/fanart.jpg</fanart>
 </dir>
+
 <dir>
     <title>Algeria</title>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/foreign/dz.m3u</link>
