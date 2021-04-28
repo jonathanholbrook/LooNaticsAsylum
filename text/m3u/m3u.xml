@@ -2,6 +2,8 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 
+<xml>
+
 <dir>
     <title>24/7 TvShows - Movies</title>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/24x7.xml</link>
@@ -22,3 +24,5 @@
     <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/foreign/fanart.jpg</fanart>
 </dir >
+
+</xml>
