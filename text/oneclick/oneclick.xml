@@ -4,43 +4,43 @@
 
 <dir>
     <title>[COLOR springgreen]1Click [COLOR palegreen]Updated [COLOR lime]Monthly[/COLOR]</title>
-    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/1click.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/icon.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/fanart.jpg</fanart>
 </dir>
 
 <dir>
     <title>[COLOR springgreen]1Click Movies [COLOR palegreen]# - E[/COLOR]</title>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/oneclick/1clicka-e.xml</link>
-    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/1click.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/1clicka-e.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/icon.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/fanart.jpg</fanart>
 </dir>
 
 <dir>
     <title>[COLOR springgreen]1Click Movies [COLOR palegreen]F - K[/COLOR]</title>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/oneclick/1clickf-k.xml</link>
-    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/1click.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/1clickf-k.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/icon.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/fanart.jpg</fanart>
 </dir>
 
 <dir>
     <title>[COLOR springgreen]1Click Movies [COLOR palegreen]L - P[/COLOR]</title>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/oneclick/1clickl-p.xml</link>
-    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/1click.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/1clickl-p.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/icon.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/fanart.jpg</fanart>
 </dir>
 
 <dir>
     <title>[COLOR springgreen]1Click Movies [COLOR palegreen]Q - T[/COLOR]</title>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/oneclick/1clickq-t.xml</link>
-    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/1click.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/1clickq-t.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/icon.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/fanart.jpg</fanart>
 </dir>
 
 <dir>
     <title>[COLOR springgreen]1Click Movies [COLOR palegreen]U - Z[/COLOR]</title>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/oneclick/1clicku-z.xml</link>
-    <thumbnail>special://home/addons/plugin.video.lu/resources/artwork/lu/1click.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/1clicku-z.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/icon.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/fanart.jpg</fanart>
 </dir>
 
 </xml>
