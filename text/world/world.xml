@@ -4,19 +4,19 @@
 
 
 
-<plugin>
+<dir>
     <title>Afghanistan</title>
     <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/af.m3u&mode=1&name=LE</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/2000px-Flag_of_Afghanistan.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
+</dir>
 
-<item>
+<dir>
     <title>Albania</title>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/al.m3u</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/2000px-Flag_of_Albania.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</item>
+</dir>
 
 <dir>
     <title>Algeria</title>
