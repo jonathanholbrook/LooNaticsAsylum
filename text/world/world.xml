@@ -6,7 +6,7 @@
 
 <dir>
     <title>Afghanistan</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/af.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/af.m3u</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/2000px-Flag_of_Afghanistan.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
 </dir>
