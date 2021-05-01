@@ -32,4 +32,53 @@
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
 </plugin>
 
+<plugin>
+    <title>Canada</title>
+    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ca.m3u&mode=1&name=LE</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canadian_Duality_Flag.svg/1200px-Canadian_Duality_Flag.svg.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Australia</title>
+    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/au.m3u&mode=1&name=LE</link>
+    <thumbnail>https://cdn.pixabay.com/photo/2012/04/11/15/42/victoria-28585_640.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Brazil</title>
+    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/br.m3u&mode=1&name=LE</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Colombia</title>
+    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/co.m3u&mode=1&name=LE</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/255px-Flag_of_Colombia.svg.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Greece</title>
+    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/gr.m3u&mode=1&name=LE</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/2000px-Flag_of_Greece.svg.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Mexico</title>
+    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/mx.m3u&mode=1&name=LE</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2000px-Flag_of_Mexico.svg.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Spain</title>
+    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/es.m3u&mode=1&name=LE</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
+</plugin>
+
 </xml>
