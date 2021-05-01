@@ -13,9 +13,23 @@
 
 <plugin>
     <title>Fluxus Tv - Updated Monthly</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://bitbucket.org/!api/2.0/snippets/fluxustv/expnoX/files/IPTV_032321&mode=1&name=LU</link>
+    <link>plugin://plugin.video.live.streamspro/?url=https://bitbucket.org/!api/2.0/snippets/fluxustv/expnoX/files/IPTV_032321&mode=1&name=LE</link>
     <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>United States</title>
+    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/us.m3u&mode=1&name=LE</link>
+    <thumbnail>https://cdn.webshopapp.com/shops/94414/files/54958906/the-united-states-flag-image-free-download.jpg</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>United Kingdom</title>
+    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/uk.m3u&mode=1&name=LE</link>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/512-H5HhT6L._SX425_.jpg</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
 </plugin>
 
 </xml>
