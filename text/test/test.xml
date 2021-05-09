@@ -26,7 +26,7 @@
 <plugin >
     <title>DISTROTV KODI 18 ONLY</title>
     <link>plugin://plugin.video.distrotv/?mode=1</link>
-    <thumbnail>special://home/addons/script.le.artwork/resources/media/le/distro.png</thumbnail>
+    <thumbnail></thumbnail>
     <fanart></fanart>
 </plugin>
 
@@ -38,7 +38,7 @@
 </plugin>
 
 <item>
-    <title>LIVE CHANNELS(YSS)[/B]</title>
+    <title>(YSS)</title>
 <link>$doregex[makelist]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
@@ -74,7 +74,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 </item>
 
 <item>
-<title>LIVE TV CHANNELS US GEO BLOCKED(MYUSTV)</title>
+<title>US GEO BLOCKED(MYUSTV)</title>
 <link>$doregex[makelist]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
@@ -114,7 +114,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 </item>
 
 <item>
-    <title>LIVE CHANNELS(S24)</title>
+    <title>(S24)</title>
 <link>$doregex[makelist]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
@@ -153,7 +153,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 </item>
 
 <item>
-    <title>LIVE CHANNELS(SB)</title>
+    <title>(SB)</title>
 <link>$doregex[makelist]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
@@ -195,7 +195,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 </item>
 
 <item>
-<title>LIVE CHANNELS(DL)</title>
+<title>(DL)</title>
 <link>$doregex[makelist]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
@@ -231,7 +231,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 </item>
 
 <item>
-<title>LIVE CHANNELS(CAT)</title>
+<title>(CAT)</title>
 <link>$doregex[makelist]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
@@ -268,7 +268,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 </item>
 
 <item>
-<title>LIVE CHANNELS (GT)</title>
+<title>(GT)</title>
     <thumbnail></thumbnail>
     <fanart></fanart>
 <link>$doregex[makelist]</link>
@@ -321,7 +321,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>LIVE CHANNELS(DIPTV)</title>
+<title>(DIPTV)</title>
 <link>$doregex[makelist]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
@@ -378,7 +378,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 
 
 <item>
-<title>LIVE CHANNELS(TV247)</title>
+<title>(TV247)</title>
 <link>$doregex[makelist]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
@@ -412,7 +412,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 </item>
 
 <item>
-<title>LIVE CHANNELS(USSTREAMIX)</title>
+<title>(USSTREAMIX)</title>
 <link>$doregex[makelist]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
@@ -453,7 +453,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 </item>
 
 <item>
-<title>LIVE CHANNELS(USTVGO)</title>
+<title>(USTVGO)</title>
 <link>$doregex[makelist]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
@@ -498,7 +498,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = '[makelist.param1]'):
 </item>
 
 <item>
-<title>LIVE CHANNELS(CHD)</title>
+<title>(CHD)</title>
 <link>$doregex[leschedule]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
@@ -531,7 +531,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = '[leschedule.param1]'):
 </item>
 
 <item>
-<title>LIVE CHANNELS(TUB)</title>
+<title>(TUB)</title>
 <link>$doregex[leschedule]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
