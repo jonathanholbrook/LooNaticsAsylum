@@ -45,7 +45,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-    <title>[COLOR orange][makelist.param1]</title>
+    <title>[makelist.param1]</title>
         <link>$doregex[makelist2]</link>
         <thumbnail></thumbnail>
 ]]></listrepeat>
@@ -81,7 +81,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-        <title>[COLOR orchid]* [COLOR white][makelist.param2] [COLOR orchid]*</title>
+        <title>[makelist.param2] </title>
         <link>$doregex[makelist2]</link>
         <thumbnail>http://myustv.com[makelist.param3]</thumbnail>
 ]]></listrepeat>
@@ -121,7 +121,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-    <title>[COLOR orange][makelist.param1]</title>
+    <title>[makelist.param1]</title>
     <link>$doregex[player]</link>
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
@@ -160,7 +160,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-        <title>[COLOR orchid]* [COLOR white][makelist.param1] [COLOR orchid]*</title>
+        <title>[makelist.param1] </title>
         <link>$doregex[makelist2]</link>
         <thumbnail></thumbnail>
 ]]></listrepeat>
@@ -238,7 +238,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[COLOR orange][makelist.param1] ([COLOR snow][makelist.param2]) [COLOR gold] Rating: [makelist.param3] [COLOR dodgerblue] [makelist.param4]</title>
+<title>[makelist.param1] ([makelist.param2])  Rating: [makelist.param3]  [makelist.param4]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[makelist.param1]&amp;url=[makelist.param5]|user-agent=iPad</link>
 <thumbnail>[makelist.param6]</thumbnail>
 ]]></listrepeat>
@@ -275,7 +275,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-  <title>[COLOR snow][makelist.param2]</title>
+  <title>[makelist.param2]</title>
   <link>$doregex[lists]</link>
   <thumbnail>[makelist.param3]</thumbnail>
 ]]></listrepeat>
@@ -289,7 +289,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>lists</name>
 <listrepeat><![CDATA[
-  <title>[COLOR snow][lists.param2]</title>
+  <title>[lists.param2]</title>
   <link>$doregex[m3u]</link>
   <thumbnail>[makelist.param3]</thumbnail>
 ]]></listrepeat>
@@ -305,7 +305,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>m3u</name>
 <listrepeat><![CDATA[
-  <title>[COLOR snow][I][m3u.param1][/I]</title>
+  <title>[I][m3u.param1][/I]</title>
   <link>[m3u.param2]</link>
   <thumbnail>[makelist.param3]</thumbnail>
 ]]></listrepeat>
@@ -328,7 +328,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-  <title>[COLOR snow][makelist.param2]</title>
+  <title>[makelist.param2]</title>
   <link>$doregex[lists]</link>
   <thumbnail>[makelist.param3]</thumbnail>
 ]]></listrepeat>
@@ -344,7 +344,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>lists</name>
 <listrepeat><![CDATA[
-  <title>[COLOR snow]List[lists.param2]</title>
+  <title>List[lists.param2]</title>
   <link>$doregex[m3u]</link>
   <thumbnail>[makelist.param3]</thumbnail>
 ]]></listrepeat>
@@ -361,7 +361,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>m3u</name>
 <listrepeat><![CDATA[
-  <title>[COLOR snow][I][m3u.param1][/I]</title>
+  <title>[I][m3u.param1][/I]</title>
   <link>[m3u.param2]</link>
   <thumbnail>[makelist.param3]</thumbnail>
 ]]></listrepeat>
@@ -385,7 +385,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-        <title>[COLOR orange][makelist.param3]</title>
+        <title>[makelist.param3]</title>
         <link>$doregex[makelist2]</link>
         <thumbnail>[makelist.param1]</thumbnail>
 ]]></listrepeat>
@@ -419,7 +419,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-        <title>[COLOR orange][makelist.param2]</title>
+        <title>[makelist.param2]</title>
         <link>$doregex[makelist2]</link>
         <thumbnail>[makelist.param2]</thumbnail>
 ]]></listrepeat>
@@ -460,7 +460,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-        <title>[COLOR orange][makelist.param2]</title>
+        <title>[makelist.param2]</title>
         <link>$doregex[makelist2]</link>
         <thumbnail>[makelist.param3]</thumbnail>
 ]]></listrepeat>
