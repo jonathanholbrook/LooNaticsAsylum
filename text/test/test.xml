@@ -3,49 +3,49 @@
 <layoutype>fuckOFF</layoutype>
 
 <plugin >
-    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]PLUTO[/COLOR] [COLOR orchid] TV KODI 18 ONLY[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <title>PLUTOTV KODI 18 ONLY</title>
     <link>plugin://plugin.video.pluto2tv/?mode=1</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
 </plugin>
 
 <plugin >
-    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]XUMO[/COLOR] [COLOR orchid] TV KODI 18 ONLY[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <title>XUMOTV KODI 18 ONLY</title>
     <link>plugin://plugin.video.xumo2tv/?mode=1</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
 </plugin>
 
 <plugin >
-    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]BUMBLEBEE[/COLOR] [COLOR orchid] TV KODI 18 ONLY[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <title>BUMBLEBEETV KODI 18 ONLY</title>
     <link>plugin://plugin.video.bumblebeetv/?mode=1</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
 </plugin>
 
 <plugin >
-    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]DISTRO[/COLOR] [COLOR orchid] TV KODI 18 ONLY[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <title>DISTROTV KODI 18 ONLY</title>
     <link>plugin://plugin.video.distrotv/?mode=1</link>
     <thumbnail>special://home/addons/script.le.artwork/resources/media/le/distro.png</thumbnail>
     <fanart></fanart>
 </plugin>
 
 <plugin >
-    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]TUBI[/COLOR] [COLOR orchid] TV KODI 18 ONLY[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <title>TUBITV KODI 18 ONLY</title>
     <link>plugin://plugin.video.tubitv/?mode=1</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
 </plugin>
 
 <item>
-    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE CHANNELS[/COLOR] [COLOR orchid] (YSS)[/B] [COLOR orchid]¤[/COLOR]</title>
+    <title>LIVE CHANNELS(YSS)[/B]</title>
 <link>$doregex[makelist]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-    <title>[COLOR orange][makelist.param1][/COLOR]</title>
+    <title>[COLOR orange][makelist.param1]</title>
         <link>$doregex[makelist2]</link>
         <thumbnail></thumbnail>
 ]]></listrepeat>
@@ -74,14 +74,14 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 </item>
 
 <item>
-<title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV CHANNELS US GEO BLOCKED[/COLOR] [COLOR orchid] (MYUSTV)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+<title>LIVE TV CHANNELS US GEO BLOCKED(MYUSTV)</title>
 <link>$doregex[makelist]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-        <title>[COLOR orchid]*[/COLOR] [COLOR white][makelist.param2][/COLOR] [COLOR orchid]*[/COLOR]</title>
+        <title>[COLOR orchid]* [COLOR white][makelist.param2] [COLOR orchid]*</title>
         <link>$doregex[makelist2]</link>
         <thumbnail>http://myustv.com[makelist.param3]</thumbnail>
 ]]></listrepeat>
@@ -114,14 +114,14 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 </item>
 
 <item>
-    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE CHANNELS[/COLOR] [COLOR orchid] (S24)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <title>LIVE CHANNELS(S24)</title>
 <link>$doregex[makelist]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-    <title>[COLOR orange][makelist.param1][/COLOR]</title>
+    <title>[COLOR orange][makelist.param1]</title>
     <link>$doregex[player]</link>
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
@@ -153,14 +153,14 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 </item>
 
 <item>
-    <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE CHANNELS[/COLOR] [COLOR orchid] (SB)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+    <title>LIVE CHANNELS(SB)</title>
 <link>$doregex[makelist]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-        <title>[COLOR orchid]*[/COLOR] [COLOR white][makelist.param1][/COLOR] [COLOR orchid]*[/COLOR]</title>
+        <title>[COLOR orchid]* [COLOR white][makelist.param1] [COLOR orchid]*</title>
         <link>$doregex[makelist2]</link>
         <thumbnail></thumbnail>
 ]]></listrepeat>
@@ -195,7 +195,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 </item>
 
 <item>
-<title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE CHANNELS[/COLOR] [COLOR orchid] (DL)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+<title>LIVE CHANNELS(DL)</title>
 <link>$doregex[makelist]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
@@ -231,14 +231,14 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 </item>
 
 <item>
-<title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE CHANNELS[/COLOR] [COLOR orchid] (CAT)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+<title>LIVE CHANNELS(CAT)</title>
 <link>$doregex[makelist]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[COLOR orange][makelist.param1][/COLOR] ([COLOR snow][makelist.param2][/COLOR]) [COLOR gold] Rating: [makelist.param3][/COLOR] [COLOR dodgerblue] [makelist.param4][/COLOR]</title>
+<title>[COLOR orange][makelist.param1] ([COLOR snow][makelist.param2]) [COLOR gold] Rating: [makelist.param3] [COLOR dodgerblue] [makelist.param4]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[makelist.param1]&amp;url=[makelist.param5]|user-agent=iPad</link>
 <thumbnail>[makelist.param6]</thumbnail>
 ]]></listrepeat>
@@ -268,14 +268,14 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 </item>
 
 <item>
-<title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE CHANNELS [/COLOR] [COLOR orchid] (GT)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+<title>LIVE CHANNELS (GT)</title>
     <thumbnail></thumbnail>
     <fanart></fanart>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-  <title>[COLOR snow][makelist.param2][/COLOR]</title>
+  <title>[COLOR snow][makelist.param2]</title>
   <link>$doregex[lists]</link>
   <thumbnail>[makelist.param3]</thumbnail>
 ]]></listrepeat>
@@ -289,7 +289,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>lists</name>
 <listrepeat><![CDATA[
-  <title>[COLOR snow][lists.param2][/COLOR]</title>
+  <title>[COLOR snow][lists.param2]</title>
   <link>$doregex[m3u]</link>
   <thumbnail>[makelist.param3]</thumbnail>
 ]]></listrepeat>
@@ -305,7 +305,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>m3u</name>
 <listrepeat><![CDATA[
-  <title>[COLOR snow][I][m3u.param1][/I][/COLOR]</title>
+  <title>[COLOR snow][I][m3u.param1][/I]</title>
   <link>[m3u.param2]</link>
   <thumbnail>[makelist.param3]</thumbnail>
 ]]></listrepeat>
@@ -321,14 +321,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE CHANNELS[/COLOR] [COLOR orchid] (DIPTV)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+<title>LIVE CHANNELS(DIPTV)</title>
 <link>$doregex[makelist]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-  <title>[COLOR snow][makelist.param2][/COLOR]</title>
+  <title>[COLOR snow][makelist.param2]</title>
   <link>$doregex[lists]</link>
   <thumbnail>[makelist.param3]</thumbnail>
 ]]></listrepeat>
@@ -344,7 +344,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>lists</name>
 <listrepeat><![CDATA[
-  <title>[COLOR snow]List[lists.param2][/COLOR]</title>
+  <title>[COLOR snow]List[lists.param2]</title>
   <link>$doregex[m3u]</link>
   <thumbnail>[makelist.param3]</thumbnail>
 ]]></listrepeat>
@@ -361,7 +361,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>m3u</name>
 <listrepeat><![CDATA[
-  <title>[COLOR snow][I][m3u.param1][/I][/COLOR]</title>
+  <title>[COLOR snow][I][m3u.param1][/I]</title>
   <link>[m3u.param2]</link>
   <thumbnail>[makelist.param3]</thumbnail>
 ]]></listrepeat>
@@ -378,14 +378,14 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 
 
 <item>
-<title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE CHANNELS[/COLOR] [COLOR orchid] (TV247)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+<title>LIVE CHANNELS(TV247)</title>
 <link>$doregex[makelist]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-        <title>[COLOR orange][makelist.param3][/COLOR]</title>
+        <title>[COLOR orange][makelist.param3]</title>
         <link>$doregex[makelist2]</link>
         <thumbnail>[makelist.param1]</thumbnail>
 ]]></listrepeat>
@@ -412,14 +412,14 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 </item>
 
 <item>
-<title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE CHANNELS[/COLOR] [COLOR orchid] (USSTREAMIX)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+<title>LIVE CHANNELS(USSTREAMIX)</title>
 <link>$doregex[makelist]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-        <title>[COLOR orange][makelist.param2][/COLOR]</title>
+        <title>[COLOR orange][makelist.param2]</title>
         <link>$doregex[makelist2]</link>
         <thumbnail>[makelist.param2]</thumbnail>
 ]]></listrepeat>
@@ -453,14 +453,14 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 </item>
 
 <item>
-<title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE CHANNELS[/COLOR] [COLOR orchid] (USTVGO)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+<title>LIVE CHANNELS(USTVGO)</title>
 <link>$doregex[makelist]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-        <title>[COLOR orange][makelist.param2][/COLOR]</title>
+        <title>[COLOR orange][makelist.param2]</title>
         <link>$doregex[makelist2]</link>
         <thumbnail>[makelist.param3]</thumbnail>
 ]]></listrepeat>
@@ -498,7 +498,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = '[makelist.param1]'):
 </item>
 
 <item>
-<title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE CHANNELS[/COLOR] [COLOR orchid] (CHD)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+<title>LIVE CHANNELS(CHD)</title>
 <link>$doregex[leschedule]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
@@ -531,7 +531,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = '[leschedule.param1]'):
 </item>
 
 <item>
-<title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE CHANNELS[/COLOR] [COLOR orchid] (TUB)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+<title>LIVE CHANNELS(TUB)</title>
 <link>$doregex[leschedule]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
