@@ -2,35 +2,35 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>fuckOFF</layoutype>
 
-<plugin>
+<plugin >
     <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]PLUTO[/COLOR] [COLOR orchid] TV KODI 18 ONLY[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
     <link>plugin://plugin.video.pluto2tv/?mode=1</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
 </plugin>
 
-<plugin>
+<plugin >
     <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]XUMO[/COLOR] [COLOR orchid] TV KODI 18 ONLY[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
     <link>plugin://plugin.video.xumo2tv/?mode=1</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
 </plugin>
 
-<plugin>
+<plugin >
     <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]BUMBLEBEE[/COLOR] [COLOR orchid] TV KODI 18 ONLY[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
     <link>plugin://plugin.video.bumblebeetv/?mode=1</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
 </plugin>
 
-<plugin>
+<plugin >
     <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]DISTRO[/COLOR] [COLOR orchid] TV KODI 18 ONLY[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
     <link>plugin://plugin.video.distrotv/?mode=1</link>
     <thumbnail>special://home/addons/script.le.artwork/resources/media/le/distro.png</thumbnail>
     <fanart></fanart>
 </plugin>
 
-<plugin>
+<plugin >
     <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]TUBI[/COLOR] [COLOR orchid] TV KODI 18 ONLY[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
     <link>plugin://plugin.video.tubitv/?mode=1</link>
     <thumbnail></thumbnail>
@@ -73,7 +73,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 </regex>
 </item>
 
-<item
+<item>
 <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE TV CHANNELS US GEO BLOCKED[/COLOR] [COLOR orchid] (MYUSTV)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
 <link>$doregex[makelist]</link>
     <thumbnail></thumbnail>
@@ -113,7 +113,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 </regex>
 </item>
 
-<item
+<item>
     <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE CHANNELS[/COLOR] [COLOR orchid] (S24)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
 <link>$doregex[makelist]</link>
     <thumbnail></thumbnail>
@@ -267,7 +267,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 </regex>
 </item>
 
-<item
+<item>
 <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE CHANNELS [/COLOR] [COLOR orchid] (GT)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
     <thumbnail></thumbnail>
     <fanart></fanart>
@@ -411,7 +411,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 </regex>
 </item>
 
-<item
+<item>
 <title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE CHANNELS[/COLOR] [COLOR orchid] (USSTREAMIX)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
 <link>$doregex[makelist]</link>
     <thumbnail></thumbnail>
