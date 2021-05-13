@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.prototype" name="Prototype-Repo" version="1.0.10" provider-name="Cable">
+	<extension point="xbmc.addon.repository" name="Prototype-Repo">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/elijahcarasco/prototype/main/plugins/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/elijahcarasco/prototype/main/plugins/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/elijahcarasco/prototype/main/plugins</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">http://cf368ff.online-server.cloud/symbo/par/zips/addons.xml</info>
+			<checksum>http://cf368ff.online-server.cloud/symbo/par/zips/addons.xml.md5</checksum>
+			<datadir zip="true">http://cf368ff.online-server.cloud/symbo/par/zips/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">http://cf368ff.online-server.cloud/symbo/scripts/zips/addons.xml</info>
+			<checksum>http://cf368ff.online-server.cloud/symbo/scripts/zips/addons.xml.md5</checksum>
+			<datadir zip="true">http://cf368ff.online-server.cloud/symbo/scripts/zips/</datadir>
+		</dir>
+        <dir>
+			<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+	    </dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary></summary>
+		<description></description>
+		<disclaimer></disclaimer>
+		<website></website>
+		<forum></forum>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+	</extension>
+</addon>
+

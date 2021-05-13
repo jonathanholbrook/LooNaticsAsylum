@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.karnage" name="KARNAGE Returns" version="1.0.88" provider-name="bones">
+	<extension point="xbmc.addon.repository" name="KARNAGE REPO">
+		<dir>
+			<info compressed="false">http://82.165.248.28/bonecrusher/zips/addons.xml</info>
+			<checksum>http://82.165.248.28/bonecrusher/zips/addons.xml.md5</checksum>
+			<datadir zip="true">http://82.165.248.28/bonecrusher/zips/</datadir>
+		</dir>
+        <dir>
+	        <info compressed="false">http://cf368ff.online-server.cloud/bonecrusher/metas/addons.xml</info>
+	        <checksum>http://cf368ff.online-server.cloud/bonecrusher/metas/addons.xml.md5</checksum>
+	        <datadir zip="true">http://cf368ff.online-server.cloud/bonecrusher/metas/</datadir>
+	    </dir>
+        <dir>
+	        <info compressed="false">http://82.165.248.28/bonecrusher/projx/addons.xml</info>
+	        <checksum>http://82.165.248.28/bonecrusher/projx/addons.xml.md5</checksum>
+	        <datadir zip="true">http://82.165.248.28/bonecrusher/projx/</datadir>
+	    </dir>
+        <dir>
+	        <info compressed="false">http://82.165.248.28/bonecrusher/xxxmeta/addons.xml</info>
+	        <checksum>http://82.165.248.28/bonecrusher/xxxmeta/addons.xml.md5</checksum>
+	        <datadir zip="true">http://82.165.248.28/bonecrusher/xxxmeta/</datadir>
+	    </dir>
+        <dir>
+	        <info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+	        <checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+	        <datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+	    </dir>
+		<dir>
+            <info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
+        </dir>
+		<dir>
+                <info compressed="false">https://raw.githubusercontent.com/Guilouz/repository.guilouz/master/_repo/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/Guilouz/repository.guilouz/master/_repo/addons.xml.md5</checksum>
+                <datadir zip="true">https://github.com/Guilouz/repository.guilouz/raw/master/_repo</datadir>
+        </dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Welcome To The KARNAGE</summary>
+		<description lang="en">KARNAGE Repo</description>
+		<genre></genre>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+        <banner></banner>
+        <clearlogo></clearlogo>
+        <screenshot></screenshot>
+    </assets>
+	</extension>
+</addon>

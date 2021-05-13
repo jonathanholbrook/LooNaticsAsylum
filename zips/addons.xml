@@ -2,7 +2,7 @@
 <addons>
 <addon id="repository.loonaticsasylum"
        name="  [COLORspringgreen]L[COLORpalegreen]o[COLORlime]o[COLORred]N[COLORcrimson]a[COLORmediumpurple]t[COLORmediumorchid]i[COLORorangered]c[COLORorange]s [COLORdeepskyblue]Asylum[/COLOR] [COLORblue]Repo[/COLOR]"
-       version="21.4.22"
+       version="21.5.12"
        provider-name="[COLORgreen]• [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]•[/COLOR]">
     <extension point="xbmc.addon.repository" name="Loonatics Asylum Repository">
         <dir><!--LoonaticsAsylum-->
@@ -59,76 +59,6 @@
             <info compressed="false">https://raw.githubusercontent.com/Guilouz/repository.guilouz/master/_repo/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/Guilouz/repository.guilouz/master/_repo/addons.xml.md5</checksum>
             <datadir zip="true">https://github.com/Guilouz/repository.guilouz/raw/master/_repo</datadir>
-        </dir>
-        <dir><!--Nostromo-->
-            <info compressed="false">https://raw.githubusercontent.com/nostromorepo/install/master/plugins/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/nostromorepo/install/master/plugins/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/nostromorepo/install/master/plugins</datadir>
-        </dir>
-        <dir><!--Magnetar-->
-            <info compressed="false">https://raw.githubusercontent.com/nostromorepo/magnetar/master/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/nostromorepo/magnetar/master/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/nostromorepo/magnetar/master/zips</datadir>
-        </dir>
-        <dir><!--MadHouse-->
-            <info compressed="false">http://cf368ff.online-server.cloud/madhouse/mht/zips/addons.xml</info>
-            <checksum>http://cf368ff.online-server.cloud/madhouse/mht/zips/addons.xml.md5</checksum>
-            <datadir zip="true">http://cf368ff.online-server.cloud/madhouse/mht/zips/</datadir>
-        </dir>
-        <dir><!--MadHouse-->
-            <info compressed="false">http://cf368ff.online-server.cloud/madhouse/zips/addons.xml</info>
-            <checksum>http://cf368ff.online-server.cloud/madhouse/zips/addons.xml.md5</checksum>
-            <datadir zip="true">http://cf368ff.online-server.cloud/madhouse/zips/</datadir>
-        </dir>
-        <dir><!--MadHouse-->
-            <info compressed="false">http://cf368ff.online-server.cloud/madhouse/mhp/zips/addons.xml</info>
-            <checksum>http://cf368ff.online-server.cloud/madhouse/mhp/zips/addons.xml.md5</checksum>
-            <datadir zip="true">http://cf368ff.online-server.cloud/madhouse/mhp/zips/</datadir>
-        </dir>
-        <dir><!--DCvcMarvel-->
-            <info compressed="false">http://dcvmarvelbuild.co.uk/Repo/addons.xml</info>
-            <checksum>http://dcvmarvelbuild.co.uk/Repo/addons.xml.md5</checksum>
-            <datadir zip="true">http://dcvmarvelbuild.co.uk/Repo/</datadir>
-        </dir>
-        <dir><!--420 ClubHouse-->
-            <info compressed="false">http://team2wacked.xyz/_Clubhouse/addons.xml</info>
-            <checksum>http://team2wacked.xyz/_Clubhouse/addons.xml.md5</checksum>
-            <datadir zip="true">http://team2wacked.xyz/_Clubhouse/</datadir>
-        </dir>
-        <dir><!--Voltage-->
-            <info compressed="false">http://cf368ff.online-server.cloud/volt/par/zips/addons.xml</info>
-            <checksum>http://cf368ff.online-server.cloud/volt/par/zips/addons.xml.md5</checksum>
-            <datadir zip="true">http://cf368ff.online-server.cloud/volt/par/zips/</datadir>
-        </dir>
-        <dir><!--Voltage-->
-            <info compressed="false">http://cf368ff.online-server.cloud/volt/plugins/zips/addons.xml</info>
-            <checksum>http://cf368ff.online-server.cloud/volt/plugins/zips/addons.xml.md5</checksum>
-            <datadir zip="true">http://cf368ff.online-server.cloud/volt/plugins/zips/</datadir>
-        </dir>
-        <dir><!--Voltage-->
-            <info compressed="false">http://cf368ff.online-server.cloud/volt/scripts/zips/addons.xml</info>
-            <checksum>http://cf368ff.online-server.cloud/volt/scripts/zips/addons.xml.md5</checksum>
-            <datadir zip="true">http://cf368ff.online-server.cloud/volt/scripts/zips/</datadir>
-        </dir>
-        <dir><!--Karnage-->
-            <info compressed="false">http://82.165.248.28/bonecrusher/zips/addons.xml</info>
-            <checksum>http://82.165.248.28/bonecrusher/zips/addons.xml.md5</checksum>
-            <datadir zip="true">http://82.165.248.28/bonecrusher/zips/</datadir>
-        </dir>
-        <dir><!--Karnage-->
-            <info compressed="false">http://cf368ff.online-server.cloud/bonecrusher/metas/addons.xml</info>
-            <checksum>http://cf368ff.online-server.cloud/bonecrusher/metas/addons.xml.md5</checksum>
-            <datadir zip="true">http://cf368ff.online-server.cloud/bonecrusher/metas/</datadir>
-        </dir>
-        <dir><!--Karnage-->
-            <info compressed="false">http://82.165.248.28/bonecrusher/projx/addons.xml</info>
-            <checksum>http://82.165.248.28/bonecrusher/projx/addons.xml.md5</checksum>
-            <datadir zip="true">http://82.165.248.28/bonecrusher/projx/</datadir>
-        </dir>
-        <dir><!--Karnage-->
-            <info compressed="false">http://82.165.248.28/bonecrusher/xxxmeta/addons.xml</info>
-            <checksum>http://82.165.248.28/bonecrusher/xxxmeta/addons.xml.md5</checksum>
-            <datadir zip="true">http://82.165.248.28/bonecrusher/xxxmeta/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
@@ -339,6 +269,120 @@
 	</extension>
 </addon>
 
+<addon id="repository.karnage" name="KARNAGE Returns" version="1.0.88" provider-name="bones">
+	<extension point="xbmc.addon.repository" name="KARNAGE REPO">
+		<dir>
+			<info compressed="false">http://82.165.248.28/bonecrusher/zips/addons.xml</info>
+			<checksum>http://82.165.248.28/bonecrusher/zips/addons.xml.md5</checksum>
+			<datadir zip="true">http://82.165.248.28/bonecrusher/zips/</datadir>
+		</dir>
+        <dir>
+	        <info compressed="false">http://cf368ff.online-server.cloud/bonecrusher/metas/addons.xml</info>
+	        <checksum>http://cf368ff.online-server.cloud/bonecrusher/metas/addons.xml.md5</checksum>
+	        <datadir zip="true">http://cf368ff.online-server.cloud/bonecrusher/metas/</datadir>
+	    </dir>
+        <dir>
+	        <info compressed="false">http://82.165.248.28/bonecrusher/projx/addons.xml</info>
+	        <checksum>http://82.165.248.28/bonecrusher/projx/addons.xml.md5</checksum>
+	        <datadir zip="true">http://82.165.248.28/bonecrusher/projx/</datadir>
+	    </dir>
+        <dir>
+	        <info compressed="false">http://82.165.248.28/bonecrusher/xxxmeta/addons.xml</info>
+	        <checksum>http://82.165.248.28/bonecrusher/xxxmeta/addons.xml.md5</checksum>
+	        <datadir zip="true">http://82.165.248.28/bonecrusher/xxxmeta/</datadir>
+	    </dir>
+        <dir>
+	        <info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+	        <checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+	        <datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+	    </dir>
+		<dir>
+            <info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
+        </dir>
+		<dir>
+                <info compressed="false">https://raw.githubusercontent.com/Guilouz/repository.guilouz/master/_repo/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/Guilouz/repository.guilouz/master/_repo/addons.xml.md5</checksum>
+                <datadir zip="true">https://github.com/Guilouz/repository.guilouz/raw/master/_repo</datadir>
+        </dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Welcome To The KARNAGE</summary>
+		<description lang="en">KARNAGE Repo</description>
+		<genre></genre>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+        <banner></banner>
+        <clearlogo></clearlogo>
+        <screenshot></screenshot>
+    </assets>
+	</extension>
+</addon>
+
+<addon id="repository.kresurrected" name="[COLOR red] Karnage[/COLOR]  [COLOR white]Resurrected[/COLOR]" version="1.0.18" provider-name="[COLOR red] K[/COLOR][COLOR white]arnage[/COLOR]">
+	<extension point="xbmc.addon.repository" name="[COLOR red] Karnage[/COLOR] [COLOR white]Resurrected[/COLOR]">
+		<dir>
+			<info compressed="false">http://cf368ff.online-server.cloud/karnage/zips/addons.xml</info>
+			<checksum>http://cf368ff.online-server.cloud/karnage/zips/addons.xml.md5</checksum>
+			<datadir zip="true">http://cf368ff.online-server.cloud/karnage/zips/</datadir>
+		</dir>
+        <dir>
+	        <info compressed="false">http://cf368ff.online-server.cloud/bonecrusher/metas/addons.xml</info>
+	        <checksum>http://cf368ff.online-server.cloud/bonecrusher/metas/addons.xml.md5</checksum>
+	        <datadir zip="true">http://cf368ff.online-server.cloud/bonecrusher/metas/</datadir>
+	    </dir>
+		<dir>
+			<info compressed="false">http://cf368ff.online-server.cloud/symbo/par/zips/addons.xml</info>
+			<checksum>http://cf368ff.online-server.cloud/symbo/par/zips/addons.xml.md5</checksum>
+			<datadir zip="true">http://cf368ff.online-server.cloud/symbo/par/zips/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">http://cf368ff.online-server.cloud/symbo/scripts/zips/addons.xml</info>
+			<checksum>http://cf368ff.online-server.cloud/symbo/scripts/zips/addons.xml.md5</checksum>
+			<datadir zip="true">http://cf368ff.online-server.cloud/symbo/scripts/zips/</datadir>
+		</dir>
+        <dir>
+	        <info compressed="false">http://cf368ff.online-server.cloud/bonecrusher/xxxmeta/addons.xml</info>
+	        <checksum>http://cf368ff.online-server.cloud/bonecrusher/xxxmeta/addons.xml.md5</checksum>
+	        <datadir zip="true">http://cf368ff.online-server.cloud/bonecrusher/xxxmeta/</datadir>
+	    </dir>
+        <dir>
+	        <info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+	        <checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+	        <datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+	    </dir>
+		<dir>
+            <info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
+        </dir>
+		<dir>
+                <info compressed="false">https://raw.githubusercontent.com/Guilouz/repository.guilouz/master/_repo/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/Guilouz/repository.guilouz/master/_repo/addons.xml.md5</checksum>
+                <datadir zip="true">https://github.com/Guilouz/repository.guilouz/raw/master/_repo</datadir>
+        </dir>
+		<dir>
+	        <info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml</info>
+	        <checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml.md5</checksum>
+	        <datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/</datadir>
+		</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Welcome To The KARNAGE</summary>
+		<description lang="en">KARNAGE Repo</description>
+		<genre></genre>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+        <banner></banner>
+        <clearlogo></clearlogo>
+        <screenshot></screenshot>
+    </assets>
+	</extension>
+</addon>
+
 <addon id="repository.madhouse" name="MadHouse repo" version="0.0.0.30" provider-name="Madhouse">
 	<extension point="xbmc.addon.repository" name="Mad House Repository">
 		<dir>
@@ -499,6 +543,40 @@
 	</extension>
 </addon>
 
+<addon id="repository.prototype" name="Prototype-Repo" version="1.0.10" provider-name="Cable">
+	<extension point="xbmc.addon.repository" name="Prototype-Repo">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/elijahcarasco/prototype/main/plugins/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/elijahcarasco/prototype/main/plugins/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/elijahcarasco/prototype/main/plugins</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">http://cf368ff.online-server.cloud/symbo/par/zips/addons.xml</info>
+			<checksum>http://cf368ff.online-server.cloud/symbo/par/zips/addons.xml.md5</checksum>
+			<datadir zip="true">http://cf368ff.online-server.cloud/symbo/par/zips/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">http://cf368ff.online-server.cloud/symbo/scripts/zips/addons.xml</info>
+			<checksum>http://cf368ff.online-server.cloud/symbo/scripts/zips/addons.xml.md5</checksum>
+			<datadir zip="true">http://cf368ff.online-server.cloud/symbo/scripts/zips/</datadir>
+		</dir>
+        <dir>
+			<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+	    </dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary></summary>
+		<description></description>
+		<disclaimer></disclaimer>
+		<website></website>
+		<forum></forum>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+	</extension>
+</addon>
+
 <addon id="repository.resolveurl" name="ResolveURL Repository" provider-name="gujal" version="1.0.0">
   <extension point="xbmc.addon.repository" name="ResolveURL Repository">
     <dir>
@@ -519,6 +597,36 @@
       <fanart>fanart.jpg</fanart>
     </assets> 
   </extension>
+</addon>
+
+<addon id="repository.symbiotortemplates" name="[COLOR red]Sym[/COLOR][COLOR white]biotor[/COLOR]Templates" version="0.0.8" provider-name="Karnage">
+	<extension point="xbmc.addon.repository" name="[COLOR red]Sym[/COLOR][COLOR white]biotor[/COLOR] Templates">
+		<dir>
+			<info compressed="false">http://cf368ff.online-server.cloud/symbo/par/zips/addons.xml</info>
+			<checksum>http://cf368ff.online-server.cloud/symbo/par/zips/addons.xml.md5</checksum>
+			<datadir zip="true">http://cf368ff.online-server.cloud/symbo/par/zips/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">http://cf368ff.online-server.cloud/templates/zips/addons.xml</info>
+			<checksum>http://cf368ff.online-server.cloud/templates/zips/addons.xml.md5</checksum>
+			<datadir zip="true">http://cf368ff.online-server.cloud/templates/zips/</datadir>
+		</dir>
+
+        <dir>
+			<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+	    </dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>New Testing Template</summary>
+		<description></description>
+		<disclaimer>New Testing Template</disclaimer>
+		<website></website>
+		<forum></forum>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+	</extension>
 </addon>
 
 <addon id="repository.slyguy" name="SlyGuy Repository" provider-name="SlyGuy" version="0.0.2">
@@ -713,6 +821,45 @@
 [COLOR yellow]--[/COLOR][I] Added AutoWidgets.[/I]
 [COLOR yellow]--[/COLOR][I] Added a4kSubtitles.[/I]
 		</news>
+	</extension>
+</addon>
+
+<addon id="repository.voltage" name="[COLOR yellow]Vol[/COLOR][COLOR blue]Tage[/COLOR]" version="0.0.14" provider-name="High Voltage">
+	<extension point="xbmc.addon.repository" name="VolTage Repository">
+		<dir>
+			<info compressed="false">http://cf368ff.online-server.cloud/volt/par/zips/addons.xml</info>
+			<checksum>http://cf368ff.online-server.cloud/volt/par/zips/addons.xml.md5</checksum>
+			<datadir zip="true">http://cf368ff.online-server.cloud/volt/par/zips/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">http://cf368ff.online-server.cloud/volt/plugins/zips/addons.xml</info>
+			<checksum>http://cf368ff.online-server.cloud/volt/plugins/zips/addons.xml.md5</checksum>
+			<datadir zip="true">http://cf368ff.online-server.cloud/volt/plugins/zips/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">http://cf368ff.online-server.cloud/volt/scripts/zips/addons.xml</info>
+			<checksum>http://cf368ff.online-server.cloud/volt/scripts/zips/addons.xml.md5</checksum>
+			<datadir zip="true">http://cf368ff.online-server.cloud/volt/scripts/zips/</datadir>
+		</dir>
+        <dir>
+			<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+	    </dir>
+		<dir>
+	        <info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml</info>
+	        <checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml.md5</checksum>
+	        <datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/</datadir>
+		</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>A Collection of Torrent Viewer/Tool Related Kodi Addons</summary>
+		<description>A Collection of Torrent Viewer/Tool Related Kodi Addons</description>
+		<disclaimer>The owners and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
+		<website></website>
+		<forum></forum>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
 	</extension>
 </addon>
 
