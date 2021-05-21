@@ -1095,10 +1095,10 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
 
 <addon id="plugin.acme.livenet"
        name="   [COLORspringgreen]Live[/COLOR][COLORpalegreen]N[/COLOR][COLORlime]et[/COLOR]"
-       version="21.5.8"
+       version="21.5.20"
        provider-name="[COLORgreen]• [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]•[/COLOR]">
   <requires>
-    <import addon="xbmc.python" version="2.26.0" />
+    <!-- <import addon="xbmc.python" version="2.26.0" /> -->
     <import addon="script.module.pycryptodome" />
     <import addon="script.module.dateutil" />
     <import addon="script.module.pyamf" />
@@ -1128,12 +1128,13 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
   </extension>
 </addon>
 
+
 <addon id="plugin.acme.swift"
        name="   [COLORspringgreen]Sw[/COLOR][COLORpalegreen]i[/COLOR][COLORlime]ft[/COLOR]"
-       version="21.5.8"
+       version="21.5.20"
        provider-name="[COLORgreen]• [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]•[/COLOR]">
   <requires>
-    <import addon="xbmc.python" version="2.26.0"/>
+    <!-- <import addon="xbmc.python" version="2.26.0" /> -->
     <import addon="script.module.pycryptodome" />
     <import addon="script.module.requests" />
     <import addon="script.module.kodi-six" />
@@ -1163,8 +1164,8 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
 </addon>
 
 <addon id="plugin.acme.tvnsports"
-       name="   [COLORspringgreen]ACME [/COLOR][COLORpalegreen]Tv [/COLOR][COLORlime]N [/COLOR][COLORspringgreen]Sports[/COLOR]"
-       version="21.5.8"
+       name="   [COLORspringgreen]Tv[/COLOR][COLORpalegreen]N[/COLOR][COLORlime]Sports[/COLOR]"
+       version="21.5.20"
        provider-name="[COLORgreen]• [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]•[/COLOR]">
     <requires>
         <import addon="script.module.beautifulsoup4" version="3.2.1"/>
@@ -1193,10 +1194,10 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
 
 <addon id="plugin.acme.tvtap"
        name="   [COLORspringgreen]Tv[/COLOR][COLORpalegreen]T[/COLOR][COLORlime]ap[/COLOR]"
-       version="21.5.8"
+       version="21.5.20"
        provider-name="[COLORgreen]• [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]•[/COLOR]">
   <requires>
-    <import addon="xbmc.python" version="2.26.0"/>
+    <!-- <import addon="xbmc.python" version="2.26.0" /> -->
     <import addon="script.module.pycryptodome" />
     <import addon="script.module.requests" />
     <import addon="script.module.kodi-six" />
@@ -1443,6 +1444,26 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
 
 </addon>
 
+<addon id="plugin.video.smr_link_tester" version="1.1.4" name="SMR Link Tester" provider-name="gujal">
+    <requires>
+        <!-- <import addon="xbmc.python" version="3.0.0"/> -->
+        <import addon="script.module.resolveurl"/>
+        <import addon="script.module.resolveurl.xxx"/>
+        <import addon="script.module.six" version="0.0.1"/>
+        <import addon="script.module.kodi-six" version="0.0.1"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>SMR Link Tester Addon</summary>
+        <description></description>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+	</extension>
+</addon>
 
 <addon
   id="plugin.video.SportsDevil"
