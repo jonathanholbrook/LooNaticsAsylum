@@ -2,12 +2,12 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>Free4All</layoutype>
 
-<item>
+<dir>
     <title>Name</title>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/test/1menu.xml</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
-</item>
+</dir>
 
 <plugin >
     <title>PLUTOTV KODI 18 ONLY</title>
