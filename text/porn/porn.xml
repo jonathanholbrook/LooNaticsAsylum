@@ -2,12 +2,12 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 
-<plugin>
+<item>
 <name>FluxusTV-XXX M3u List - Updated Monthly</name>
-<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/porn/fluxusadult.m3u&mode=1&name=LE</link>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/porn/fluxusadult.xml</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 
 <plugin >
 <name>Porn Parody Movies</name>
