@@ -2,6 +2,13 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>Free4All</layoutype>
 
+<dir>
+    <title>Name</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/test/1080.xml</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</dir>
+
 <plugin >
     <title>PLUTOTV KODI 18 ONLY</title>
     <link>plugin://plugin.video.pluto2tv/?mode=1</link>
