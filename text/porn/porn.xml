@@ -2,12 +2,12 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 
-<item>
+<dir>
 <name>FluxusTV-XXX M3u List - Updated Monthly</name>
 <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/porn/fluxusadult.xml</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
+</dir>
 
 <plugin >
 <name>Porn Parody Movies</name>
