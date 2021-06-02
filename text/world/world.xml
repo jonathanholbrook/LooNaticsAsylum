@@ -3,759 +3,759 @@
 <layoutype>GoFuckYourself</layoutype>
 
 
-<plugin>
+<dir>
     <title>Afghanistan</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/af.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/af.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/2000px-Flag_of_Afghanistan.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Albania</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/al.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/al.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/2000px-Flag_of_Albania.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Algeria</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/dz.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/dz.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/2000px-Flag_of_Algeria.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Andorra</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ad.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ad.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/243px-Flag_of_Andorra.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Angola</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ao.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ao.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/255px-Flag_of_Angola.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Argentina</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ar.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ar.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/2000px-Flag_of_Argentina.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Armenia</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/am.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/am.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/2000px-Flag_of_Armenia.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Aruba</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/aw.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/aw.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Aruba.svg/2000px-Flag_of_Aruba.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Australia</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/au.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/au.xml</link>
     <thumbnail>https://cdn.pixabay.com/photo/2012/04/11/15/42/victoria-28585_640.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Austria</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/at.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/at.xml</link>
     <thumbnail>https://cdn.webshopapp.com/shops/94414/files/53449172/austria-flag-image-free-download.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Azerbaijan</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/az.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/az.xml</link>
     <thumbnail>https://cdn.webshopapp.com/shops/94414/files/53480578/azerbaijan-flag-image-free-download.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Bahamas</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/bs.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/bs.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/1280px-Flag_of_the_Bahamas.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Bahrain</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/bh.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/bh.xml</link>
     <thumbnail>https://i.ebayimg.com/images/g/cFwAAMXQeKNTKcMU/s-l300.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Barbados</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/bb.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/bb.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/2000px-Flag_of_Barbados.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Belarus</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/by.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/by.xml</link>
     <thumbnail>https://cdn.pixabay.com/photo/2015/11/12/15/52/flag-1040528_960_720.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Belgium</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/be.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/be.xml</link>
     <thumbnail>https://images-na.ssl-images-amazon.com/images/I/21veganA4TL.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Bolivia</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/bo.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/bo.xml</link>
     <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51p1D7ZK1mL._SX425_.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Bosnia and Herzegovina</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ba.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ba.xml</link>
     <thumbnail>https://cdn.britannica.com/02/6202-004-E8117B4F.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Brazil</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/br.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/br.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Bulgaria</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/bg.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/bg.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/2000px-Flag_of_Bulgaria.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Cambodia</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/kh.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/kh.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Flag_of_Cambodia_vertical.svg/2000px-Flag_of_Cambodia_vertical.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Cameroon</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/cm.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/cm.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/2000px-Flag_of_Cameroon.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Canada</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ca.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ca.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canadian_Duality_Flag.svg/1200px-Canadian_Duality_Flag.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Chile</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/cl.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/cl.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2000px-Flag_of_Chile.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>China</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/cn.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/cn.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Colombia</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/co.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/co.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/255px-Flag_of_Colombia.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Costa Rica</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/cr.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/cr.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/255px-Flag_of_Costa_Rica_%28state%29.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Croatia</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/hr.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/hr.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/2000px-Flag_of_Croatia.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Cuba</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/cu.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/cu.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/2000px-Flag_of_Cuba.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Curaçao</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/cw.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/cw.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/2000px-Flag_of_Cura%C3%A7ao.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Cyprus</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/cy.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/cy.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/2000px-Flag_of_Cyprus.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Czech Republic</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/cz.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/cz.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/255px-Flag_of_the_Czech_Republic.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Democratic Republic of the Congo</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/cd.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/cd.xml</link>
     <thumbnail>https://www.carnegiecouncil.org/publications/ethics_online/0046/_res/id=Picture/feature_DRC_Flag.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Denmark</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/dk.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/dk.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/2000px-Flag_of_Denmark.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Dominican Republic</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/do.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/do.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/255px-Flag_of_the_Dominican_Republic.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Ecuador</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ec.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ec.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/2000px-Flag_of_Ecuador.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Egypt</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/eg.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/eg.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/255px-Flag_of_Egypt.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>El Salvador</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/sv.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/sv.xml</link>
     <thumbnail>https://www.flagsimporter.com/pub/media/catalog/product/cache/image/600x800/e9c3970ab036de70892d86c6d221abfe/e/l/el-salvador35_tn_1.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Equatorial Guinea</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/gq.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/gq.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/2000px-Flag_of_Equatorial_Guinea.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Estonia</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ee.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ee.xml</link>
     <thumbnail>https://www.flags-flagpoles-banners.co.uk/wp-content/uploads/2015/01/Estonia-flag.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Finland</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fi.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fi.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/2000px-Flag_of_Finland.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>France</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fr.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fr.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/250px-Flag_of_France.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Georgia</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ge.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ge.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/1200px-Flag_of_Georgia.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Germany</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/de.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/de.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1280px-Flag_of_Germany.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Ghana</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/gh.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/gh.xml</link>
     <thumbnail>https://www.bankingtech.com/files/2016/12/Ghana-flag.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Greece</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/gr.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/gr.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/2000px-Flag_of_Greece.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Guinea</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/gn.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/gn.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/2000px-Flag_of_Guinea.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Guyana</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/gy.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/gy.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/2000px-Flag_of_Guyana.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Haiti</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ht.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ht.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/2000px-Flag_of_Haiti.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Honduras</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/hn.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/hn.xml</link>
     <thumbnail>https://worthingtoncc.org/wp-content/uploads/hn.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Hong Kong</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/hk.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/hk.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/2000px-Flag_of_Hong_Kong.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Hungary</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/hu.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/hu.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Iceland</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/is.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/is.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/2000px-Flag_of_Iceland.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>India</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/in.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/in.xml</link>
     <thumbnail>https://i.redd.it/2zaqa12lfsp01.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Indonesia</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/id.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/id.xml</link>
     <thumbnail>https://cdn.britannica.com/48/1648-004-644EBE62.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Iran</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/if.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/if.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_Iran_%28official%29.svg/2000px-Flag_of_Iran_%28official%29.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Iraq</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/iq.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/iq.xml</link>
     <thumbnail>https://cdn.britannica.com/28/1728-004-EBF4B6FF/Flag-Iraq.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Ireland</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ie.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ie.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/en/0/02/IRL_FLAG.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Israel</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/il.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/il.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/1200px-Flag_of_Israel.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Italy</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/it.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/it.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/255px-Flag_of_Italy.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Ivory Coast</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ci.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ci.xml</link>
     <thumbnail>https://cdn.webshopapp.com/shops/94414/files/54034210/cote-d-ivoire-flag-image-free-download.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Jamaica</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/jm.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/jm.xml</link>
     <thumbnail>https://cdn.webshopapp.com/shops/94414/files/54035482/jamaica-image-free-download.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Japan</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/jp.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/jp.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Jordan</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/jo.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/jo.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/2000px-Flag_of_Jordan.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Kazakhstan</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/kz.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/kz.xml</link>
     <thumbnail>https://cdn.webshopapp.com/shops/94414/files/54039236/kazakhstan-image-free-download.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Kenya</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ke.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ke.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/2000px-Flag_of_Kenya.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Kosovo</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/kw.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/kw.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/2000px-Flag_of_Kosovo.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Kuwait</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/xk.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/xk.xml</link>
     <thumbnail>https://cdn.britannica.com/70/5770-004-ECEBEC3F.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Kyrgyzstan</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/kg.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/kg.xml</link>
     <thumbnail>https://cdn.webshopapp.com/shops/94414/files/54354956/kyrgyzstan-image-free-download.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Laos</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/la.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/la.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/2000px-Flag_of_Laos.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Latvia</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/lv.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/lv.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/2000px-Flag_of_Latvia.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Lebanon</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/lb.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/lb.xml</link>
     <thumbnail>https://cdn.webshopapp.com/shops/94414/files/54364360/lebanon-image-free-download.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Libya</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ly.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ly.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_King_Idris_I.svg/2000px-Flag_of_King_Idris_I.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Luxembourg</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/2000px-Flag_of_Luxembourg.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Macau</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/mo.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/mo.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/512px-Flag_of_Macau.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Macedonia</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/mk.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/mk.xml</link>
     <thumbnail>https://cdn.webshopapp.com/shops/94414/files/52403772/flag-of-macedonia-flag-of-the-republic-of-macedoni.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Malaysia</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/my.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/my.xml</link>
     <thumbnail>https://cdn.webshopapp.com/shops/94414/files/54369394/malaysia-image-free-download.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Maldives</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/mv.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/mv.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/2000px-Flag_of_Maldives.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Malta</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/mt.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/mt.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/255px-Flag_of_Malta.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Mexico</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/mx.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/mx.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2000px-Flag_of_Mexico.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Moldova</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/md.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/md.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/2000px-Flag_of_Moldova.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Morocco</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ma.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ma.xml</link>
     <thumbnail>https://www.worldatlas.com/r/w728-h425-c728x425/upload/8c/99/76/shutterstock-742638283.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Mozambique</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/mz.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/mz.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/2000px-Flag_of_Mozambique.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Myanmar</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/mm.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/mm.xml</link>
     <thumbnail>https://cdn.webshopapp.com/shops/94414/files/54592510/myanmar-flag-image-free-download.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Nepal</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/np.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/np.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag_of_Nepal_%28white_background%2C_aspect_ratio_3-2%29.svg/220px-Flag_of_Nepal_%28white_background%2C_aspect_ratio_3-2%29.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Netherlands</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/nl.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/nl.xml</link>
     <thumbnail>https://cdn.webshopapp.com/shops/94414/files/52408582/flag-of-the-netherlands.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>New Zealand</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/nz.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/nz.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/2000px-Flag_of_New_Zealand.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Nicaragua</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ni.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ni.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/2000px-Flag_of_Nicaragua.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Nigeria</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ng.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ng.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/2000px-Flag_of_Nigeria.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Russia</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ru.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ru.xml</link>
     <thumbnail>https://image.shutterstock.com/image-vector/russia-flag-vector-icon-260nw-549159163.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Saudi Arabia</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/sa.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/sa.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/2000px-Flag_of_Saudi_Arabia.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Serbia</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/sn.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/sn.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Serbia</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/rs.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/rs.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/2000px-Flag_of_Serbia.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Singapore</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/sg.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/sg.xml</link>
     <thumbnail>https://cdn.webshopapp.com/shops/94414/files/54943038/singapore-flag-image-free-download.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Slovakia</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/sk.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/sk.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/2000px-Flag_of_Slovakia.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Slovenia</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/si.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/si.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/255px-Flag_of_Slovenia.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Somalia</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/so.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/so.xml</link>
     <thumbnail>https://www.bestcustomflags.com/wp-content/uploads/2016/06/somalia-flag.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>South Africa</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/za.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/za.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/2000px-Flag_of_South_Africa.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>South Korea</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/kr.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/kr.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1200px-Flag_of_South_Korea.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Spain</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/es.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/es.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Sri Lanka</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/lk.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/lk.xml</link>
     <thumbnail>https://aaaipright.com/wp-content/uploads/2018/12/sri-lanka-zastava-fotowikimediaorg-9120b03a9ae0a43bac242569d56c1fdd_view_article_new.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Sudan</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/sd.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/sd.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/2000px-Flag_of_Sudan.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Sweden</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/se.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/se.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Union_Jack_of_Sweden_and_Norway_%281844-1905%29.svg/2000px-Union_Jack_of_Sweden_and_Norway_%281844-1905%29.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Switzerland</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ch.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ch.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Civil_Ensign_of_Switzerland.svg/1280px-Civil_Ensign_of_Switzerland.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Syria</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/sy.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/sy.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Syria_2011%2C_observed.svg/2000px-Flag_of_Syria_2011%2C_observed.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Taiwan</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/tw.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/tw.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/2000px-Flag_of_the_Republic_of_China.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Tajikistan</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/tj.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/tj.xml</link>
     <thumbnail>https://cdn.webshopapp.com/shops/94414/files/54946410/tajikistan-flag-image-free-download.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Tanzania</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/tz.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/tz.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/1280px-Flag_of_Tanzania.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Thailand</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/th.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/th.xml</link>
     <thumbnail>https://www.worldatlas.com/r/w728-h425-c728x425/upload/cc/c8/e0/shutterstock-93129790-1.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Trinidad and Tobago</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/tt.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/tt.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/2000px-Flag_of_Trinidad_and_Tobago.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Tunisia</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/tn.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/tn.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidential_Standard_of_Tunisia.svg/2000px-Presidential_Standard_of_Tunisia.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Turkey</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/tr.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/tr.xml</link>
     <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41ZpsKOBO6L._SL1200_.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Turkmenistan</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/tm.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/tm.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/2000px-Flag_of_Turkmenistan.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Uganda</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ug.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ug.xml</link>
     <thumbnail>https://ak6.picdn.net/shutterstock/videos/21707746/thumb/1.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Ukraine</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ua.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ua.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/2000px-Flag_of_Ukraine.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>United Arab Emirates</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ae.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ae.xml</link>
     <thumbnail>https://images2.pics4learning.com/catalog/u/unitedarabemiratesfl.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>United Kingdom</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/uk.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/uk.xml</link>
     <thumbnail>https://images-na.ssl-images-amazon.com/images/I/512-H5HhT6L._SX425_.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>United States</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/us.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/us.xml</link>
     <thumbnail>https://cdn.webshopapp.com/shops/94414/files/54958906/the-united-states-flag-image-free-download.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Uruguay</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/uy.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/uy.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1200px-Flag_of_Uruguay.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Uzbekistan</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/uz.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/uz.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/1280px-Flag_of_Uzbekistan.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Venezuela</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ve.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ve.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Flag_of_Venezuela_%28state%29.svg/1200px-Flag_of_Venezuela_%28state%29.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Vietnam</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/vn.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/vn.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/255px-Flag_of_Vietnam.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Virgin Islands of the United States</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/vi.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/vi.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Virgin_Islands.svg/1280px-Flag_of_the_United_States_Virgin_Islands.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Western Sahara</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/eh.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/eh.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/2000px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Yemen</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ye.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ye.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/2000px-Flag_of_Yemen.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
-<plugin>
+</dir>
+<dir>
     <title>Zimbabwe</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/zw.m3u&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/zw.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/2000px-Flag_of_Zimbabwe.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
-</plugin>
+</dir>
