@@ -1,7 +1,7 @@
 <addon id="plugin.video.le"
     name="   [COLORdeepskyblue]Loonatics [COLORblue]Empire[/COLOR]"
     provider-name="[COLORgreen]&#8226; [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]&#8226;[/COLOR]"
-    version="21.5.22">
+    version="21.6.2">
     <requires>
         <import addon="context.le" />
         <import addon="script.module.myaccounts" />
@@ -10,7 +10,6 @@
         <import addon="script.module.beautifulsoup4" />
         <import addon="script.module.six" />
         <import addon="script.module.kodi-six" />
-        <import addon="plugin.video.smr_link_tester" />
         <import addon="script.module.resolveurl" />
         <import addon="script.module.metahandler" optional="true" />
         <import addon="plugin.video.youtube" optional="true" />
