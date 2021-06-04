@@ -4,12 +4,12 @@
 
 <xml>
 
-<dir>
+<dir >
     <title>24/7 TvShows - Movies</title>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/24x7.xml</link>
     <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
-</dir>
+</dir >
 
 <dir>
     <title>Fluxus Tv - Updated Monthly</title>
