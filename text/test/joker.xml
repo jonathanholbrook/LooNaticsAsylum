@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>Joker</layoutype>
+
+<xml>
+
+<dir>
+<title>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</title>
+<thumbnail>special://home/addons/plugin.video.Joker/images/bemvindos2.gif</thumbnail>
+<link>https://www.paypal.com/paypalme/vilhao/</link>
+<fanart>https://i.imgur.com/RfS6c54.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Portugal TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</title>
+<thumbnail>special://home/addons/plugin.video.Joker/images/portugal.gif</thumbnail>
+<link>http://paste.zaltv.my.id/raw/jsroOy2SxI</link>
+<fanart>https://i.imgur.com/3EBSwTR.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Brasil TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</title>
+<thumbnail>special://home/addons/plugin.video.Joker/images/brasil1.gif</thumbnail>
+<fanart>https://i.imgur.com/0NCgstA.jpg</fanart>
+<link>http://paste.zaltv.my.id/raw/k5bFuCsprQ</link>
+</dir>
+
+<dir>
+<title>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Espanha TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</title>
+<thumbnail>special://home/addons/plugin.video.Joker/images/espanha.gif</thumbnail>
+<fanart>https://i.imgur.com/Qnx8j8S.jpg</fanart>
+<link>http://paste.zaltv.my.id/raw/FcjswIiNuK</link>
+</dir>
+
+<dir>
+<title>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Franca TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</title>
+<thumbnail>special://home/addons/plugin.video.Joker/images/france.gif</thumbnail>
+<fanart>https://i.imgur.com/rF5pkbD.jpg</fanart>
+<link>http://paste.zaltv.my.id/raw/GQW5Uh4Xrj</link>
+</dir>
+
+<dir>
+<title>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Italia[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</title>
+<thumbnail>special://home/addons/plugin.video.Joker/images/italy.gif</thumbnail>
+<fanart>https://i.imgur.com/wzkhC3x.jpg</fanart>
+<link>http://paste.zaltv.my.id/raw/UaR89aa3mx</link>
+</dir>
+
+<dir>
+<title>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Alemanha TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</title>
+<thumbnail>special://home/addons/plugin.video.Joker/images/germany.gif</thumbnail>
+<fanart>https://i.imgur.com/ua8jZXm.jpg</fanart>
+<link>http://paste.zaltv.my.id/raw/t7iTbFhAfI</link>
+</dir>
+
+<dir>
+<title>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]United Kingdom TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</title>
+<thumbnail>special://home/addons/plugin.video.Joker/images/uk.gif</thumbnail>
+<fanart>https://i.imgur.com/9ZJOcxv.jpg</fanart>
+<link>http://paste.zaltv.my.id/raw/OEpMNkIgsB</link>
+</dir>
+
+<dir>
+<title>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]America TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</title>
+<thumbnail>special://home/addons/plugin.video.Joker/images/usa.gif</thumbnail>
+<fanart>https://i.imgur.com/a6rDOSi.jpg</fanart>
+<link>http://paste.zaltv.my.id/raw/1JCksg8mSf</link>
+</dir>
+
+<dir>
+<title>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Latin America TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</title>
+<thumbnail>special://home/addons/plugin.video.Joker/images/latin america.gif</thumbnail>
+<fanart>https://i.imgur.com/eLKBE2P.jpg</fanart>
+<link>http://paste.zaltv.my.id/raw/mbga2e9eNg</link>
+</dir>
+
+<dir>
+<title>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Bein Media TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</title>
+<thumbnail>special://home/addons/plugin.video.Joker/images/desporto.gif</thumbnail>
+<fanart>https://i.imgur.com/GT07XPE.jpg</fanart>
+<link>http://paste.zaltv.my.id/raw/biwgHJwKTG</link>
+</dir>
+
+</xml>
