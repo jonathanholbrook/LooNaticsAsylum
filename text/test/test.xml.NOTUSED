@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-<layoutype>Free4All</layoutype>
+<layoutype>GoFuckYourSelf</layoutype>
 
 <dir>
     <title>Name</title>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/test/AllPTV.xml</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/test/NAME.xml</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
 </dir>
