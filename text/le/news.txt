@@ -2,14 +2,13 @@
 [COLOR yellow]--[/COLOR][I] Initial[/I]
 [COLOR yellow]--[/COLOR][I] Password for ADULT Cartoons / XXX: yen00L[/I]
 
-LooNatics Asylum Repo Url
+Additional support: please join me in TeleGram (DM) the following:
+[COLOR yellow]@Tech_E_Coyote[/COLOR]
+
+LooNatics Asylum Repo Url Kodi 18
 https://techecoyote.github.io/Install_LooNatics/
 
-LooNatics Asylum Matrix Repo Url
+LooNatics Asylum Matrix Repo Url Kodi 19 
 https://techecoyote.github.io/Install_LooNaticsMatrix/
 
-Additional support: please join me in TeleGram (DM) the following:
-
-@Tech_E_Coyote
-
-Loonatics Universal Empire
+Loonatics - The Laboratory
