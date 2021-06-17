@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>GoFuckYourSelf</layoutype>
+
+<dir>
+    <title>Nothing To See Here ...</title>
+    <link></link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</dir>
+
+<dir >
+    <title>Name</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/test/NAME.xml</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</dir >
+
+<plugin >
+    <title>PLUTOTV KODI 18 ONLY</title>
+    <link>plugin://plugin.video.pluto2tv/?mode=1</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</plugin >
