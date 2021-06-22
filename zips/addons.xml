@@ -913,8 +913,8 @@
 <addon
     id="context.le"
     name="   [COLORdeepskyblue]Loonatics [COLORblue]Empire [/COLOR][COLORlightsteelblue]Context[/COLOR]"
-    provider-name="[COLORgreen]• [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]•[/COLOR]"
-    version="21.5.22">
+    provider-name="[COLORgreen]&#8226; [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]&#8226;[/COLOR]"
+    version="21.6.20">
     <requires>
         <import addon="script.module.requests" version="2.19.1" />
     </requires>
@@ -940,10 +940,13 @@
             <item library="clearProviders.py">
                 <label>[B][COLOR deepskyblue]LE[/COLOR][/B] - Clear Providers</label>
                 <visible>
-                    !String.IsEmpty(Window(home).Property(context.le.clearProviders)) +
+                    [!String.IsEmpty(Window(home).Property(context.le.clearProviders)) +
                     String.StartsWith(ListItem.FolderPath,plugin://plugin.video.le/?action=play) +
                     String.IsEqual(ListItem.Property(isLE_widget),true) +
-                    [String.IsEqual(ListItem.dbtype,episode) | String.IsEqual(ListItem.dbtype,movie)]
+                    [String.IsEqual(ListItem.dbtype,episode) | String.IsEqual(ListItem.dbtype,movie)]] |
+                    [String.Contains(Container.FolderPath,videodb://) +
+                    [String.Contains(Container.ListItem.Path,Window(home).Property(le.movieLib.path)) | String.Contains(Container.ListItem.Path,Window(home).Property(le.tvLib.path))] +
+                    [String.IsEqual(ListItem.dbtype,episode) | String.IsEqual(ListItem.dbtype,movie)]]
                 </visible>
             </item>
             <item library="clearBookmark.py">
@@ -959,14 +962,18 @@
             <item library="rescrape.py">
                 <label>[B][COLOR deepskyblue]LE[/COLOR][/B] - Rescrape Item</label>
                 <visible>
-                    !String.IsEmpty(Window(home).Property(context.le.rescrape)) +
+                    [!String.IsEmpty(Window(home).Property(context.le.rescrape)) +
                     String.StartsWith(ListItem.FolderPath,plugin://plugin.video.le/?action=play) +
                     String.IsEqual(ListItem.Property(isLE_widget),true) +
+                    [String.IsEqual(ListItem.dbtype,episode) | String.IsEqual(ListItem.dbtype,movie)]]
+                </visible>
+            </item>
+            <item library="libRescrape.py">
+                <label>[B][COLOR deepskyblue]LE[/COLOR][/B] - Rescrape Lib Item</label>
+                <visible>
+                    String.Contains(Container.FolderPath,videodb://) +
+                    [String.Contains(Container.ListItem.Path,Window(home).Property(le.movieLib.path)) | String.Contains(Container.ListItem.Path,Window(home).Property(le.tvLib.path))] +
                     [String.IsEqual(ListItem.dbtype,episode) | String.IsEqual(ListItem.dbtype,movie)]
-<!-- Future for Library CM to Rescrape -->
-<!--                    !String.IsEmpty(Window(home).Property(context.le.rescrape)) + -->
-<!--                    [String.Contains(ListItem.Path,plugin.video.le) + String.IsEqual(ListItem.FileExtension,strm) | String.StartsWith(ListItem.FolderPath,plugin://plugin.video.le/?action=play)] + -->
-<!--                    [String.IsEqual(ListItem.dbtype,episode) | String.IsEqual(ListItem.dbtype,movie)] -->
                 </visible>
             </item>
             <item library="playFromHere.py">
@@ -981,7 +988,7 @@
             <item library="autoPlay.py">
                 <label>[B][COLOR deepskyblue]LE[/COLOR][/B] - Auto Play</label>
                 <visible>
-                    String.IsEmpty(Window(home).Property(plugin.video.le.autoPlay)) +
+                    String.IsEmpty(Window(home).Property(le.autoPlay.enabled)) +
                     !String.IsEmpty(Window(home).Property(context.le.autoPlay)) +
                     String.StartsWith(ListItem.FolderPath,plugin://plugin.video.le/?action=play) +
                     String.IsEqual(ListItem.Property(isLE_widget),true) +
@@ -991,7 +998,7 @@
             <item library="sourceSelect.py">
                 <label>[B][COLOR deepskyblue]LE[/COLOR][/B] - Source Select</label>
                 <visible>
-                    !String.IsEmpty(Window(home).Property(plugin.video.le.autoPlay)) +
+                    !String.IsEmpty(Window(home).Property(le.autoPlay.enabled)) +
                     !String.IsEmpty(Window(home).Property(context.le.sourceSelect)) +
                     String.StartsWith(ListItem.FolderPath,plugin://plugin.video.le/?action=play) +
                     String.IsEqual(ListItem.Property(isLE_widget),true) +
@@ -1029,23 +1036,20 @@
     </extension>
     <extension point="xbmc.service" library="service.py" />
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">LE - This Addon is currently in beta. Please be aware there may be bugs present</summary>
-        <description lang="en">Adds Global Contextual Menu Items for LE menu items throughout Kodi</description>
+        <summary lang="en">[COLORwhite]Loonatics Empire Context[/COLOR]</summary>
+        <description>[COLORwhite]Loonatics Empire Context[/COLOR]</description>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
         <forum></forum>
-        <website>https://github.com/123LE/context.le</website>
-        <source>https://github.com/123LE/context.le</source>
+        <website></website>
+        <source></source>
         <disclaimer lang="en"></disclaimer>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
             <screenshot></screenshot>
         </assets>
-        <news>
-[B][COLOR deepskyblue]Update - v1.1.5 - May 21, 2021[/COLOR][/B]
-[COLOR yellow]--[/COLOR][I] Fixed "Browse Series" and "Play from Here".[/I]
-        </news>
+        <news></news>
     </extension>
 </addon>
 
@@ -1530,7 +1534,7 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
 <addon id="plugin.video.le"
     name="   [COLORdeepskyblue]Loonatics [COLORblue]Empire[/COLOR]"
     provider-name="[COLORgreen]&#8226; [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]&#8226;[/COLOR]"
-    version="21.6.2">
+    version="21.6.20">
     <requires>
         <import addon="context.le" />
         <import addon="script.module.myaccounts" />
