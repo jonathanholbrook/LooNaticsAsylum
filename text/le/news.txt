@@ -9,7 +9,7 @@ Additional support: please join me in TeleGram (DM) the following:
 https://t.me/joinchat/ZStsjkzmbFg2YTE5
 
 [COLORspringgreen]@Tech_[/COLOR][COLORpalegreen]E_[/COLOR][COLORlime]Coyote[COLORgreen][/COLOR]
-
+[COLORdeepskyblue]
 LooNatics Asylum Repo Url Kodi 18
 https://techecoyote.github.io/Install_LooNatics/
 
@@ -17,3 +17,4 @@ LooNatics Asylum Matrix Repo Url Kodi 19
 https://techecoyote.github.io/Install_LooNaticsMatrix/
 
 Loonatics - The Laboratory
+[/COLOR]
