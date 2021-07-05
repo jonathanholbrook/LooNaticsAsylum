@@ -9,16 +9,23 @@
     <fanart></fanart>
 </dir>
 
-<dir >
-    <title>Name</title>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/test/NAME.xml</link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-</dir >
+<item>
+<title>Witch Hunt (2021) 1080p</title>
+<link>magnet:?xt=urn:btih:4ae372c34605f649763b1e7b4105d07a1c9a9803</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/18lFnHOqanZTLWt5wVEq5HXCkTi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pCaT6cxPBeywQdXS1RzOT35BT90.jpg</fanart>
+</item>
 
-<plugin >
-    <title>PLUTOTV KODI 18 ONLY</title>
-    <link>plugin://plugin.video.pluto2tv/?mode=1</link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-</plugin >
+<item>
+<title>Boss Moves (2021) 1080p</title>
+<link>magnet:?xt=urn:btih:5DA958DBC083BFEFC8885AF64327BC00B2DDEEF2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/18mL7RGrZDVjEqw7eGbtHsRAdpY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/18mL7RGrZDVjEqw7eGbtHsRAdpY.jpg</fanart>
+</item>
+
+<item>
+<title>Werewolves Within (2021) 1080p</title>
+<link>magnet:?xt=urn:btih:98C89FBBFC9CFFF49DCDF9615634874D6C24327E</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/WoG2tvwanOMlU0qsbxpf9Qd3y.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n0aylHJHFVqdnTSoQ40eH0uttq0.jpg</fanart>
+</item>
