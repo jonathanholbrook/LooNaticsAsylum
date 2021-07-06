@@ -11,7 +11,11 @@
 
 <item>
 <title>Hitman</title>
-<link>http://vidembed.net/streaming.php?id=MzQ0Mzgz&title=The+Hitman%27s+Wife%27s+Bodyguard&typesub=SUB&sub=&cover=Y292ZXIvdGhlLWhpdG1hbnMtd2lmZXMtYm9keWd1YXJkLnBuZw==</link>
+<link>
+<sublink>http://vidembed.net/streaming.php?id=MzQ0Mzgz&title=The+Hitman%27s+Wife%27s+Bodyguard&typesub=SUB&sub=&cover=Y292ZXIvdGhlLWhpdG1hbnMtd2lmZXMtYm9keWd1YXJkLnBuZw==</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
