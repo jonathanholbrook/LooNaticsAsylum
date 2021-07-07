@@ -4,12 +4,26 @@
 
 <xml>
 
-<dir >
-    <title>24/7 TvShows - Movies</title>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/24x7.xml</link>
+<dir>
+    <title>Pluto</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/pluto.xml</link>
     <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
-</dir >
+</dir>
+
+<dir>
+    <title>SamSung </title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/samsung.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
+</dir>
+
+<dir>
+    <title>Stirr</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/stirr.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
+</dir>
 
 <dir>
     <title>Fluxus Tv - Updated Monthly</title>
@@ -18,63 +32,63 @@
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
 </dir>
 
-<dir>
+<dir >
     <title>United States</title>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/us.xml</link>
     <thumbnail>https://cdn.webshopapp.com/shops/94414/files/54958906/the-united-states-flag-image-free-download.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
 </dir>
 
-<dir>
+<dir >
     <title>United Kingdom</title>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/uk.xml</link>
     <thumbnail>https://images-na.ssl-images-amazon.com/images/I/512-H5HhT6L._SX425_.jpg</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
 </dir>
 
-<dir>
+<dir >
     <title>Canada</title>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/ca.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canadian_Duality_Flag.svg/1200px-Canadian_Duality_Flag.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
 </dir>
 
-<dir>
+<dir >
     <title>Australia</title>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/au.xml</link>
     <thumbnail>https://cdn.pixabay.com/photo/2012/04/11/15/42/victoria-28585_640.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
 </dir>
 
-<dir>
+<dir >
     <title>Brazil</title>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/br.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
 </dir>
 
-<dir>
+<dir >
     <title>Colombia</title>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/co.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/255px-Flag_of_Colombia.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
 </dir>
 
-<dir>
+<dir >
     <title>Greece</title>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/gr.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/2000px-Flag_of_Greece.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
 </dir>
 
-<dir>
+<dir >
     <title>Mexico</title>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/mx.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2000px-Flag_of_Mexico.svg.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/fanart.jpg</fanart>
 </dir>
 
-<dir>
+<dir >
     <title>Spain</title>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/world/es.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png</thumbnail>
