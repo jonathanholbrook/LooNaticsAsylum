@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.loonaticsasylummatrix"
+       name="  [COLORspringgreen]L[COLORpalegreen]o[COLORlime]o[COLORred]N[COLORcrimson]a[COLORmediumpurple]t[COLORmediumorchid]i[COLORorangered]c[COLORorange]s [COLORdeepskyblue]Asylum[/COLOR] [COLORblue]Matrix[/COLOR] [COLORlightsteelblue]Repo[/COLOR]"
+       version="21.5.22"
+       provider-name="[COLORgreen]• [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]•[/COLOR]">
+    <extension point="xbmc.addon.repository" name="Loonatics Asylum Repository">
+        <dir><!--LooNaticsAsylumMatrix-->
+            <info compressed="false">https://raw.githubusercontent.com/techecoyote/LooNaticsAsylumMatrix/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylumMatrix/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/techecoyote/LooNaticsAsylumMatrix/master/zips/</datadir>
+        </dir>
+        <dir><!--MyAccounts-->
+            <info compressed="false">https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/</datadir>
+        </dir>
+        <dir><!--FenomScrapers-->
+            <info compressed="false">https://raw.githubusercontent.com/mr-kodi/repository.fenomscrapers/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/mr-kodi/repository.fenomscrapers/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/mr-kodi/repository.fenomscrapers/master/zips/</datadir>
+        </dir>
+        <dir><!--SlyGuyTV-->
+            <info compressed="false">https://k.slyguy.xyz/.repo/addons.xml</info>
+            <checksum>https://k.slyguy.xyz/.repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://k.slyguy.xyz/.repo/</datadir>
+        </dir>
+    <dir minversion="18.9.1"><!--SlyGuyInputStreamsAdaptiveTesting-->
+      <info compressed="false">https://raw.githubusercontent.com/johnny5-is-alive/iat-repo/master/main/matrix/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/johnny5-is-alive/iat-repo/master/main/matrix/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/johnny5-is-alive/iat-repo/master/main/matrix/</datadir>
+    </dir>
+        <dir><!--ResolveUrl-->
+            <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+        </dir>
+        <dir>
+            <info compressed="false">https://raw.github.com/Gujal00/GujalKodiWork/master/addons.xml</info>
+            <checksum>https://raw.github.com/Gujal00/GujalKodiWork/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.github.com/Gujal00/GujalKodiWork/master/zips/</datadir>
+        </dir>
+        <dir minversion="18.9.0"><!--jurialmunkeySMRResolver-->
+            <info compressed="false">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/matrix/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>[COLORspringgreen]L[COLORpalegreen]o[COLORlime]o[COLORred]N[COLORcrimson]a[COLORmediumpurple]t[COLORmediumorchid]i[COLORorangered]c[COLORorange]s [COLORdeepskyblue]Asylum[/COLOR] [COLORblue]Repo[/COLOR]</summary>
+        <description>[COLORspringgreen]L[COLORpalegreen]o[COLORlime]o[COLORred]N[COLORcrimson]a[COLORmediumpurple]t[COLORmediumorchid]i[COLORorangered]c[COLORorange]s [COLORdeepskyblue]Asylum[/COLOR] [COLORblue]Repo[/COLOR]</description>
+        <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+    </extension>
+</addon>

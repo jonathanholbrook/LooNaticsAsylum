@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.dcvmarvel" name="DC vc Marvel" version="0.2" provider-name="BigRich">
+	<extension point="xbmc.addon.repository" name="DC vs Marvel Repo">
+		<info compressed="false">http://dcvmarvelbuild.co.uk/Repo/addons.xml</info>
+		<checksum>http://dcvmarvelbuild.co.uk/Repo/addons.xml.md5</checksum>
+		<datadir zip="true">http://dcvmarvelbuild.co.uk/Repo/</datadir>
+        <dir>
+ <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+ <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">DC vs Marvel Repo</summary>
+		<description lang="en_GB">DC vs Marvel From BigRich</description>
+		<disclaimer lang="en_GB">DC vs Marvel</disclaimer>
+	<platform>all</platform>
+	<language>en</language>
+	<license>GNU GENERAL PUBLIC LICENSE Version 2</license>
+	<email></email>
+	</extension>
+</addon>
