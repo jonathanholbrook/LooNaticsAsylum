@@ -2,7 +2,7 @@
 <addons>
 <addon id="repository.loonaticsasylum"
        name="  [COLORspringgreen]L[COLORpalegreen]o[COLORlime]o[COLORred]N[COLORcrimson]a[COLORmediumpurple]t[COLORmediumorchid]i[COLORorangered]c[COLORorange]s [COLORdeepskyblue]Asylum[/COLOR] [COLORblue]Repo[/COLOR]"
-       version="21.5.12"
+       version="21.7.13"
        provider-name="[COLORgreen]• [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]•[/COLOR]">
     <extension point="xbmc.addon.repository" name="Loonatics Asylum Repository">
         <dir><!--LoonaticsAsylum-->
@@ -29,11 +29,6 @@
             <info compressed="false">https://k.slyguy.xyz/.repo/addons.xml</info>
             <checksum>https://k.slyguy.xyz/.repo/addons.xml.md5</checksum>
             <datadir zip="true">https://k.slyguy.xyz/.repo/</datadir>
-        </dir>
-        <dir maxversion="18.9.0"><!--SlyGuyInputStreams-->
-            <info compressed="false">https://raw.githubusercontent.com/johnny5-is-alive/iat-repo/master/main/leia/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/johnny5-is-alive/iat-repo/master/main/leia/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/johnny5-is-alive/iat-repo/master/main/leia/</datadir>
         </dir>
         <dir><!--OpenScrapers-->
             <info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml</info>
@@ -231,29 +226,6 @@
 		<description>Gujal Addons Repository</description>
 		<platform>all</platform>
 	</extension>
-</addon>
-
-<addon id="repository.inputstream.adaptive.testing" name="Inputstream Adaptive Testing Repository" provider-name="" version="0.0.3">
-  <extension point="xbmc.addon.repository" name="Inputstream Adaptive Testing Repository">
-    <dir maxversion="18.9.0">
-      <info compressed="false">https://raw.githubusercontent.com/johnny5-is-alive/iat-repo/master/main/leia/addons.xml</info>
-      <checksum>https://raw.githubusercontent.com/johnny5-is-alive/iat-repo/master/main/leia/addons.xml.md5</checksum>
-      <datadir zip="true">https://raw.githubusercontent.com/johnny5-is-alive/iat-repo/master/main/leia/</datadir>
-    </dir>
-    <dir minversion="18.9.1">
-      <info compressed="false">https://raw.githubusercontent.com/johnny5-is-alive/iat-repo/master/main/matrix/addons.xml</info>
-      <checksum>https://raw.githubusercontent.com/johnny5-is-alive/iat-repo/master/main/matrix/addons.xml.md5</checksum>
-      <datadir zip="true">https://raw.githubusercontent.com/johnny5-is-alive/iat-repo/master/main/matrix/</datadir>
-    </dir>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <platform>windows android osx-x86_64 windowsstore</platform>
-    <description lang="en">Inputstream Adaptive Testing Repository</description>
-    <license></license>
-    <language></language>
-    <website></website>
-    <news></news>
-  </extension>
 </addon>
 
 <addon id="repository.jsergio" name="jsergio repo" version="1.0.4" provider-name="jsergio">
