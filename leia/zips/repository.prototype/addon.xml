@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.prototype" name="Prototype-Repo" version="1.0.10" provider-name="Cable">
+<addon id="repository.prototype" name="Prototype-Repo" version="1.0.14" provider-name="Cable">
 	<extension point="xbmc.addon.repository" name="Prototype-Repo">
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/elijahcarasco/prototype/main/plugins/addons.xml</info>
@@ -21,6 +21,11 @@
 			<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
 	    </dir>
+		<dir>
+	        <info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml</info>
+	        <checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml.md5</checksum>
+	        <datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/</datadir>
+		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary></summary>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.encryptic" name="EnCryptic Repository" provider-name="Boogeyman" version="1.0.10">
+  <extension point="xbmc.addon.repository" name="EnCryptic Repository">
+    <dir>
+      <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+    </dir>
+	<dir>
+      <info compressed="false">http://cf368ff.online-server.cloud/encryptic/zips/addons.xml</info>
+      <checksum>http://cf368ff.online-server.cloud/encryptic/zips/addons.xml.md5</checksum>
+      <datadir zip="true">http://cf368ff.online-server.cloud/encryptic/zips/</datadir>
+	</dir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <description lang="en_GB">EnCryptic</description>
+    <license></license>
+    <language></language>
+    <website></website>
+    <news></news>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets> 
+  </extension>
+</addon>
