@@ -95,12 +95,12 @@
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
 </plugin>
 
-<dir>
+<plugin>
     <title>Parody Movies</title>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/porn/BWPARODY.xml</link>
+    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/porn/BWPARODY.xml</link>
     <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
-</dir>
+</plugin>
 
 </xml>
 https://vk.com/doc648249689_602183766?hash=0df199ac45d0cd98d1&dl=f710e889a9195be249
