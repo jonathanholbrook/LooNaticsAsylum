@@ -90,17 +90,17 @@
 
 <dir>
     <title>24/7 Tv Shows</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/247.m3u8&mode=2&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/247.xml</link>
     <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
 </dir>
 
-<dir>
+<dir >
     <title>Parody Movies</title>
-    <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/porn/BWPARODY.xml&mode=1&name=LE</link>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/porn/BWPARODY.xml</link>
     <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
-</dir>
+</dir >
 
 </xml>
 https://vk.com/doc648249689_602183766?hash=0df199ac45d0cd98d1&dl=f710e889a9195be249
