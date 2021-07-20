@@ -1028,7 +1028,7 @@ provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen
 <addon id="plugin.video.le"
     name="   [COLORdeepskyblue]Loonatics [COLORblue]Empire[/COLOR]"
     provider-name="[COLORgreen]&#8226; [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]&#8226;[/COLOR]"
-    version="21.6.20">
+    version="21.7.20">
     <requires>
         <import addon="context.le" />
         <import addon="script.module.myaccounts" />
