@@ -352,7 +352,7 @@
 
 <addon id="plugin.acme.swift"
        name="   [COLORspringgreen]Sw[/COLOR][COLORpalegreen]i[/COLOR][COLORlime]ft[/COLOR]"
-       version="21.5.20"
+       version="21.7.25"
        provider-name="[COLORgreen]• [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]•[/COLOR]">
   <requires>
     <!-- <import addon="xbmc.python" version="2.26.0" /> -->
