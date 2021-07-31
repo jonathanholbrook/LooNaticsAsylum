@@ -16,6 +16,20 @@
     <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/fanart.jpg</fanart>
 </dir>
 
+<dir>
+    <title>Test 1clicks</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/test/oneclicks.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/icon.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <title>Test Horror</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/test/horrorrd.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/icon.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/fanart.jpg</fanart>
+</dir>
+
 <item>
 <title>Witch Hunt (2021) 1080p</title>
 <link>magnet:?xt=urn:btih:4ae372c34605f649763b1e7b4105d07a1c9a9803</link>
