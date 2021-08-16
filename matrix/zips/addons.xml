@@ -77,6 +77,38 @@
     </extension>
 </addon>
 
+<addon id="plugin.program.acme19"
+       name="[B][COLOR deepskyblue]A[/COLOR][/B][B][COLOR blue]C[/COLOR][/B][B][COLOR deepskyblue]M[/COLOR][/B][B][COLOR blue]E[/COLOR][/B] [COLOR deepskyblue]19[/COLOR] [COLOR blue]Wizard[/COLOR]"
+       version="21.8.15"
+       provider-name="[COLORgreen]• [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]•[/COLOR]">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+        <import addon="script.module.requests" />
+        <import addon="script.module.six" />
+        <import addon="script.kodi.android.update" optional="true" version="1.1.7" />
+        <import addon="script.speedtester" optional="true" version="1.1.2" />
+    </requires>
+
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+    </extension>
+
+    <extension point="xbmc.service" library="startup.py" start="startup" />
+
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">[B][COLOR deepskyblue]A[/COLOR][/B][B][COLOR blue]C[/COLOR][/B][B][COLOR deepskyblue]M[/COLOR][/B][B][COLOR blue]E[/COLOR][/B] [COLOR deepskyblue]19[/COLOR] [COLOR blue]Wizard[/COLOR]</summary>
+        <description lang="en">[B][COLOR deepskyblue]A[/COLOR][/B][B][COLOR blue]C[/COLOR][/B][B][COLOR deepskyblue]M[/COLOR][/B][B][COLOR blue]E[/COLOR][/B] [COLOR deepskyblue]19[/COLOR] [COLOR blue]Wizard[/COLOR]</description>
+        <platform>all</platform>
+        <reuselanguageinvoker>false</reuselanguageinvoker>
+        <source></source>
+        <news></news>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.png</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.video.le"
     name="   [COLORdeepskyblue]Loonatics [COLORblue]Empire[/COLOR]"
     provider-name="[COLORgreen]&#8226; [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]&#8226;[/COLOR]"
