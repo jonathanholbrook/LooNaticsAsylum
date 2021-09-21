@@ -8,10 +8,3 @@
     <thumbnail></thumbnail>
     <fanart></fanart>
 </dir>
-
-<dir>
-    <title>Test 1clicks</title>
-    <link>https://raw.githubusercontent.com/m3atp1zza/OffSpringRepo/main/text/oneclicks.xml</link>
-    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/icon.png</thumbnail>
-    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/fanart.jpg</fanart>
-</dir>
