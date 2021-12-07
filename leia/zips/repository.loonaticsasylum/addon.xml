@@ -14,11 +14,6 @@
             <checksum>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/matrix/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/matrix/zips/</datadir>
         </dir>
-        <dir><!--MyAccounts-->
-            <info compressed="false">https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/</datadir>
-        </dir>
         <dir><!--SlyGuyTV-->
             <info compressed="false">https://k.slyguy.xyz/.repo/addons.xml</info>
             <checksum>https://k.slyguy.xyz/.repo/addons.xml.md5</checksum>
