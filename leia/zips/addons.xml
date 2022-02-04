@@ -2,7 +2,7 @@
 <addons>
 <addon id="repository.loonaticsasylum"
        name="  [COLORspringgreen]L[COLORpalegreen]o[COLORlime]o[COLORred]N[COLORcrimson]a[COLORmediumpurple]t[COLORmediumorchid]i[COLORorangered]c[COLORorange]s [COLORdeepskyblue]Asylum[/COLOR] [COLORblue]Repo[/COLOR]"
-       version="21.12.6"
+       version="21.2.4"
        provider-name="[COLORgreen]• [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]•[/COLOR]">
     <extension point="xbmc.addon.repository" name="Loonatics Asylum Repository">
         <dir minversion="18.0" maxversion="18.9.0"><!--LoonaticsAsylum LEIA-->
@@ -65,50 +65,6 @@
         <fanart>fanart.jpg</fanart>
     </assets>
     </extension>
-</addon>
-
-    <addon id="repository.420clubhousev2" name="420 Clubhouse Repo" version="2.3" provider-name="Team2wacked">
-        <requires>
-            <import addon="xbmc.addon" version="12.0.0"/>
-        </requires>
-        <extension point="xbmc.addon.repository" name="420 Clubhouse Repo">
-            <info compressed="false">http://team2wacked.xyz/_Clubhouse/addons.xml</info>
-            <checksum>http://team2wacked.xyz/_Clubhouse/addons.xml.md5</checksum>
-            <datadir zip="true">http://team2wacked.xyz/_Clubhouse/</datadir>
-            <hashes>false</hashes>
-        </extension>
-        <extension point="xbmc.addon.metadata">
-            <summary>Repo for the 420 CLUBHOUSE addon</summary>
-            <description>Repo for the 420 CLUBHOUSE addon</description>
-            <platform>all</platform>
-    </extension>
-</addon>
-
-<addon id="repository.encryptic" name="EnCryptic Repository" provider-name="Boogeyman" version="1.0.10">
-  <extension point="xbmc.addon.repository" name="EnCryptic Repository">
-    <dir>
-      <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
-      <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
-      <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
-    </dir>
-	<dir>
-      <info compressed="false">http://cf368ff.online-server.cloud/encryptic/zips/addons.xml</info>
-      <checksum>http://cf368ff.online-server.cloud/encryptic/zips/addons.xml.md5</checksum>
-      <datadir zip="true">http://cf368ff.online-server.cloud/encryptic/zips/</datadir>
-	</dir>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
-    <description lang="en_GB">EnCryptic</description>
-    <license></license>
-    <language></language>
-    <website></website>
-    <news></news>
-    <assets>
-      <icon>icon.png</icon>
-      <fanart>fanart.jpg</fanart>
-    </assets> 
-  </extension>
 </addon>
 
 <addon id="repository.gujal" name="Gujal Addons Repository" version="2.0.0" provider-name="gujal">
@@ -205,26 +161,6 @@
     </extension>
 </addon>
 
-<addon id="repository.Lumberjack" name="Lumberjack Repository" version="2.2" provider-name="Paul Bunyan">
-	<extension point="xbmc.addon.repository" name="Lumberjack Repository">
-		    <dir>
-				<info compressed="false">https://axeandsledge.xyz/repository/addons.xml</info>
-			    <checksum>https://axeandsledge.xyz/repository/addons.xml.md5</checksum>
-				<datadir zip="true">https://axeandsledge.xyz/repository/files/</datadir>
-			</dir>
-			<dir>
-				<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
-				<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
-				<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
-			</dir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>Lumberjack Repository</summary>
-		<description>Lumberjack Repository</description>
-		<platform>all</platform>
-	</extension>
-</addon>
-
 <addon id="repository.openscrapers" name="OpenScrapers Repository" version="1.0" provider-name="A4K">
 	<extension point="xbmc.addon.repository" name="OpenScrapers Repository">
 		<dir>
@@ -238,45 +174,6 @@
 		<description>The official repo for OpenScrapers!.</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
-	</extension>
-</addon>
-
-<addon id="repository.prototype" name="Prototype-Repo" version="1.0.14" provider-name="Cable">
-	<extension point="xbmc.addon.repository" name="Prototype-Repo">
-		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/elijahcarasco/prototype/main/plugins/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/elijahcarasco/prototype/main/plugins/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/elijahcarasco/prototype/main/plugins</datadir>
-		</dir>
-		<dir>
-			<info compressed="false">http://cf368ff.online-server.cloud/symbo/par/zips/addons.xml</info>
-			<checksum>http://cf368ff.online-server.cloud/symbo/par/zips/addons.xml.md5</checksum>
-			<datadir zip="true">http://cf368ff.online-server.cloud/symbo/par/zips/</datadir>
-		</dir>
-		<dir>
-			<info compressed="false">http://cf368ff.online-server.cloud/symbo/scripts/zips/addons.xml</info>
-			<checksum>http://cf368ff.online-server.cloud/symbo/scripts/zips/addons.xml.md5</checksum>
-			<datadir zip="true">http://cf368ff.online-server.cloud/symbo/scripts/zips/</datadir>
-		</dir>
-        <dir>
-			<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
-	    </dir>
-		<dir>
-	        <info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml</info>
-	        <checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml.md5</checksum>
-	        <datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/</datadir>
-		</dir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary></summary>
-		<description></description>
-		<disclaimer></disclaimer>
-		<website></website>
-		<forum></forum>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
 	</extension>
 </addon>
 
